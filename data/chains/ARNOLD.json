@@ -1,0 +1,108 @@
+{
+ "identifier": "ARNOLD",
+ "chains": {
+  "who is": [
+   {
+    "probability": 1,
+    "value": "your",
+    "count": 1
+   }
+  ],
+  "is your": [
+   {
+    "probability": 1,
+    "value": "daddy",
+    "count": 1
+   }
+  ],
+  "your daddy": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "daddy, ": [
+   {
+    "probability": 1,
+    "value": "and",
+    "count": 1
+   }
+  ],
+  ", and": [
+   {
+    "probability": 1,
+    "value": "what",
+    "count": 1
+   }
+  ],
+  "and what": [
+   {
+    "probability": 1,
+    "value": "does",
+    "count": 1
+   }
+  ],
+  "what does": [
+   {
+    "probability": 1,
+    "value": "he",
+    "count": 1
+   }
+  ],
+  "does he": [
+   {
+    "probability": 1,
+    "value": "do",
+    "count": 1
+   }
+  ],
+  "he do": [
+   {
+    "probability": 1,
+    "value": "?",
+    "count": 1
+   }
+  ],
+  "you want": [
+   {
+    "probability": 1,
+    "value": "to",
+    "count": 1
+   }
+  ],
+  "want to": [
+   {
+    "probability": 1,
+    "value": "fuck",
+    "count": 1
+   }
+  ],
+  "to fuck": [
+   {
+    "probability": 1,
+    "value": "with",
+    "count": 1
+   }
+  ],
+  "fuck with": [
+   {
+    "probability": 1,
+    "value": "me",
+    "count": 1
+   }
+  ],
+  "with me": [
+   {
+    "probability": 1,
+    "value": "?",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "who is",
+  "you want"
+ ],
+ "endKeys": []
+}

@@ -1,0 +1,108 @@
+{
+ "identifier": "PATRICIA",
+ "chains": {
+  "oh wow": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "wow, ": [
+   {
+    "probability": 1,
+    "value": "so",
+    "count": 1
+   }
+  ],
+  ", so": [
+   {
+    "probability": 1,
+    "value": "that's",
+    "count": 1
+   }
+  ],
+  "so that's": [
+   {
+    "probability": 1,
+    "value": "why",
+    "count": 1
+   }
+  ],
+  "that's why": [
+   {
+    "probability": 1,
+    "value": "they",
+    "count": 1
+   }
+  ],
+  "why they": [
+   {
+    "probability": 1,
+    "value": "call",
+    "count": 1
+   }
+  ],
+  "they call": [
+   {
+    "probability": 1,
+    "value": "it",
+    "count": 1
+   }
+  ],
+  "call it": [
+   {
+    "probability": 1,
+    "value": "the",
+    "count": 1
+   }
+  ],
+  "it the": [
+   {
+    "probability": 1,
+    "value": "blues",
+    "count": 1
+   }
+  ],
+  "the blues": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "did i": [
+   {
+    "probability": 1,
+    "value": "get",
+    "count": 1
+   }
+  ],
+  "i get": [
+   {
+    "probability": 1,
+    "value": "the",
+    "count": 1
+   }
+  ],
+  "get the": [
+   {
+    "probability": 1,
+    "value": "part",
+    "count": 1
+   }
+  ],
+  "the part": [
+   {
+    "probability": 1,
+    "value": "?",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "oh wow",
+  "did i"
+ ],
+ "endKeys": []
+}

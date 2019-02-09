@@ -1,0 +1,202 @@
+{
+ "identifier": "ELLIE",
+ "chains": {
+  "i won": [
+   {
+    "probability": 1,
+    "value": "?",
+    "count": 1
+   }
+  ],
+  "this is": [
+   {
+    "probability": 1,
+    "value": "awesome",
+    "count": 1
+   }
+  ],
+  "is awesome": [
+   {
+    "probability": 1,
+    "value": "!",
+    "count": 1
+   }
+  ],
+  "i appreciate": [
+   {
+    "probability": 1,
+    "value": "the",
+    "count": 4
+   }
+  ],
+  "appreciate the": [
+   {
+    "probability": 1,
+    "value": "gift",
+    "count": 4
+   }
+  ],
+  "the gift": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 4
+   }
+  ],
+  "gift, ": [
+   {
+    "probability": 1,
+    "value": "but",
+    "count": 4
+   }
+  ],
+  ", but": [
+   {
+    "probability": 1,
+    "value": "alas",
+    "count": 4
+   }
+  ],
+  "but alas": [
+   {
+    "probability": 0.75,
+    "value": "can't",
+    "count": 3
+   },
+   {
+    "probability": 0.25,
+    "value": "cannot",
+    "count": 1
+   }
+  ],
+  "alas can't": [
+   {
+    "probability": 1,
+    "value": "keep",
+    "count": 3
+   }
+  ],
+  "can't keep": [
+   {
+    "probability": 1,
+    "value": "it",
+    "count": 3
+   }
+  ],
+  "keep it": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 4
+   }
+  ],
+  "i donate": [
+   {
+    "probability": 1,
+    "value": "it",
+    "count": 2
+   }
+  ],
+  "donate it": [
+   {
+    "probability": 1,
+    "value": "to",
+    "count": 2
+   }
+  ],
+  "it to": [
+   {
+    "probability": 1,
+    "value": "amir",
+    "count": 2
+   }
+  ],
+  "alas cannot": [
+   {
+    "probability": 1,
+    "value": "keep",
+    "count": 1
+   }
+  ],
+  "cannot keep": [
+   {
+    "probability": 1,
+    "value": "it",
+    "count": 1
+   }
+  ],
+  "to amir": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "it's chad": [
+   {
+    "probability": 1,
+    "value": "man",
+    "count": 1
+   }
+  ],
+  "chad man": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "i'm an": [
+   {
+    "probability": 1,
+    "value": "actor",
+    "count": 1
+   }
+  ],
+  "an actor": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "amir hired": [
+   {
+    "probability": 1,
+    "value": "me",
+    "count": 1
+   }
+  ],
+  "hired me": [
+   {
+    "probability": 1,
+    "value": "to",
+    "count": 1
+   }
+  ],
+  "me to": [
+   {
+    "probability": 1,
+    "value": "do",
+    "count": 1
+   }
+  ],
+  "to do": [
+   {
+    "probability": 1,
+    "value": "this",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "i won",
+  "this is",
+  "i appreciate",
+  "i donate",
+  "it's chad",
+  "i'm an",
+  "amir hired"
+ ],
+ "endKeys": []
+}

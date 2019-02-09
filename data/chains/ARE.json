@@ -1,0 +1,209 @@
+{
+ "identifier": "ARE",
+ "chains": {
+  "\"poke me": [
+   {
+    "probability": 1,
+    "value": "/",
+    "count": 1
+   }
+  ],
+  "me/ ": [
+   {
+    "probability": 1,
+    "value": "poke",
+    "count": 1
+   }
+  ],
+  "/ poke": [
+   {
+    "probability": 1,
+    "value": "my",
+    "count": 4
+   }
+  ],
+  "poke my": [
+   {
+    "probability": 0.2,
+    "value": "wall",
+    "count": 1
+   },
+   {
+    "probability": 0.2,
+    "value": "face",
+    "count": 1
+   },
+   {
+    "probability": 0.2,
+    "value": "pictures",
+    "count": 1
+   },
+   {
+    "probability": 0.2,
+    "value": "videos",
+    "count": 1
+   },
+   {
+    "probability": 0.2,
+    "value": "status",
+    "count": 1
+   }
+  ],
+  "my wall": [
+   {
+    "probability": 1,
+    "value": "/",
+    "count": 1
+   }
+  ],
+  "wall/ ": [
+   {
+    "probability": 1,
+    "value": "poke",
+    "count": 1
+   }
+  ],
+  "my face": [
+   {
+    "probability": 1,
+    "value": "/",
+    "count": 1
+   }
+  ],
+  "face/ ": [
+   {
+    "probability": 1,
+    "value": "poke",
+    "count": 1
+   }
+  ],
+  "my pictures": [
+   {
+    "probability": 1,
+    "value": "/",
+    "count": 1
+   }
+  ],
+  "pictures/ ": [
+   {
+    "probability": 1,
+    "value": "poke",
+    "count": 1
+   }
+  ],
+  "my videos": [
+   {
+    "probability": 1,
+    "value": "/",
+    "count": 1
+   }
+  ],
+  "videos/ ": [
+   {
+    "probability": 1,
+    "value": "i",
+    "count": 1
+   }
+  ],
+  "/ i": [
+   {
+    "probability": 1,
+    "value": "want",
+    "count": 1
+   }
+  ],
+  "i want": [
+   {
+    "probability": 1,
+    "value": "you",
+    "count": 2
+   }
+  ],
+  "want you": [
+   {
+    "probability": 1,
+    "value": "to",
+    "count": 2
+   }
+  ],
+  "you to": [
+   {
+    "probability": 1,
+    "value": "poke",
+    "count": 2
+   }
+  ],
+  "to poke": [
+   {
+    "probability": 0.5,
+    "value": "my",
+    "count": 1
+   },
+   {
+    "probability": 0.5,
+    "value": "yourself",
+    "count": 1
+   }
+  ],
+  "my status": [
+   {
+    "probability": 1,
+    "value": "/",
+    "count": 1
+   }
+  ],
+  "status/ ": [
+   {
+    "probability": 1,
+    "value": "and",
+    "count": 1
+   }
+  ],
+  "/ and": [
+   {
+    "probability": 1,
+    "value": "i",
+    "count": 1
+   }
+  ],
+  "and i": [
+   {
+    "probability": 1,
+    "value": "want",
+    "count": 1
+   }
+  ],
+  "poke yourself": [
+   {
+    "probability": 1,
+    "value": "/",
+    "count": 1
+   }
+  ],
+  "yourself/ ": [
+   {
+    "probability": 1,
+    "value": "go",
+    "count": 1
+   }
+  ],
+  "/ go": [
+   {
+    "probability": 1,
+    "value": "poke",
+    "count": 1
+   }
+  ],
+  "go poke": [
+   {
+    "probability": 1,
+    "value": "yourself\"",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "\"poke me"
+ ],
+ "endKeys": []
+}

@@ -1,0 +1,344 @@
+{
+ "identifier": "DIKE",
+ "chains": {
+  "o's across": [
+   {
+    "probability": 1,
+    "value": "the",
+    "count": 1
+   }
+  ],
+  "across the": [
+   {
+    "probability": 1,
+    "value": "hall",
+    "count": 1
+   }
+  ],
+  "the hall": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "hall, ": [
+   {
+    "probability": 1,
+    "value": "may",
+    "count": 1
+   }
+  ],
+  ", may": [
+   {
+    "probability": 1,
+    "value": "want",
+    "count": 1
+   }
+  ],
+  "may want": [
+   {
+    "probability": 1,
+    "value": "to",
+    "count": 1
+   }
+  ],
+  "want to": [
+   {
+    "probability": 0.5,
+    "value": "make",
+    "count": 1
+   },
+   {
+    "probability": 0.5,
+    "value": "get",
+    "count": 1
+   }
+  ],
+  "to make": [
+   {
+    "probability": 1,
+    "value": "nice",
+    "count": 1
+   }
+  ],
+  "make nice": [
+   {
+    "probability": 1,
+    "value": "with",
+    "count": 1
+   }
+  ],
+  "nice with": [
+   {
+    "probability": 1,
+    "value": "them",
+    "count": 1
+   }
+  ],
+  "with them": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "them, ": [
+   {
+    "probability": 1,
+    "value": "they",
+    "count": 1
+   }
+  ],
+  ", they": [
+   {
+    "probability": 1,
+    "value": "did",
+    "count": 1
+   }
+  ],
+  "they did": [
+   {
+    "probability": 1,
+    "value": "not",
+    "count": 1
+   }
+  ],
+  "did not": [
+   {
+    "probability": 1,
+    "value": "appreciate",
+    "count": 1
+   }
+  ],
+  "not appreciate": [
+   {
+    "probability": 1,
+    "value": "me",
+    "count": 1
+   }
+  ],
+  "appreciate me": [
+   {
+    "probability": 1,
+    "value": "calling",
+    "count": 1
+   }
+  ],
+  "me calling": [
+   {
+    "probability": 1,
+    "value": "them",
+    "count": 1
+   }
+  ],
+  "calling them": [
+   {
+    "probability": 1,
+    "value": "lesbos",
+    "count": 1
+   }
+  ],
+  "them lesbos": [
+   {
+    "probability": 1,
+    "value": "to",
+    "count": 1
+   }
+  ],
+  "lesbos to": [
+   {
+    "probability": 1,
+    "value": "their",
+    "count": 1
+   }
+  ],
+  "to their": [
+   {
+    "probability": 1,
+    "value": "face",
+    "count": 1
+   }
+  ],
+  "their face": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "also, ": [
+   {
+    "probability": 1,
+    "value": "we",
+    "count": 1
+   }
+  ],
+  ", we": [
+   {
+    "probability": 1,
+    "value": "are",
+    "count": 1
+   }
+  ],
+  "we are": [
+   {
+    "probability": 1,
+    "value": "running",
+    "count": 1
+   }
+  ],
+  "are running": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "running, ": [
+   {
+    "probability": 1,
+    "value": "not",
+    "count": 1
+   }
+  ],
+  ", not": [
+   {
+    "probability": 1,
+    "value": "dangerously",
+    "count": 1
+   }
+  ],
+  "not dangerously": [
+   {
+    "probability": 1,
+    "value": "low",
+    "count": 1
+   }
+  ],
+  "dangerously low": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "low, ": [
+   {
+    "probability": 1,
+    "value": "but",
+    "count": 1
+   }
+  ],
+  ", but": [
+   {
+    "probability": 1,
+    "value": "pretty",
+    "count": 1
+   }
+  ],
+  "but pretty": [
+   {
+    "probability": 1,
+    "value": "low",
+    "count": 1
+   }
+  ],
+  "pretty low": [
+   {
+    "probability": 1,
+    "value": "on",
+    "count": 1
+   }
+  ],
+  "low on": [
+   {
+    "probability": 1,
+    "value": "nuugs",
+    "count": 1
+   }
+  ],
+  "on nuugs": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "nuugs, ": [
+   {
+    "probability": 1,
+    "value": "so",
+    "count": 1
+   }
+  ],
+  ", so": [
+   {
+    "probability": 1,
+    "value": "you'll",
+    "count": 1
+   }
+  ],
+  "so you'll": [
+   {
+    "probability": 1,
+    "value": "want",
+    "count": 1
+   }
+  ],
+  "you'll want": [
+   {
+    "probability": 1,
+    "value": "to",
+    "count": 1
+   }
+  ],
+  "to get": [
+   {
+    "probability": 1,
+    "value": "that",
+    "count": 1
+   }
+  ],
+  "get that": [
+   {
+    "probability": 1,
+    "value": "taken",
+    "count": 1
+   }
+  ],
+  "that taken": [
+   {
+    "probability": 1,
+    "value": "care",
+    "count": 1
+   }
+  ],
+  "taken care": [
+   {
+    "probability": 1,
+    "value": "of",
+    "count": 1
+   }
+  ],
+  "care of": [
+   {
+    "probability": 1,
+    "value": "too",
+    "count": 1
+   }
+  ],
+  "of too": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "o's across",
+  "also, "
+ ],
+ "endKeys": []
+}

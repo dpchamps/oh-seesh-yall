@@ -1,0 +1,81 @@
+{
+ "identifier": "HENCE",
+ "chains": {
+  "human trap": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "and i": [
+   {
+    "probability": 1,
+    "value": "wasn't",
+    "count": 1
+   }
+  ],
+  "i wasn't": [
+   {
+    "probability": 1,
+    "value": "breaking",
+    "count": 1
+   }
+  ],
+  "wasn't breaking": [
+   {
+    "probability": 1,
+    "value": "anything",
+    "count": 1
+   }
+  ],
+  "breaking anything": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "anything, ": [
+   {
+    "probability": 1,
+    "value": "alright",
+    "count": 1
+   }
+  ],
+  ", alright": [
+   {
+    "probability": 1,
+    "value": "?",
+    "count": 1
+   }
+  ],
+  "their window": [
+   {
+    "probability": 1,
+    "value": "was",
+    "count": 1
+   }
+  ],
+  "window was": [
+   {
+    "probability": 1,
+    "value": "open",
+    "count": 1
+   }
+  ],
+  "was open": [
+   {
+    "probability": 1,
+    "value": "ish",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "human trap",
+  "and i",
+  "their window"
+ ],
+ "endKeys": []
+}

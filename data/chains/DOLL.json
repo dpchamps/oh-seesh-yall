@@ -1,0 +1,30 @@
+{
+ "identifier": "DOLL",
+ "chains": {
+  "lets do": [
+   {
+    "probability": 1,
+    "value": "something",
+    "count": 1
+   }
+  ],
+  "do something": [
+   {
+    "probability": 1,
+    "value": "later",
+    "count": 1
+   }
+  ],
+  "something later": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "lets do"
+ ],
+ "endKeys": []
+}

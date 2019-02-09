@@ -1,0 +1,123 @@
+{
+ "identifier": "#2",
+ "chains": {
+  "it's that": [
+   {
+    "probability": 1,
+    "value": "weird",
+    "count": 1
+   }
+  ],
+  "that weird": [
+   {
+    "probability": 1,
+    "value": "guy",
+    "count": 1
+   }
+  ],
+  "weird guy": [
+   {
+    "probability": 1,
+    "value": "that",
+    "count": 1
+   }
+  ],
+  "guy that": [
+   {
+    "probability": 1,
+    "value": "always",
+    "count": 1
+   }
+  ],
+  "that always": [
+   {
+    "probability": 1,
+    "value": "hang",
+    "count": 1
+   }
+  ],
+  "always hang": [
+   {
+    "probability": 1,
+    "value": "out",
+    "count": 1
+   }
+  ],
+  "hang out": [
+   {
+    "probability": 1,
+    "value": "with",
+    "count": 1
+   }
+  ],
+  "out with": [
+   {
+    "probability": 1,
+    "value": "jake",
+    "count": 1
+   }
+  ],
+  "with jake": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "why he": [
+   {
+    "probability": 1,
+    "value": "is",
+    "count": 1
+   }
+  ],
+  "he is": [
+   {
+    "probability": 1,
+    "value": "here",
+    "count": 1
+   }
+  ],
+  "is here": [
+   {
+    "probability": 1,
+    "value": "?",
+    "count": 1
+   }
+  ],
+  "let's break": [
+   {
+    "probability": 1,
+    "value": "it",
+    "count": 1
+   }
+  ],
+  "break it": [
+   {
+    "probability": 1,
+    "value": "down",
+    "count": 1
+   }
+  ],
+  "it down": [
+   {
+    "probability": 1,
+    "value": "now",
+    "count": 1
+   }
+  ],
+  "down now": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "it's that",
+  "why he",
+  "let's break"
+ ],
+ "endKeys": []
+}

@@ -1,0 +1,65 @@
+{
+ "identifier": "BOUNCER",
+ "chains": {
+  "c'mon, ": [
+   {
+    "probability": 1,
+    "value": "this",
+    "count": 1
+   }
+  ],
+  ", this": [
+   {
+    "probability": 1,
+    "value": "is",
+    "count": 1
+   }
+  ],
+  "this is": [
+   {
+    "probability": 1,
+    "value": "a",
+    "count": 1
+   }
+  ],
+  "is a": [
+   {
+    "probability": 1,
+    "value": "fake",
+    "count": 1
+   }
+  ],
+  "a fake": [
+   {
+    "probability": 1,
+    "value": "id",
+    "count": 1
+   }
+  ],
+  "fake id": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "id, ": [
+   {
+    "probability": 1,
+    "value": "man",
+    "count": 1
+   }
+  ],
+  ", man": [
+   {
+    "probability": 1,
+    "value": "!",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "c'mon, "
+ ],
+ "endKeys": []
+}

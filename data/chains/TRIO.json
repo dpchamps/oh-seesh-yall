@@ -1,0 +1,130 @@
+{
+ "identifier": "TRIO",
+ "chains": {
+  "she's my": [
+   {
+    "probability": 1,
+    "value": "little",
+    "count": 1
+   }
+  ],
+  "my little": [
+   {
+    "probability": 1,
+    "value": "deuce",
+    "count": 1
+   }
+  ],
+  "little deuce": [
+   {
+    "probability": 1,
+    "value": "coupe",
+    "count": 1
+   }
+  ],
+  "deuce coupe": [
+   {
+    "probability": 1,
+    "value": "!",
+    "count": 1
+   }
+  ],
+  "she don't": [
+   {
+    "probability": 1,
+    "value": "knowww",
+    "count": 1
+   }
+  ],
+  "don't knowww": [
+   {
+    "probability": 1,
+    "value": "what",
+    "count": 1
+   }
+  ],
+  "knowww what": [
+   {
+    "probability": 1,
+    "value": "i",
+    "count": 1
+   }
+  ],
+  "what i": [
+   {
+    "probability": 1,
+    "value": "got",
+    "count": 1
+   }
+  ],
+  "i got": [
+   {
+    "probability": 1,
+    "value": "little",
+    "count": 1
+   }
+  ],
+  "got little": [
+   {
+    "probability": 1,
+    "value": "doop",
+    "count": 1
+   }
+  ],
+  "little doop": [
+   {
+    "probability": 1,
+    "value": "boop",
+    "count": 1
+   }
+  ],
+  "doop boop": [
+   {
+    "probability": 1,
+    "value": "bidda",
+    "count": 1
+   }
+  ],
+  "boop bidda": [
+   {
+    "probability": 1,
+    "value": "budda",
+    "count": 1
+   }
+  ],
+  "bidda budda": [
+   {
+    "probability": 1,
+    "value": "d'i",
+    "count": 1
+   }
+  ],
+  "budda d'i": [
+   {
+    "probability": 1,
+    "value": "got",
+    "count": 1
+   }
+  ],
+  "d'i got": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "we know": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "she's my",
+  "she don't",
+  "we know"
+ ],
+ "endKeys": []
+}

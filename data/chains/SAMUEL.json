@@ -1,0 +1,70 @@
+{
+ "identifier": "SAMUEL",
+ "chains": {
+  "uh, ": [
+   {
+    "probability": 0.5,
+    "value": "chicken",
+    "count": 1
+   },
+   {
+    "probability": 0.5,
+    "value": "no",
+    "count": 1
+   }
+  ],
+  ", chicken": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "chicken, ": [
+   {
+    "probability": 1,
+    "value": "hot",
+    "count": 1
+   }
+  ],
+  ", hot": [
+   {
+    "probability": 1,
+    "value": "dogs",
+    "count": 1
+   }
+  ],
+  "hot dogs": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "dogs, ": [
+   {
+    "probability": 1,
+    "value": "hamburgers",
+    "count": 1
+   }
+  ],
+  ", hamburgers": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  ", no": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "uh, "
+ ],
+ "endKeys": []
+}

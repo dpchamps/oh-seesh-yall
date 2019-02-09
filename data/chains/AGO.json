@@ -1,0 +1,94 @@
+{
+ "identifier": "AGO",
+ "chains": {
+  "fuck the": [
+   {
+    "probability": 1,
+    "value": "past",
+    "count": 1
+   }
+  ],
+  "the past": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "past, ": [
+   {
+    "probability": 1,
+    "value": "we're",
+    "count": 1
+   }
+  ],
+  ", we're": [
+   {
+    "probability": 1,
+    "value": "better",
+    "count": 1
+   }
+  ],
+  "we're better": [
+   {
+    "probability": 1,
+    "value": "friends",
+    "count": 1
+   }
+  ],
+  "better friends": [
+   {
+    "probability": 1,
+    "value": "for",
+    "count": 1
+   }
+  ],
+  "friends for": [
+   {
+    "probability": 1,
+    "value": "it",
+    "count": 1
+   }
+  ],
+  "for it": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "lets go": [
+   {
+    "probability": 1,
+    "value": "out",
+    "count": 1
+   }
+  ],
+  "go out": [
+   {
+    "probability": 1,
+    "value": "strong",
+    "count": 1
+   }
+  ],
+  "out strong": [
+   {
+    "probability": 1,
+    "value": "tonight",
+    "count": 1
+   }
+  ],
+  "strong tonight": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "fuck the",
+  "lets go"
+ ],
+ "endKeys": []
+}

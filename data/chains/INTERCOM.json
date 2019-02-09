@@ -1,0 +1,37 @@
+{
+ "identifier": "INTERCOM",
+ "chains": {
+  "hi, ": [
+   {
+    "probability": 1,
+    "value": "is",
+    "count": 1
+   }
+  ],
+  ", is": [
+   {
+    "probability": 1,
+    "value": "everything",
+    "count": 1
+   }
+  ],
+  "is everything": [
+   {
+    "probability": 1,
+    "value": "ok",
+    "count": 1
+   }
+  ],
+  "everything ok": [
+   {
+    "probability": 1,
+    "value": "?",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "hi, "
+ ],
+ "endKeys": []
+}

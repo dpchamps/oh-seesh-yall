@@ -1,0 +1,275 @@
+{
+ "identifier": "JAMIE",
+ "chains": {
+  "of course": [
+   {
+    "probability": 1,
+    "value": "you",
+    "count": 1
+   }
+  ],
+  "course you": [
+   {
+    "probability": 1,
+    "value": "are",
+    "count": 1
+   }
+  ],
+  "you are": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "there's always": [
+   {
+    "probability": 1,
+    "value": "something",
+    "count": 3
+   }
+  ],
+  "always something": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 3
+   }
+  ],
+  "i've been": [
+   {
+    "probability": 1,
+    "value": "waiting",
+    "count": 1
+   }
+  ],
+  "been waiting": [
+   {
+    "probability": 1,
+    "value": "for",
+    "count": 1
+   }
+  ],
+  "waiting for": [
+   {
+    "probability": 1,
+    "value": "you",
+    "count": 1
+   }
+  ],
+  "for you": [
+   {
+    "probability": 1,
+    "value": "since",
+    "count": 1
+   }
+  ],
+  "you since": [
+   {
+    "probability": 1,
+    "value": "i",
+    "count": 1
+   }
+  ],
+  "since i": [
+   {
+    "probability": 1,
+    "value": "was",
+    "count": 1
+   }
+  ],
+  "i was": [
+   {
+    "probability": 1,
+    "value": "sixteen",
+    "count": 1
+   }
+  ],
+  "was sixteen": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "sixteen, ": [
+   {
+    "probability": 1,
+    "value": "and",
+    "count": 1
+   }
+  ],
+  ", and": [
+   {
+    "probability": 1,
+    "value": "i'm",
+    "count": 1
+   }
+  ],
+  "and i'm": [
+   {
+    "probability": 1,
+    "value": "done",
+    "count": 1
+   }
+  ],
+  "i'm done": [
+   {
+    "probability": 1,
+    "value": "waiting",
+    "count": 3
+   }
+  ],
+  "done waiting": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 3
+   }
+  ],
+  "i got": [
+   {
+    "probability": 1,
+    "value": "the",
+    "count": 2
+   }
+  ],
+  "got the": [
+   {
+    "probability": 1,
+    "value": "part",
+    "count": 2
+   }
+  ],
+  "the part": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 2
+   }
+  ],
+  "uh, ": [
+   {
+    "probability": 1,
+    "value": "i",
+    "count": 1
+   }
+  ],
+  ", i": [
+   {
+    "probability": 1,
+    "value": "didn't",
+    "count": 1
+   }
+  ],
+  "i didn't": [
+   {
+    "probability": 1,
+    "value": "ask",
+    "count": 1
+   }
+  ],
+  "didn't ask": [
+   {
+    "probability": 1,
+    "value": "anything",
+    "count": 1
+   }
+  ],
+  "ask anything": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "uh no": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "look who's": [
+   {
+    "probability": 1,
+    "value": "talking",
+    "count": 1
+   }
+  ],
+  "who's talking": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "i make": [
+   {
+    "probability": 1,
+    "value": "four",
+    "count": 1
+   }
+  ],
+  "make four": [
+   {
+    "probability": 1,
+    "value": "hundred",
+    "count": 1
+   }
+  ],
+  "four hundred": [
+   {
+    "probability": 0.5,
+    "value": "thousand",
+    "count": 1
+   },
+   {
+    "probability": 0.5,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "hundred thousand": [
+   {
+    "probability": 1,
+    "value": "dollars",
+    "count": 1
+   }
+  ],
+  "thousand dollars": [
+   {
+    "probability": 1,
+    "value": "a",
+    "count": 1
+   }
+  ],
+  "dollars a": [
+   {
+    "probability": 1,
+    "value": "year",
+    "count": 1
+   }
+  ],
+  "a year": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "of course",
+  "there's always",
+  "i've been",
+  "i'm done",
+  "i got",
+  "uh, ",
+  "uh no",
+  "look who's",
+  "i make",
+  "four hundred"
+ ],
+ "endKeys": []
+}

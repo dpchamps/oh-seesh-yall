@@ -1,0 +1,101 @@
+{
+ "identifier": "SLAT",
+ "chains": {
+  "how are": [
+   {
+    "probability": 1,
+    "value": "you",
+    "count": 1
+   }
+  ],
+  "are you": [
+   {
+    "probability": 1,
+    "value": "guys",
+    "count": 1
+   }
+  ],
+  "you guys": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "guys, ": [
+   {
+    "probability": 1,
+    "value": "huh",
+    "count": 1
+   }
+  ],
+  ", huh": [
+   {
+    "probability": 1,
+    "value": "?",
+    "count": 1
+   }
+  ],
+  "you ever": [
+   {
+    "probability": 1,
+    "value": "figure",
+    "count": 1
+   }
+  ],
+  "ever figure": [
+   {
+    "probability": 1,
+    "value": "out",
+    "count": 1
+   }
+  ],
+  "figure out": [
+   {
+    "probability": 1,
+    "value": "who",
+    "count": 1
+   }
+  ],
+  "out who": [
+   {
+    "probability": 1,
+    "value": "shit",
+    "count": 1
+   }
+  ],
+  "who shit": [
+   {
+    "probability": 1,
+    "value": "in",
+    "count": 1
+   }
+  ],
+  "shit in": [
+   {
+    "probability": 1,
+    "value": "that",
+    "count": 1
+   }
+  ],
+  "in that": [
+   {
+    "probability": 1,
+    "value": "copier",
+    "count": 1
+   }
+  ],
+  "that copier": [
+   {
+    "probability": 1,
+    "value": "?",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "how are",
+  "you ever"
+ ],
+ "endKeys": []
+}

@@ -1,0 +1,79 @@
+{
+ "identifier": "SUBTITLE",
+ "chains": {
+  "once you": [
+   {
+    "probability": 1,
+    "value": "get",
+    "count": 1
+   }
+  ],
+  "you get": [
+   {
+    "probability": 1,
+    "value": "to",
+    "count": 1
+   }
+  ],
+  "get to": [
+   {
+    "probability": 1,
+    "value": "know",
+    "count": 1
+   }
+  ],
+  "to know": [
+   {
+    "probability": 1,
+    "value": "me",
+    "count": 1
+   }
+  ],
+  "know me": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "me, ": [
+   {
+    "probability": 1,
+    "value": "i'm",
+    "count": 1
+   }
+  ],
+  ", i'm": [
+   {
+    "probability": 1,
+    "value": "a",
+    "count": 1
+   }
+  ],
+  "i'm a": [
+   {
+    "probability": 1,
+    "value": "bad",
+    "count": 1
+   }
+  ],
+  "a bad": [
+   {
+    "probability": 1,
+    "value": "guy",
+    "count": 1
+   }
+  ],
+  "bad guy": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "once you"
+ ],
+ "endKeys": []
+}

@@ -1,0 +1,58 @@
+{
+ "identifier": "COUCH",
+ "chains": {
+  "we're hoping": [
+   {
+    "probability": 1,
+    "value": "to",
+    "count": 1
+   }
+  ],
+  "hoping to": [
+   {
+    "probability": 1,
+    "value": "let",
+    "count": 1
+   }
+  ],
+  "to let": [
+   {
+    "probability": 1,
+    "value": "everybody",
+    "count": 1
+   }
+  ],
+  "let everybody": [
+   {
+    "probability": 1,
+    "value": "know",
+    "count": 1
+   }
+  ],
+  "everybody know": [
+   {
+    "probability": 1,
+    "value": "by",
+    "count": 1
+   }
+  ],
+  "know by": [
+   {
+    "probability": 1,
+    "value": "friday",
+    "count": 1
+   }
+  ],
+  "by friday": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "we're hoping"
+ ],
+ "endKeys": []
+}

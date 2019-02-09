@@ -1,0 +1,116 @@
+{
+ "identifier": "GUARD",
+ "chains": {
+  "we're rolling": [
+   {
+    "probability": 1,
+    "value": "right",
+    "count": 1
+   }
+  ],
+  "rolling right": [
+   {
+    "probability": 1,
+    "value": "now",
+    "count": 1
+   }
+  ],
+  "right now": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 2
+   }
+  ],
+  "you can't": [
+   {
+    "probability": 1,
+    "value": "get",
+    "count": 1
+   }
+  ],
+  "can't get": [
+   {
+    "probability": 1,
+    "value": "in",
+    "count": 1
+   }
+  ],
+  "get in": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "a lot": [
+   {
+    "probability": 1,
+    "value": "of",
+    "count": 1
+   }
+  ],
+  "lot of": [
+   {
+    "probability": 1,
+    "value": "people's",
+    "count": 1
+   }
+  ],
+  "of people's": [
+   {
+    "probability": 1,
+    "value": "best",
+    "count": 1
+   }
+  ],
+  "people's best": [
+   {
+    "probability": 1,
+    "value": "friends",
+    "count": 1
+   }
+  ],
+  "best friends": [
+   {
+    "probability": 1,
+    "value": "are",
+    "count": 1
+   }
+  ],
+  "friends are": [
+   {
+    "probability": 1,
+    "value": "in",
+    "count": 1
+   }
+  ],
+  "are in": [
+   {
+    "probability": 1,
+    "value": "there",
+    "count": 1
+   }
+  ],
+  "in there": [
+   {
+    "probability": 1,
+    "value": "right",
+    "count": 1
+   }
+  ],
+  "there right": [
+   {
+    "probability": 1,
+    "value": "now",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "we're rolling",
+  "you can't",
+  "a lot"
+ ],
+ "endKeys": []
+}

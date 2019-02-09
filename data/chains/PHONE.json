@@ -1,0 +1,134 @@
+{
+ "identifier": "PHONE",
+ "chains": {
+  "yeah, ": [
+   {
+    "probability": 1,
+    "value": "wow",
+    "count": 1
+   }
+  ],
+  ", wow": [
+   {
+    "probability": 1,
+    "value": "man",
+    "count": 1
+   }
+  ],
+  "wow man": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "man, ": [
+   {
+    "probability": 1,
+    "value": "i",
+    "count": 1
+   }
+  ],
+  ", i": [
+   {
+    "probability": 1,
+    "value": "mean",
+    "count": 1
+   }
+  ],
+  "i mean": [
+   {
+    "probability": 1,
+    "value": "tell",
+    "count": 1
+   }
+  ],
+  "mean tell": [
+   {
+    "probability": 1,
+    "value": "her",
+    "count": 1
+   }
+  ],
+  "tell her": [
+   {
+    "probability": 0.5,
+    "value": ",",
+    "count": 1
+   },
+   {
+    "probability": 0.5,
+    "value": "i",
+    "count": 1
+   }
+  ],
+  "her, ": [
+   {
+    "probability": 1,
+    "value": "tell",
+    "count": 1
+   }
+  ],
+  ", tell": [
+   {
+    "probability": 1,
+    "value": "her",
+    "count": 1
+   }
+  ],
+  "her i": [
+   {
+    "probability": 1,
+    "value": "said",
+    "count": 1
+   }
+  ],
+  "i said": [
+   {
+    "probability": 1,
+    "value": "congratulations",
+    "count": 1
+   }
+  ],
+  "said congratulations": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "alright talk": [
+   {
+    "probability": 1,
+    "value": "to",
+    "count": 1
+   }
+  ],
+  "talk to": [
+   {
+    "probability": 1,
+    "value": "you",
+    "count": 1
+   }
+  ],
+  "to you": [
+   {
+    "probability": 1,
+    "value": "later",
+    "count": 1
+   }
+  ],
+  "you later": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "yeah, ",
+  "alright talk"
+ ],
+ "endKeys": []
+}

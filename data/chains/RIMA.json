@@ -1,0 +1,479 @@
+{
+ "identifier": "RIMA",
+ "chains": {
+  "hi jaaake": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "how's it": [
+   {
+    "probability": 1,
+    "value": "going",
+    "count": 1
+   }
+  ],
+  "it going": [
+   {
+    "probability": 1,
+    "value": "?",
+    "count": 1
+   }
+  ],
+  "are we": [
+   {
+    "probability": 1,
+    "value": "just",
+    "count": 1
+   }
+  ],
+  "we just": [
+   {
+    "probability": 1,
+    "value": "friends",
+    "count": 1
+   }
+  ],
+  "just friends": [
+   {
+    "probability": 1,
+    "value": "?",
+    "count": 1
+   }
+  ],
+  "you don't": [
+   {
+    "probability": 1,
+    "value": "like",
+    "count": 1
+   }
+  ],
+  "don't like": [
+   {
+    "probability": 1,
+    "value": "my",
+    "count": 1
+   }
+  ],
+  "like my": [
+   {
+    "probability": 1,
+    "value": "glasses",
+    "count": 1
+   }
+  ],
+  "my glasses": [
+   {
+    "probability": 0.5,
+    "value": ".",
+    "count": 1
+   },
+   {
+    "probability": 0.5,
+    "value": "this",
+    "count": 1
+   }
+  ],
+  "ok, ": [
+   {
+    "probability": 1,
+    "value": "so",
+    "count": 1
+   }
+  ],
+  ", so": [
+   {
+    "probability": 0.5,
+    "value": ",",
+    "count": 1
+   },
+   {
+    "probability": 0.5,
+    "value": "i'll",
+    "count": 1
+   }
+  ],
+  "so, ": [
+   {
+    "probability": 1,
+    "value": "ummm",
+    "count": 1
+   }
+  ],
+  ", ummm": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "ummm, ": [
+   {
+    "probability": 1,
+    "value": "my",
+    "count": 1
+   }
+  ],
+  ", my": [
+   {
+    "probability": 1,
+    "value": "glasses",
+    "count": 1
+   }
+  ],
+  "glasses this": [
+   {
+    "probability": 1,
+    "value": "week",
+    "count": 1
+   }
+  ],
+  "this week": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "week, ": [
+   {
+    "probability": 1,
+    "value": "last",
+    "count": 1
+   }
+  ],
+  ", last": [
+   {
+    "probability": 1,
+    "value": "week",
+    "count": 1
+   }
+  ],
+  "last week": [
+   {
+    "probability": 1,
+    "value": "my",
+    "count": 1
+   }
+  ],
+  "week my": [
+   {
+    "probability": 1,
+    "value": "hair",
+    "count": 1
+   }
+  ],
+  "my hair": [
+   {
+    "probability": 1,
+    "value": "was",
+    "count": 1
+   }
+  ],
+  "hair was": [
+   {
+    "probability": 1,
+    "value": "too",
+    "count": 1
+   }
+  ],
+  "was too": [
+   {
+    "probability": 1,
+    "value": "short",
+    "count": 1
+   }
+  ],
+  "too short": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "the spikes": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "spikes, ": [
+   {
+    "probability": 1,
+    "value": "right",
+    "count": 1
+   }
+  ],
+  ", right": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "i've been": [
+   {
+    "probability": 1,
+    "value": "growing",
+    "count": 1
+   }
+  ],
+  "been growing": [
+   {
+    "probability": 1,
+    "value": "it",
+    "count": 1
+   }
+  ],
+  "growing it": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "okay, ": [
+   {
+    "probability": 0.5,
+    "value": "is",
+    "count": 1
+   },
+   {
+    "probability": 0.5,
+    "value": "obviously",
+    "count": 1
+   }
+  ],
+  ", is": [
+   {
+    "probability": 1,
+    "value": "he",
+    "count": 1
+   }
+  ],
+  "is he": [
+   {
+    "probability": 1,
+    "value": "going",
+    "count": 1
+   }
+  ],
+  "he going": [
+   {
+    "probability": 1,
+    "value": "to",
+    "count": 1
+   }
+  ],
+  "going to": [
+   {
+    "probability": 1,
+    "value": "be",
+    "count": 1
+   }
+  ],
+  "to be": [
+   {
+    "probability": 1,
+    "value": "staying",
+    "count": 1
+   }
+  ],
+  "be staying": [
+   {
+    "probability": 1,
+    "value": "here",
+    "count": 1
+   }
+  ],
+  "staying here": [
+   {
+    "probability": 1,
+    "value": "tonight",
+    "count": 1
+   }
+  ],
+  "no no": [
+   {
+    "probability": 0.5,
+    "value": "no",
+    "count": 1
+   },
+   {
+    "probability": 0.5,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "no, ": [
+   {
+    "probability": 1,
+    "value": "fine",
+    "count": 1
+   }
+  ],
+  ", fine": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "fine, ": [
+   {
+    "probability": 1,
+    "value": "okay",
+    "count": 1
+   }
+  ],
+  ", okay": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  ", obviously": [
+   {
+    "probability": 1,
+    "value": "you",
+    "count": 1
+   }
+  ],
+  "obviously you": [
+   {
+    "probability": 1,
+    "value": "guys",
+    "count": 1
+   }
+  ],
+  "you guys": [
+   {
+    "probability": 1,
+    "value": "are",
+    "count": 1
+   }
+  ],
+  "guys are": [
+   {
+    "probability": 1,
+    "value": "gonna",
+    "count": 1
+   }
+  ],
+  "are gonna": [
+   {
+    "probability": 1,
+    "value": "hang",
+    "count": 1
+   }
+  ],
+  "gonna hang": [
+   {
+    "probability": 1,
+    "value": "out",
+    "count": 1
+   }
+  ],
+  "hang out": [
+   {
+    "probability": 1,
+    "value": "tonight",
+    "count": 1
+   }
+  ],
+  "out tonight": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "tonight, ": [
+   {
+    "probability": 1,
+    "value": "and",
+    "count": 1
+   }
+  ],
+  "alright, ": [
+   {
+    "probability": 1,
+    "value": "bye",
+    "count": 1
+   }
+  ],
+  ", bye": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "bye, ": [
+   {
+    "probability": 1,
+    "value": "uhh",
+    "count": 1
+   }
+  ],
+  ", uhh": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "uhh, ": [
+   {
+    "probability": 1,
+    "value": "so",
+    "count": 1
+   }
+  ],
+  "so i'll": [
+   {
+    "probability": 1,
+    "value": "talk",
+    "count": 1
+   }
+  ],
+  "i'll talk": [
+   {
+    "probability": 1,
+    "value": "to",
+    "count": 1
+   }
+  ],
+  "talk to": [
+   {
+    "probability": 1,
+    "value": "you",
+    "count": 1
+   }
+  ],
+  "to you": [
+   {
+    "probability": 1,
+    "value": "later",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "hi jaaake",
+  "how's it",
+  "are we",
+  "you don't",
+  "ok, ",
+  "the spikes",
+  "i've been",
+  "okay, ",
+  "no no",
+  "alright, "
+ ],
+ "endKeys": []
+}

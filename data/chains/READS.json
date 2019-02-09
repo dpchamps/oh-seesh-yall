@@ -1,0 +1,151 @@
+{
+ "identifier": "READS",
+ "chains": {
+  "you still": [
+   {
+    "probability": 1,
+    "value": "owe",
+    "count": 1
+   }
+  ],
+  "still owe": [
+   {
+    "probability": 1,
+    "value": "me",
+    "count": 1
+   }
+  ],
+  "owe me": [
+   {
+    "probability": 1,
+    "value": "for",
+    "count": 1
+   }
+  ],
+  "me for": [
+   {
+    "probability": 1,
+    "value": "the",
+    "count": 1
+   }
+  ],
+  "for the": [
+   {
+    "probability": 1,
+    "value": "last",
+    "count": 1
+   }
+  ],
+  "the last": [
+   {
+    "probability": 1,
+    "value": "aj",
+    "count": 1
+   }
+  ],
+  "last aj": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "aj, ": [
+   {
+    "probability": 1,
+    "value": "by",
+    "count": 1
+   }
+  ],
+  ", by": [
+   {
+    "probability": 1,
+    "value": "the",
+    "count": 1
+   }
+  ],
+  "by the": [
+   {
+    "probability": 1,
+    "value": "way",
+    "count": 1
+   }
+  ],
+  "'oh sheesh": [
+   {
+    "probability": 1,
+    "value": "y'all",
+    "count": 1
+   }
+  ],
+  "sheesh y'all": [
+   {
+    "probability": 1,
+    "value": "tis",
+    "count": 1
+   }
+  ],
+  "y'all tis": [
+   {
+    "probability": 1,
+    "value": "a",
+    "count": 1
+   }
+  ],
+  "tis a": [
+   {
+    "probability": 1,
+    "value": "dream'",
+    "count": 1
+   }
+  ],
+  "a dream'": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "will smears": [
+   {
+    "probability": 1,
+    "value": "it",
+    "count": 1
+   }
+  ],
+  "smears it": [
+   {
+    "probability": 1,
+    "value": "in",
+    "count": 1
+   }
+  ],
+  "it in": [
+   {
+    "probability": 1,
+    "value": "amir's",
+    "count": 1
+   }
+  ],
+  "in amir's": [
+   {
+    "probability": 1,
+    "value": "face",
+    "count": 1
+   }
+  ],
+  "amir's face": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "you still",
+  "'oh sheesh",
+  "will smears"
+ ],
+ "endKeys": []
+}

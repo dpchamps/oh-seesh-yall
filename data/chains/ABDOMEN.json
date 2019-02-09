@@ -1,0 +1,121 @@
+{
+ "identifier": "ABDOMEN",
+ "chains": {
+  "first into": [
+   {
+    "probability": 1,
+    "value": "a",
+    "count": 1
+   }
+  ],
+  "into a": [
+   {
+    "probability": 1,
+    "value": "syrup",
+    "count": 1
+   }
+  ],
+  "a syrup": [
+   {
+    "probability": 1,
+    "value": "fall",
+    "count": 1
+   }
+  ],
+  "syrup fall": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "fall, ": [
+   {
+    "probability": 1,
+    "value": "which",
+    "count": 1
+   }
+  ],
+  ", which": [
+   {
+    "probability": 1,
+    "value": "is",
+    "count": 1
+   }
+  ],
+  "which is": [
+   {
+    "probability": 1,
+    "value": "kinda",
+    "count": 1
+   }
+  ],
+  "is kinda": [
+   {
+    "probability": 1,
+    "value": "like",
+    "count": 1
+   }
+  ],
+  "kinda like": [
+   {
+    "probability": 1,
+    "value": "a",
+    "count": 1
+   }
+  ],
+  "like a": [
+   {
+    "probability": 1,
+    "value": "waterfall",
+    "count": 1
+   }
+  ],
+  "a waterfall": [
+   {
+    "probability": 1,
+    "value": "but",
+    "count": 1
+   }
+  ],
+  "waterfall but": [
+   {
+    "probability": 1,
+    "value": "instead",
+    "count": 1
+   }
+  ],
+  "but instead": [
+   {
+    "probability": 1,
+    "value": "of",
+    "count": 1
+   }
+  ],
+  "instead of": [
+   {
+    "probability": 1,
+    "value": "water",
+    "count": 1
+   }
+  ],
+  "of water": [
+   {
+    "probability": 1,
+    "value": "it's",
+    "count": 1
+   }
+  ],
+  "water it's": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "first into"
+ ],
+ "endKeys": []
+}

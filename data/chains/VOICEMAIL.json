@@ -1,0 +1,182 @@
+{
+ "identifier": "VOICEMAIL",
+ "chains": {
+  "dude it's": [
+   {
+    "probability": 1,
+    "value": "amir",
+    "count": 1
+   }
+  ],
+  "it's amir": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "amir, ": [
+   {
+    "probability": 1,
+    "value": "this",
+    "count": 1
+   }
+  ],
+  ", this": [
+   {
+    "probability": 1,
+    "value": "is",
+    "count": 1
+   }
+  ],
+  "this is": [
+   {
+    "probability": 1,
+    "value": "an",
+    "count": 1
+   }
+  ],
+  "is an": [
+   {
+    "probability": 1,
+    "value": "emergency",
+    "count": 1
+   }
+  ],
+  "an emergency": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 2
+   }
+  ],
+  "emergency, ": [
+   {
+    "probability": 0.5,
+    "value": "it's",
+    "count": 1
+   },
+   {
+    "probability": 0.5,
+    "value": "if",
+    "count": 1
+   }
+  ],
+  ", it's": [
+   {
+    "probability": 1,
+    "value": "an",
+    "count": 1
+   }
+  ],
+  "it's an": [
+   {
+    "probability": 1,
+    "value": "emergency",
+    "count": 1
+   }
+  ],
+  ", if": [
+   {
+    "probability": 1,
+    "value": "you",
+    "count": 1
+   }
+  ],
+  "if you": [
+   {
+    "probability": 1,
+    "value": "don't",
+    "count": 1
+   }
+  ],
+  "you don't": [
+   {
+    "probability": 1,
+    "value": "come",
+    "count": 1
+   }
+  ],
+  "don't come": [
+   {
+    "probability": 1,
+    "value": "i",
+    "count": 1
+   }
+  ],
+  "come i": [
+   {
+    "probability": 1,
+    "value": "think",
+    "count": 1
+   }
+  ],
+  "i think": [
+   {
+    "probability": 1,
+    "value": "i'm",
+    "count": 1
+   }
+  ],
+  "think i'm": [
+   {
+    "probability": 1,
+    "value": "definitely",
+    "count": 1
+   }
+  ],
+  "i'm definitely": [
+   {
+    "probability": 1,
+    "value": "oh",
+    "count": 1
+   }
+  ],
+  "definitely oh": [
+   {
+    "probability": 1,
+    "value": "my",
+    "count": 1
+   }
+  ],
+  "oh my": [
+   {
+    "probability": 1,
+    "value": "god",
+    "count": 1
+   }
+  ],
+  "my god": [
+   {
+    "probability": 1,
+    "value": "i'm",
+    "count": 1
+   }
+  ],
+  "god i'm": [
+   {
+    "probability": 1,
+    "value": "gonna",
+    "count": 1
+   }
+  ],
+  "i'm gonna": [
+   {
+    "probability": 1,
+    "value": "die",
+    "count": 1
+   }
+  ],
+  "gonna die": [
+   {
+    "probability": 1,
+    "value": "!",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "dude it's"
+ ],
+ "endKeys": []
+}

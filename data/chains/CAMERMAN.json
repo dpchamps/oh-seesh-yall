@@ -1,0 +1,65 @@
+{
+ "identifier": "CAMERMAN",
+ "chains": {
+  "be a": [
+   {
+    "probability": 1,
+    "value": "little",
+    "count": 1
+   }
+  ],
+  "a little": [
+   {
+    "probability": 1,
+    "value": "careful",
+    "count": 1
+   }
+  ],
+  "little careful": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "careful, ": [
+   {
+    "probability": 1,
+    "value": "she's",
+    "count": 1
+   }
+  ],
+  ", she's": [
+   {
+    "probability": 1,
+    "value": "a",
+    "count": 1
+   }
+  ],
+  "she's a": [
+   {
+    "probability": 1,
+    "value": "bit",
+    "count": 1
+   }
+  ],
+  "a bit": [
+   {
+    "probability": 1,
+    "value": "crazy",
+    "count": 1
+   }
+  ],
+  "bit crazy": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "be a"
+ ],
+ "endKeys": []
+}

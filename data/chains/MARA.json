@@ -1,0 +1,72 @@
+{
+ "identifier": "MARA",
+ "chains": {
+  "i want": [
+   {
+    "probability": 1,
+    "value": "him",
+    "count": 1
+   }
+  ],
+  "want him": [
+   {
+    "probability": 1,
+    "value": "the",
+    "count": 1
+   }
+  ],
+  "him the": [
+   {
+    "probability": 1,
+    "value": "fuck",
+    "count": 1
+   }
+  ],
+  "the fuck": [
+   {
+    "probability": 1,
+    "value": "out",
+    "count": 1
+   }
+  ],
+  "fuck out": [
+   {
+    "probability": 1,
+    "value": "of",
+    "count": 1
+   }
+  ],
+  "out of": [
+   {
+    "probability": 1,
+    "value": "here",
+    "count": 1
+   }
+  ],
+  "of here": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "here, ": [
+   {
+    "probability": 1,
+    "value": "jake",
+    "count": 1
+   }
+  ],
+  ", jake": [
+   {
+    "probability": 1,
+    "value": "!",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "i want"
+ ],
+ "endKeys": []
+}

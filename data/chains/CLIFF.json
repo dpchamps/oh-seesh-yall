@@ -1,0 +1,371 @@
+{
+ "identifier": "CLIFF",
+ "chains": {
+  "i couldn't": [
+   {
+    "probability": 1,
+    "value": "help",
+    "count": 1
+   }
+  ],
+  "couldn't help": [
+   {
+    "probability": 1,
+    "value": "but",
+    "count": 1
+   }
+  ],
+  "help but": [
+   {
+    "probability": 1,
+    "value": "notice",
+    "count": 1
+   }
+  ],
+  "but notice": [
+   {
+    "probability": 1,
+    "value": "how",
+    "count": 1
+   }
+  ],
+  "notice how": [
+   {
+    "probability": 1,
+    "value": "badly",
+    "count": 1
+   }
+  ],
+  "how badly": [
+   {
+    "probability": 1,
+    "value": "this",
+    "count": 1
+   }
+  ],
+  "badly this": [
+   {
+    "probability": 1,
+    "value": "is",
+    "count": 1
+   }
+  ],
+  "this is": [
+   {
+    "probability": 1,
+    "value": "going",
+    "count": 1
+   }
+  ],
+  "is going": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "i'm cliff": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "and i": [
+   {
+    "probability": 1,
+    "value": "know",
+    "count": 1
+   }
+  ],
+  "i know": [
+   {
+    "probability": 1,
+    "value": "who",
+    "count": 1
+   }
+  ],
+  "know who": [
+   {
+    "probability": 1,
+    "value": "you",
+    "count": 1
+   }
+  ],
+  "who you": [
+   {
+    "probability": 1,
+    "value": "are",
+    "count": 1
+   }
+  ],
+  "you are": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "bro code": [
+   {
+    "probability": 1,
+    "value": "?",
+    "count": 1
+   }
+  ],
+  "you should": [
+   {
+    "probability": 1,
+    "value": "be",
+    "count": 1
+   }
+  ],
+  "should be": [
+   {
+    "probability": 1,
+    "value": "excited",
+    "count": 1
+   }
+  ],
+  "be excited": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "it's gonna": [
+   {
+    "probability": 1,
+    "value": "be",
+    "count": 1
+   }
+  ],
+  "gonna be": [
+   {
+    "probability": 1,
+    "value": "big",
+    "count": 1
+   }
+  ],
+  "be big": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "so, ": [
+   {
+    "probability": 1,
+    "value": "uh",
+    "count": 1
+   }
+  ],
+  ", uh": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 2
+   }
+  ],
+  "uh, ": [
+   {
+    "probability": 0.5,
+    "value": "i",
+    "count": 1
+   },
+   {
+    "probability": 0.5,
+    "value": "maybe",
+    "count": 1
+   }
+  ],
+  ", i": [
+   {
+    "probability": 1,
+    "value": "got",
+    "count": 1
+   }
+  ],
+  "i got": [
+   {
+    "probability": 1,
+    "value": "some",
+    "count": 1
+   }
+  ],
+  "got some": [
+   {
+    "probability": 1,
+    "value": "food",
+    "count": 1
+   }
+  ],
+  "some food": [
+   {
+    "probability": 1,
+    "value": "back",
+    "count": 1
+   }
+  ],
+  "food back": [
+   {
+    "probability": 1,
+    "value": "at",
+    "count": 1
+   }
+  ],
+  "back at": [
+   {
+    "probability": 1,
+    "value": "my",
+    "count": 1
+   }
+  ],
+  "at my": [
+   {
+    "probability": 1,
+    "value": "house",
+    "count": 1
+   }
+  ],
+  "my house": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "you want": [
+   {
+    "probability": 1,
+    "value": "to",
+    "count": 1
+   }
+  ],
+  "want to": [
+   {
+    "probability": 1,
+    "value": "go",
+    "count": 1
+   }
+  ],
+  "to go": [
+   {
+    "probability": 1,
+    "value": "back",
+    "count": 1
+   }
+  ],
+  "go back": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "back, ": [
+   {
+    "probability": 1,
+    "value": "uh",
+    "count": 1
+   }
+  ],
+  ", maybe": [
+   {
+    "probability": 1,
+    "value": "get",
+    "count": 1
+   }
+  ],
+  "maybe get": [
+   {
+    "probability": 1,
+    "value": "some",
+    "count": 1
+   }
+  ],
+  "get some": [
+   {
+    "probability": 1,
+    "value": "dinner",
+    "count": 1
+   }
+  ],
+  "some dinner": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "dinner, ": [
+   {
+    "probability": 1,
+    "value": "have",
+    "count": 1
+   }
+  ],
+  ", have": [
+   {
+    "probability": 1,
+    "value": "a",
+    "count": 1
+   }
+  ],
+  "have a": [
+   {
+    "probability": 1,
+    "value": "sneak",
+    "count": 1
+   }
+  ],
+  "a sneak": [
+   {
+    "probability": 1,
+    "value": "peek",
+    "count": 1
+   }
+  ],
+  "sneak peek": [
+   {
+    "probability": 1,
+    "value": "at",
+    "count": 1
+   }
+  ],
+  "peek at": [
+   {
+    "probability": 1,
+    "value": "the",
+    "count": 1
+   }
+  ],
+  "at the": [
+   {
+    "probability": 1,
+    "value": "game",
+    "count": 1
+   }
+  ],
+  "the game": [
+   {
+    "probability": 1,
+    "value": "?",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "i couldn't",
+  "i'm cliff",
+  "and i",
+  "bro code",
+  "you should",
+  "it's gonna",
+  "so, ",
+  "you want"
+ ],
+ "endKeys": []
+}

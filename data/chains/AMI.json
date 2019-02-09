@@ -1,0 +1,79 @@
+{
+ "identifier": "AMI",
+ "chains": {
+  "this is": [
+   {
+    "probability": 1,
+    "value": "a",
+    "count": 1
+   }
+  ],
+  "is a": [
+   {
+    "probability": 1,
+    "value": "good",
+    "count": 1
+   }
+  ],
+  "a good": [
+   {
+    "probability": 1,
+    "value": "one",
+    "count": 1
+   }
+  ],
+  "good one": [
+   {
+    "probability": 1,
+    "value": "ha",
+    "count": 1
+   }
+  ],
+  "one ha": [
+   {
+    "probability": 1,
+    "value": "ha",
+    "count": 1
+   }
+  ],
+  "ha ha": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "ha, ": [
+   {
+    "probability": 1,
+    "value": "permission",
+    "count": 1
+   }
+  ],
+  ", permission": [
+   {
+    "probability": 1,
+    "value": "to",
+    "count": 1
+   }
+  ],
+  "permission to": [
+   {
+    "probability": 1,
+    "value": "tweet",
+    "count": 1
+   }
+  ],
+  "to tweet": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "this is"
+ ],
+ "endKeys": []
+}

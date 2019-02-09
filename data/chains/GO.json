@@ -1,0 +1,65 @@
+{
+ "identifier": "GO",
+ "chains": {
+  "who dares": [
+   {
+    "probability": 1,
+    "value": "asks",
+    "count": 1
+   }
+  ],
+  "dares asks": [
+   {
+    "probability": 1,
+    "value": "to",
+    "count": 1
+   }
+  ],
+  "asks to": [
+   {
+    "probability": 1,
+    "value": "be",
+    "count": 1
+   }
+  ],
+  "to be": [
+   {
+    "probability": 1,
+    "value": "removed",
+    "count": 1
+   }
+  ],
+  "be removed": [
+   {
+    "probability": 1,
+    "value": "from",
+    "count": 1
+   }
+  ],
+  "removed from": [
+   {
+    "probability": 1,
+    "value": "this",
+    "count": 1
+   }
+  ],
+  "from this": [
+   {
+    "probability": 1,
+    "value": "thread",
+    "count": 1
+   }
+  ],
+  "this thread": [
+   {
+    "probability": 1,
+    "value": "?",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "who dares"
+ ],
+ "endKeys": []
+}

@@ -1,0 +1,1846 @@
+{
+ "identifier": "HIKER",
+ "chains": {
+  "i gotcha": [
+   {
+    "probability": 1,
+    "value": "ya",
+    "count": 1
+   }
+  ],
+  "gotcha ya": [
+   {
+    "probability": 1,
+    "value": "!",
+    "count": 1
+   }
+  ],
+  "ah, ": [
+   {
+    "probability": 1,
+    "value": "i'm",
+    "count": 1
+   }
+  ],
+  ", i'm": [
+   {
+    "probability": 0.5,
+    "value": "so",
+    "count": 1
+   },
+   {
+    "probability": 0.5,
+    "value": "stanley",
+    "count": 1
+   }
+  ],
+  "i'm so": [
+   {
+    "probability": 1,
+    "value": "sorry",
+    "count": 1
+   }
+  ],
+  "so sorry": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "i thought": [
+   {
+    "probability": 1,
+    "value": "you",
+    "count": 1
+   }
+  ],
+  "thought you": [
+   {
+    "probability": 1,
+    "value": "guys",
+    "count": 1
+   }
+  ],
+  "you guys": [
+   {
+    "probability": 0.3333333333333333,
+    "value": "were",
+    "count": 1
+   },
+   {
+    "probability": 0.3333333333333333,
+    "value": "know",
+    "count": 1
+   },
+   {
+    "probability": 0.3333333333333333,
+    "value": "outta",
+    "count": 1
+   }
+  ],
+  "guys were": [
+   {
+    "probability": 1,
+    "value": "cows",
+    "count": 1
+   }
+  ],
+  "were cows": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "because of": [
+   {
+    "probability": 1,
+    "value": "the",
+    "count": 1
+   }
+  ],
+  "of the": [
+   {
+    "probability": 0.5,
+    "value": "way",
+    "count": 1
+   },
+   {
+    "probability": 0.5,
+    "value": "matter",
+    "count": 1
+   }
+  ],
+  "the way": [
+   {
+    "probability": 1,
+    "value": "you",
+    "count": 2
+   }
+  ],
+  "way you": [
+   {
+    "probability": 1,
+    "value": "were",
+    "count": 2
+   }
+  ],
+  "you were": [
+   {
+    "probability": 0.5,
+    "value": "talking",
+    "count": 1
+   },
+   {
+    "probability": 0.5,
+    "value": "using",
+    "count": 1
+   }
+  ],
+  "were talking": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "who am": [
+   {
+    "probability": 1,
+    "value": "i",
+    "count": 1
+   }
+  ],
+  "am i": [
+   {
+    "probability": 1,
+    "value": "?",
+    "count": 1
+   }
+  ],
+  "thank you": [
+   {
+    "probability": 1,
+    "value": "so",
+    "count": 1
+   }
+  ],
+  "you so": [
+   {
+    "probability": 1,
+    "value": "much",
+    "count": 1
+   }
+  ],
+  "so much": [
+   {
+    "probability": 1,
+    "value": "for",
+    "count": 1
+   }
+  ],
+  "much for": [
+   {
+    "probability": 1,
+    "value": "asking",
+    "count": 1
+   }
+  ],
+  "for asking": [
+   {
+    "probability": 1,
+    "value": "that",
+    "count": 1
+   }
+  ],
+  "asking that": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "guys know": [
+   {
+    "probability": 1,
+    "value": "bear",
+    "count": 1
+   }
+  ],
+  "know bear": [
+   {
+    "probability": 1,
+    "value": "grylls",
+    "count": 1
+   }
+  ],
+  "bear grylls": [
+   {
+    "probability": 1,
+    "value": "?",
+    "count": 1
+   }
+  ],
+  "yeah, ": [
+   {
+    "probability": 1,
+    "value": "well",
+    "count": 1
+   }
+  ],
+  ", well": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "well, ": [
+   {
+    "probability": 1,
+    "value": "i'm",
+    "count": 1
+   }
+  ],
+  "i'm stanley": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "who the": [
+   {
+    "probability": 1,
+    "value": "fuck",
+    "count": 1
+   }
+  ],
+  "the fuck": [
+   {
+    "probability": 1,
+    "value": "is",
+    "count": 2
+   }
+  ],
+  "fuck is": [
+   {
+    "probability": 0.5,
+    "value": "stanley",
+    "count": 1
+   },
+   {
+    "probability": 0.5,
+    "value": "beef",
+    "count": 1
+   }
+  ],
+  "is stanley": [
+   {
+    "probability": 1,
+    "value": "grylls",
+    "count": 1
+   }
+  ],
+  "stanley grylls": [
+   {
+    "probability": 1,
+    "value": "?",
+    "count": 1
+   }
+  ],
+  "who's this": [
+   {
+    "probability": 0.5,
+    "value": "guy",
+    "count": 1
+   },
+   {
+    "probability": 0.5,
+    "value": "jack",
+    "count": 1
+   }
+  ],
+  "this guy": [
+   {
+    "probability": 1,
+    "value": "?",
+    "count": 2
+   }
+  ],
+  "this jack": [
+   {
+    "probability": 1,
+    "value": "a",
+    "count": 1
+   }
+  ],
+  "jack a": [
+   {
+    "probability": 1,
+    "value": "lope",
+    "count": 1
+   }
+  ],
+  "a lope": [
+   {
+    "probability": 1,
+    "value": "you",
+    "count": 1
+   }
+  ],
+  "lope you": [
+   {
+    "probability": 1,
+    "value": "bring",
+    "count": 1
+   }
+  ],
+  "you bring": [
+   {
+    "probability": 1,
+    "value": "along",
+    "count": 1
+   }
+  ],
+  "bring along": [
+   {
+    "probability": 1,
+    "value": "?",
+    "count": 1
+   }
+  ],
+  "i can": [
+   {
+    "probability": 1,
+    "value": "help",
+    "count": 1
+   }
+  ],
+  "can help": [
+   {
+    "probability": 1,
+    "value": "you",
+    "count": 1
+   }
+  ],
+  "help you": [
+   {
+    "probability": 1,
+    "value": "guys",
+    "count": 1
+   }
+  ],
+  "guys outta": [
+   {
+    "probability": 1,
+    "value": "here",
+    "count": 1
+   }
+  ],
+  "outta here": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "no no": [
+   {
+    "probability": 0.5,
+    "value": "no",
+    "count": 1
+   },
+   {
+    "probability": 0.5,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "a baby": [
+   {
+    "probability": 1,
+    "value": "could",
+    "count": 1
+   }
+  ],
+  "baby could": [
+   {
+    "probability": 1,
+    "value": "get",
+    "count": 1
+   }
+  ],
+  "could get": [
+   {
+    "probability": 1,
+    "value": "out",
+    "count": 1
+   }
+  ],
+  "get out": [
+   {
+    "probability": 1,
+    "value": "of",
+    "count": 1
+   }
+  ],
+  "out of": [
+   {
+    "probability": 1,
+    "value": "that",
+    "count": 1
+   }
+  ],
+  "of that": [
+   {
+    "probability": 1,
+    "value": "net",
+    "count": 1
+   }
+  ],
+  "that net": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "i'm happy": [
+   {
+    "probability": 1,
+    "value": "you",
+    "count": 1
+   }
+  ],
+  "happy you": [
+   {
+    "probability": 1,
+    "value": "asked",
+    "count": 1
+   }
+  ],
+  "you asked": [
+   {
+    "probability": 1,
+    "value": "that",
+    "count": 1
+   }
+  ],
+  "asked that": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "i am": [
+   {
+    "probability": 1,
+    "value": "hunting",
+    "count": 1
+   }
+  ],
+  "am hunting": [
+   {
+    "probability": 1,
+    "value": "the",
+    "count": 1
+   }
+  ],
+  "hunting the": [
+   {
+    "probability": 1,
+    "value": "most",
+    "count": 1
+   }
+  ],
+  "the most": [
+   {
+    "probability": 1,
+    "value": "dangerous",
+    "count": 1
+   }
+  ],
+  "most dangerous": [
+   {
+    "probability": 1,
+    "value": "game",
+    "count": 1
+   }
+  ],
+  "dangerous game": [
+   {
+    "probability": 1,
+    "value": "of",
+    "count": 1
+   }
+  ],
+  "game of": [
+   {
+    "probability": 1,
+    "value": "all",
+    "count": 1
+   }
+  ],
+  "of all": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "think about": [
+   {
+    "probability": 1,
+    "value": "it",
+    "count": 1
+   }
+  ],
+  "about it": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "it, ": [
+   {
+    "probability": 1,
+    "value": "man",
+    "count": 1
+   }
+  ],
+  ", man": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "overweighted ness": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "ness, ": [
+   {
+    "probability": 1,
+    "value": "diabetes",
+    "count": 1
+   }
+  ],
+  ", diabetes": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "diabetes, ": [
+   {
+    "probability": 1,
+    "value": "heart",
+    "count": 1
+   }
+  ],
+  ", heart": [
+   {
+    "probability": 1,
+    "value": "failure",
+    "count": 1
+   }
+  ],
+  "heart failure": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "failure, ": [
+   {
+    "probability": 1,
+    "value": "um",
+    "count": 1
+   }
+  ],
+  ", um": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "choking on": [
+   {
+    "probability": 1,
+    "value": "stuff",
+    "count": 1
+   }
+  ],
+  "on stuff": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "what the": [
+   {
+    "probability": 1,
+    "value": "fuck",
+    "count": 1
+   }
+  ],
+  "is beef": [
+   {
+    "probability": 1,
+    "value": "?",
+    "count": 1
+   }
+  ],
+  "who is": [
+   {
+    "probability": 1,
+    "value": "this",
+    "count": 1
+   }
+  ],
+  "is this": [
+   {
+    "probability": 1,
+    "value": "guy",
+    "count": 1
+   }
+  ],
+  "well are": [
+   {
+    "probability": 1,
+    "value": "you",
+    "count": 1
+   }
+  ],
+  "are you": [
+   {
+    "probability": 1,
+    "value": "kidding",
+    "count": 1
+   }
+  ],
+  "you kidding": [
+   {
+    "probability": 1,
+    "value": "?",
+    "count": 1
+   }
+  ],
+  "surely, ": [
+   {
+    "probability": 1,
+    "value": "he's",
+    "count": 1
+   }
+  ],
+  ", he's": [
+   {
+    "probability": 1,
+    "value": "kidding",
+    "count": 1
+   }
+  ],
+  "he's kidding": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "thank grood": [
+   {
+    "probability": 1,
+    "value": "ness",
+    "count": 1
+   }
+  ],
+  "grood ness": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "uh, ": [
+   {
+    "probability": 0.3333333333333333,
+    "value": "half",
+    "count": 1
+   },
+   {
+    "probability": 0.3333333333333333,
+    "value": "i",
+    "count": 1
+   },
+   {
+    "probability": 0.3333333333333333,
+    "value": "a",
+    "count": 1
+   }
+  ],
+  ", half": [
+   {
+    "probability": 1,
+    "value": "the",
+    "count": 1
+   }
+  ],
+  "half the": [
+   {
+    "probability": 1,
+    "value": "cars",
+    "count": 1
+   }
+  ],
+  "the cars": [
+   {
+    "probability": 1,
+    "value": "in",
+    "count": 1
+   }
+  ],
+  "cars in": [
+   {
+    "probability": 1,
+    "value": "the",
+    "count": 1
+   }
+  ],
+  "in the": [
+   {
+    "probability": 1,
+    "value": "united",
+    "count": 1
+   }
+  ],
+  "the united": [
+   {
+    "probability": 1,
+    "value": "states",
+    "count": 1
+   }
+  ],
+  "united states": [
+   {
+    "probability": 1,
+    "value": "and",
+    "count": 1
+   }
+  ],
+  "states and": [
+   {
+    "probability": 1,
+    "value": "milwaukee",
+    "count": 1
+   }
+  ],
+  "and milwaukee": [
+   {
+    "probability": 1,
+    "value": "are",
+    "count": 1
+   }
+  ],
+  "milwaukee are": [
+   {
+    "probability": 1,
+    "value": "all",
+    "count": 1
+   }
+  ],
+  "are all": [
+   {
+    "probability": 1,
+    "value": "driven",
+    "count": 1
+   }
+  ],
+  "all driven": [
+   {
+    "probability": 1,
+    "value": "by",
+    "count": 1
+   }
+  ],
+  "driven by": [
+   {
+    "probability": 1,
+    "value": "bovines",
+    "count": 1
+   }
+  ],
+  "by bovines": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "saw it": [
+   {
+    "probability": 1,
+    "value": "in",
+    "count": 1
+   }
+  ],
+  "it in": [
+   {
+    "probability": 1,
+    "value": "a",
+    "count": 1
+   }
+  ],
+  "in a": [
+   {
+    "probability": 1,
+    "value": "documentary",
+    "count": 1
+   }
+  ],
+  "a documentary": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "you should": [
+   {
+    "probability": 1,
+    "value": "see",
+    "count": 1
+   }
+  ],
+  "should see": [
+   {
+    "probability": 1,
+    "value": "it",
+    "count": 1
+   }
+  ],
+  "see it": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "it's called": [
+   {
+    "probability": 1,
+    "value": "the",
+    "count": 1
+   }
+  ],
+  "called the": [
+   {
+    "probability": 1,
+    "value": "far",
+    "count": 1
+   }
+  ],
+  "the far": [
+   {
+    "probability": 1,
+    "value": "side",
+    "count": 1
+   }
+  ],
+  "far side": [
+   {
+    "probability": 1,
+    "value": "by",
+    "count": 1
+   }
+  ],
+  "side by": [
+   {
+    "probability": 1,
+    "value": "gary",
+    "count": 1
+   }
+  ],
+  "by gary": [
+   {
+    "probability": 1,
+    "value": "larson",
+    "count": 1
+   }
+  ],
+  "gary larson": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  ", i": [
+   {
+    "probability": 0.5,
+    "value": "think",
+    "count": 1
+   },
+   {
+    "probability": 0.5,
+    "value": "couldn't",
+    "count": 1
+   }
+  ],
+  "i think": [
+   {
+    "probability": 1,
+    "value": "it's",
+    "count": 1
+   }
+  ],
+  "think it's": [
+   {
+    "probability": 1,
+    "value": "on",
+    "count": 1
+   }
+  ],
+  "it's on": [
+   {
+    "probability": 1,
+    "value": "netflix",
+    "count": 1
+   }
+  ],
+  "on netflix": [
+   {
+    "probability": 1,
+    "value": "in",
+    "count": 1
+   }
+  ],
+  "netflix in": [
+   {
+    "probability": 1,
+    "value": "staunt",
+    "count": 1
+   }
+  ],
+  "in staunt": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  ", a": [
+   {
+    "probability": 1,
+    "value": "cartoon",
+    "count": 1
+   }
+  ],
+  "a cartoon": [
+   {
+    "probability": 1,
+    "value": "based",
+    "count": 2
+   }
+  ],
+  "cartoon based": [
+   {
+    "probability": 1,
+    "value": "on",
+    "count": 2
+   }
+  ],
+  "based on": [
+   {
+    "probability": 0.5,
+    "value": "facts",
+    "count": 1
+   },
+   {
+    "probability": 0.5,
+    "value": "jokey",
+    "count": 1
+   }
+  ],
+  "on facts": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "on jokey": [
+   {
+    "probability": 1,
+    "value": "facts",
+    "count": 1
+   }
+  ],
+  "jokey facts": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "hold back": [
+   {
+    "probability": 0.6666666666666666,
+    "value": ",",
+    "count": 2
+   },
+   {
+    "probability": 0.3333333333333333,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "back, ": [
+   {
+    "probability": 1,
+    "value": "hold",
+    "count": 2
+   }
+  ],
+  ", hold": [
+   {
+    "probability": 1,
+    "value": "back",
+    "count": 2
+   }
+  ],
+  "moo moo": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "you're not": [
+   {
+    "probability": 1,
+    "value": "a",
+    "count": 1
+   }
+  ],
+  "not a": [
+   {
+    "probability": 1,
+    "value": "cow",
+    "count": 1
+   }
+  ],
+  "a cow": [
+   {
+    "probability": 0.6666666666666666,
+    "value": ".",
+    "count": 2
+   },
+   {
+    "probability": 0.3333333333333333,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "ugh, ": [
+   {
+    "probability": 1,
+    "value": "the",
+    "count": 1
+   }
+  ],
+  ", the": [
+   {
+    "probability": 1,
+    "value": "way",
+    "count": 1
+   }
+  ],
+  "were using": [
+   {
+    "probability": 1,
+    "value": "your",
+    "count": 1
+   }
+  ],
+  "using your": [
+   {
+    "probability": 1,
+    "value": "cow",
+    "count": 1
+   }
+  ],
+  "your cow": [
+   {
+    "probability": 1,
+    "value": "y",
+    "count": 1
+   }
+  ],
+  "cow y": [
+   {
+    "probability": 1,
+    "value": "fingers",
+    "count": 1
+   }
+  ],
+  "y fingers": [
+   {
+    "probability": 1,
+    "value": "i",
+    "count": 1
+   }
+  ],
+  "fingers i": [
+   {
+    "probability": 1,
+    "value": "was",
+    "count": 1
+   }
+  ],
+  "i was": [
+   {
+    "probability": 1,
+    "value": "almost",
+    "count": 1
+   }
+  ],
+  "was almost": [
+   {
+    "probability": 1,
+    "value": "certain",
+    "count": 1
+   }
+  ],
+  "almost certain": [
+   {
+    "probability": 1,
+    "value": "of",
+    "count": 1
+   }
+  ],
+  "certain of": [
+   {
+    "probability": 1,
+    "value": "it",
+    "count": 1
+   }
+  ],
+  "of it": [
+   {
+    "probability": 1,
+    "value": "that",
+    "count": 1
+   }
+  ],
+  "it that": [
+   {
+    "probability": 1,
+    "value": "time",
+    "count": 1
+   }
+  ],
+  "that time": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "cows has": [
+   {
+    "probability": 1,
+    "value": "hooves",
+    "count": 2
+   }
+  ],
+  "has hooves": [
+   {
+    "probability": 0.5,
+    "value": "!",
+    "count": 1
+   },
+   {
+    "probability": 0.5,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "you hear": [
+   {
+    "probability": 1,
+    "value": "that",
+    "count": 1
+   }
+  ],
+  "hear that": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "that, ": [
+   {
+    "probability": 1,
+    "value": "tree",
+    "count": 1
+   }
+  ],
+  ", tree": [
+   {
+    "probability": 1,
+    "value": "?",
+    "count": 1
+   }
+  ],
+  "next thing": [
+   {
+    "probability": 1,
+    "value": "you're",
+    "count": 1
+   }
+  ],
+  "thing you're": [
+   {
+    "probability": 1,
+    "value": "going",
+    "count": 1
+   }
+  ],
+  "you're going": [
+   {
+    "probability": 1,
+    "value": "to",
+    "count": 1
+   }
+  ],
+  "going to": [
+   {
+    "probability": 1,
+    "value": "tell",
+    "count": 1
+   }
+  ],
+  "to tell": [
+   {
+    "probability": 1,
+    "value": "me",
+    "count": 1
+   }
+  ],
+  "tell me": [
+   {
+    "probability": 1,
+    "value": "is",
+    "count": 1
+   }
+  ],
+  "me is": [
+   {
+    "probability": 1,
+    "value": "that",
+    "count": 1
+   }
+  ],
+  "is that": [
+   {
+    "probability": 1,
+    "value": "top",
+    "count": 1
+   }
+  ],
+  "that top": [
+   {
+    "probability": 1,
+    "value": "hats",
+    "count": 1
+   }
+  ],
+  "top hats": [
+   {
+    "probability": 1,
+    "value": "don't",
+    "count": 1
+   }
+  ],
+  "hats don't": [
+   {
+    "probability": 1,
+    "value": "have",
+    "count": 1
+   }
+  ],
+  "don't have": [
+   {
+    "probability": 1,
+    "value": "tops",
+    "count": 1
+   }
+  ],
+  "have tops": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "i can't": [
+   {
+    "probability": 1,
+    "value": "draw",
+    "count": 1
+   }
+  ],
+  "can't draw": [
+   {
+    "probability": 1,
+    "value": "a",
+    "count": 1
+   }
+  ],
+  "draw a": [
+   {
+    "probability": 0.6666666666666666,
+    "value": "cow",
+    "count": 2
+   },
+   {
+    "probability": 0.3333333333333333,
+    "value": "fucking",
+    "count": 1
+   }
+  ],
+  "there's not": [
+   {
+    "probability": 1,
+    "value": "enough",
+    "count": 1
+   }
+  ],
+  "not enough": [
+   {
+    "probability": 1,
+    "value": "time",
+    "count": 1
+   }
+  ],
+  "enough time": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "okay, ": [
+   {
+    "probability": 1,
+    "value": "stop",
+    "count": 1
+   }
+  ],
+  ", stop": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "you could": [
+   {
+    "probability": 1,
+    "value": "give",
+    "count": 1
+   }
+  ],
+  "could give": [
+   {
+    "probability": 1,
+    "value": "me",
+    "count": 1
+   }
+  ],
+  "give me": [
+   {
+    "probability": 1,
+    "value": "2",
+    "count": 1
+   }
+  ],
+  "me 2": [
+   {
+    "probability": 1,
+    "value": "months",
+    "count": 1
+   }
+  ],
+  "2 months": [
+   {
+    "probability": 1,
+    "value": "straight",
+    "count": 1
+   }
+  ],
+  "months straight": [
+   {
+    "probability": 1,
+    "value": "and",
+    "count": 1
+   }
+  ],
+  "straight and": [
+   {
+    "probability": 1,
+    "value": "all",
+    "count": 1
+   }
+  ],
+  "and all": [
+   {
+    "probability": 1,
+    "value": "i",
+    "count": 1
+   }
+  ],
+  "all i": [
+   {
+    "probability": 1,
+    "value": "have",
+    "count": 1
+   }
+  ],
+  "i have": [
+   {
+    "probability": 1,
+    "value": "to",
+    "count": 1
+   }
+  ],
+  "have to": [
+   {
+    "probability": 1,
+    "value": "do",
+    "count": 1
+   }
+  ],
+  "to do": [
+   {
+    "probability": 1,
+    "value": "is",
+    "count": 1
+   }
+  ],
+  "do is": [
+   {
+    "probability": 1,
+    "value": "draw",
+    "count": 1
+   }
+  ],
+  "is draw": [
+   {
+    "probability": 1,
+    "value": "a",
+    "count": 1
+   }
+  ],
+  "cow, ": [
+   {
+    "probability": 1,
+    "value": "and",
+    "count": 1
+   }
+  ],
+  ", and": [
+   {
+    "probability": 1,
+    "value": "even",
+    "count": 1
+   }
+  ],
+  "and even": [
+   {
+    "probability": 1,
+    "value": "then",
+    "count": 1
+   }
+  ],
+  "even then": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "then, ": [
+   {
+    "probability": 1,
+    "value": "i",
+    "count": 1
+   }
+  ],
+  "i couldn't": [
+   {
+    "probability": 1,
+    "value": "draw",
+    "count": 1
+   }
+  ],
+  "couldn't draw": [
+   {
+    "probability": 1,
+    "value": "a",
+    "count": 1
+   }
+  ],
+  "a fucking": [
+   {
+    "probability": 1,
+    "value": "cow",
+    "count": 1
+   }
+  ],
+  "fucking cow": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "we can": [
+   {
+    "probability": 1,
+    "value": "talk",
+    "count": 1
+   }
+  ],
+  "can talk": [
+   {
+    "probability": 1,
+    "value": "about",
+    "count": 1
+   }
+  ],
+  "talk about": [
+   {
+    "probability": 1,
+    "value": "cows",
+    "count": 1
+   }
+  ],
+  "about cows": [
+   {
+    "probability": 1,
+    "value": "until",
+    "count": 1
+   }
+  ],
+  "cows until": [
+   {
+    "probability": 1,
+    "value": "they",
+    "count": 1
+   }
+  ],
+  "until they": [
+   {
+    "probability": 1,
+    "value": "come",
+    "count": 1
+   }
+  ],
+  "they come": [
+   {
+    "probability": 1,
+    "value": "home",
+    "count": 1
+   }
+  ],
+  "come home": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "home, ": [
+   {
+    "probability": 1,
+    "value": "but",
+    "count": 1
+   }
+  ],
+  ", but": [
+   {
+    "probability": 1,
+    "value": "the",
+    "count": 1
+   }
+  ],
+  "but the": [
+   {
+    "probability": 1,
+    "value": "fact",
+    "count": 1
+   }
+  ],
+  "the fact": [
+   {
+    "probability": 1,
+    "value": "of",
+    "count": 1
+   }
+  ],
+  "fact of": [
+   {
+    "probability": 1,
+    "value": "the",
+    "count": 1
+   }
+  ],
+  "the matter": [
+   {
+    "probability": 1,
+    "value": "remains",
+    "count": 1
+   }
+  ],
+  "matter remains": [
+   {
+    "probability": 1,
+    "value": "your",
+    "count": 1
+   }
+  ],
+  "remains your": [
+   {
+    "probability": 1,
+    "value": "friend",
+    "count": 1
+   }
+  ],
+  "your friend": [
+   {
+    "probability": 1,
+    "value": "is",
+    "count": 1
+   }
+  ],
+  "friend is": [
+   {
+    "probability": 1,
+    "value": "missing",
+    "count": 1
+   }
+  ],
+  "is missing": [
+   {
+    "probability": 1,
+    "value": "and",
+    "count": 1
+   }
+  ],
+  "missing and": [
+   {
+    "probability": 1,
+    "value": "we",
+    "count": 1
+   }
+  ],
+  "and we": [
+   {
+    "probability": 1,
+    "value": "must",
+    "count": 1
+   }
+  ],
+  "we must": [
+   {
+    "probability": 1,
+    "value": "find",
+    "count": 1
+   }
+  ],
+  "must find": [
+   {
+    "probability": 1,
+    "value": "him",
+    "count": 1
+   }
+  ],
+  "the hunt": [
+   {
+    "probability": 1,
+    "value": "is",
+    "count": 1
+   }
+  ],
+  "hunt is": [
+   {
+    "probability": 1,
+    "value": "on",
+    "count": 1
+   }
+  ],
+  "is on": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "do you": [
+   {
+    "probability": 1,
+    "value": "have",
+    "count": 1
+   }
+  ],
+  "you have": [
+   {
+    "probability": 1,
+    "value": "your",
+    "count": 1
+   }
+  ],
+  "have your": [
+   {
+    "probability": 1,
+    "value": "safari",
+    "count": 1
+   }
+  ],
+  "your safari": [
+   {
+    "probability": 1,
+    "value": "hat",
+    "count": 1
+   }
+  ],
+  "safari hat": [
+   {
+    "probability": 1,
+    "value": "?",
+    "count": 1
+   }
+  ],
+  "you're gonna": [
+   {
+    "probability": 1,
+    "value": "need",
+    "count": 1
+   }
+  ],
+  "gonna need": [
+   {
+    "probability": 1,
+    "value": "it",
+    "count": 1
+   }
+  ],
+  "need it": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "i gotcha",
+  "ah, ",
+  "i thought",
+  "because of",
+  "who am",
+  "thank you",
+  "you guys",
+  "yeah, ",
+  "who the",
+  "who's this",
+  "i can",
+  "no no",
+  "a baby",
+  "i'm happy",
+  "i am",
+  "think about",
+  "overweighted ness",
+  "choking on",
+  "what the",
+  "who is",
+  "well are",
+  "surely, ",
+  "thank grood",
+  "uh, ",
+  "saw it",
+  "you should",
+  "it's called",
+  "a cartoon",
+  "hold back",
+  "moo moo",
+  "you're not",
+  "ugh, ",
+  "cows has",
+  "you hear",
+  "next thing",
+  "i can't",
+  "there's not",
+  "okay, ",
+  "you could",
+  "we can",
+  "the hunt",
+  "do you",
+  "you're gonna"
+ ],
+ "endKeys": []
+}

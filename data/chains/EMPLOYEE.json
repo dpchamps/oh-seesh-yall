@@ -1,0 +1,45 @@
+{
+ "identifier": "EMPLOYEE",
+ "chains": {
+  "you're gonna": [
+   {
+    "probability": 1,
+    "value": "have",
+    "count": 1
+   }
+  ],
+  "gonna have": [
+   {
+    "probability": 1,
+    "value": "to",
+    "count": 1
+   }
+  ],
+  "have to": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "talk to": [
+   {
+    "probability": 1,
+    "value": "my",
+    "count": 1
+   }
+  ],
+  "to my": [
+   {
+    "probability": 1,
+    "value": "boss",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "you're gonna",
+  "talk to"
+ ],
+ "endKeys": []
+}

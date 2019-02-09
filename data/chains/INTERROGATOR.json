@@ -1,0 +1,279 @@
+{
+ "identifier": "INTERROGATOR",
+ "chains": {
+  "i shit": [
+   {
+    "probability": 1,
+    "value": "in",
+    "count": 1
+   }
+  ],
+  "shit in": [
+   {
+    "probability": 1,
+    "value": "the",
+    "count": 1
+   }
+  ],
+  "in the": [
+   {
+    "probability": 0.5,
+    "value": "copier",
+    "count": 1
+   },
+   {
+    "probability": 0.5,
+    "value": "senate",
+    "count": 1
+   }
+  ],
+  "the copier": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "get off": [
+   {
+    "probability": 1,
+    "value": "of",
+    "count": 1
+   }
+  ],
+  "off of": [
+   {
+    "probability": 1,
+    "value": "me",
+    "count": 1
+   }
+  ],
+  "of me": [
+   {
+    "probability": 1,
+    "value": "!",
+    "count": 1
+   }
+  ],
+  "that's right": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "right, ": [
+   {
+    "probability": 1,
+    "value": "you",
+    "count": 1
+   }
+  ],
+  ", you": [
+   {
+    "probability": 1,
+    "value": "piece",
+    "count": 1
+   }
+  ],
+  "you piece": [
+   {
+    "probability": 1,
+    "value": "of",
+    "count": 1
+   }
+  ],
+  "piece of": [
+   {
+    "probability": 1,
+    "value": "shit",
+    "count": 1
+   }
+  ],
+  "of shit": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "so stop": [
+   {
+    "probability": 1,
+    "value": "saying",
+    "count": 1
+   }
+  ],
+  "stop saying": [
+   {
+    "probability": 1,
+    "value": "no",
+    "count": 1
+   }
+  ],
+  "saying no": [
+   {
+    "probability": 1,
+    "value": "and",
+    "count": 1
+   }
+  ],
+  "no and": [
+   {
+    "probability": 1,
+    "value": "start",
+    "count": 1
+   }
+  ],
+  "and start": [
+   {
+    "probability": 1,
+    "value": "saying",
+    "count": 1
+   }
+  ],
+  "start saying": [
+   {
+    "probability": 1,
+    "value": "yes",
+    "count": 1
+   }
+  ],
+  "saying yes": [
+   {
+    "probability": 1,
+    "value": "!",
+    "count": 1
+   }
+  ],
+  "it may": [
+   {
+    "probability": 1,
+    "value": "be",
+    "count": 1
+   }
+  ],
+  "may be": [
+   {
+    "probability": 1,
+    "value": "illegal",
+    "count": 1
+   }
+  ],
+  "be illegal": [
+   {
+    "probability": 1,
+    "value": "now",
+    "count": 1
+   }
+  ],
+  "illegal now": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "now, ": [
+   {
+    "probability": 1,
+    "value": "but",
+    "count": 1
+   }
+  ],
+  ", but": [
+   {
+    "probability": 1,
+    "value": "it",
+    "count": 1
+   }
+  ],
+  "but it": [
+   {
+    "probability": 1,
+    "value": "won't",
+    "count": 1
+   }
+  ],
+  "it won't": [
+   {
+    "probability": 1,
+    "value": "be",
+    "count": 1
+   }
+  ],
+  "won't be": [
+   {
+    "probability": 1,
+    "value": "for",
+    "count": 1
+   }
+  ],
+  "be for": [
+   {
+    "probability": 1,
+    "value": "long",
+    "count": 1
+   }
+  ],
+  "for long": [
+   {
+    "probability": 1,
+    "value": "!",
+    "count": 1
+   }
+  ],
+  "oh, ": [
+   {
+    "probability": 1,
+    "value": "we'll",
+    "count": 1
+   }
+  ],
+  ", we'll": [
+   {
+    "probability": 1,
+    "value": "see",
+    "count": 1
+   }
+  ],
+  "we'll see": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "my dad's": [
+   {
+    "probability": 1,
+    "value": "in",
+    "count": 1
+   }
+  ],
+  "dad's in": [
+   {
+    "probability": 1,
+    "value": "the",
+    "count": 1
+   }
+  ],
+  "the senate": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "i shit",
+  "get off",
+  "that's right",
+  "so stop",
+  "it may",
+  "oh, ",
+  "my dad's"
+ ],
+ "endKeys": []
+}

@@ -1,0 +1,178 @@
+{
+ "identifier": "HIGH",
+ "chains": {
+  "pitched voice": [
+   {
+    "probability": 0.5,
+    "value": ",",
+    "count": 2
+   },
+   {
+    "probability": 0.5,
+    "value": "what's",
+    "count": 2
+   }
+  ],
+  "voice, ": [
+   {
+    "probability": 1,
+    "value": "but",
+    "count": 2
+   }
+  ],
+  ", but": [
+   {
+    "probability": 1,
+    "value": "not",
+    "count": 2
+   }
+  ],
+  "but not": [
+   {
+    "probability": 1,
+    "value": "the",
+    "count": 2
+   }
+  ],
+  "not the": [
+   {
+    "probability": 1,
+    "value": "high",
+    "count": 2
+   }
+  ],
+  "the high": [
+   {
+    "probability": 1,
+    "value": "pitched",
+    "count": 2
+   }
+  ],
+  "high pitched": [
+   {
+    "probability": 1,
+    "value": "voice",
+    "count": 2
+   }
+  ],
+  "voice what's": [
+   {
+    "probability": 1,
+    "value": "up",
+    "count": 2
+   }
+  ],
+  "what's up": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 2
+   }
+  ],
+  "up, ": [
+   {
+    "probability": 1,
+    "value": "brotha",
+    "count": 2
+   }
+  ],
+  ", brotha": [
+   {
+    "probability": 1,
+    "value": "?",
+    "count": 2
+   }
+  ],
+  "amir then": [
+   {
+    "probability": 1,
+    "value": "lightly",
+    "count": 2
+   }
+  ],
+  "then lightly": [
+   {
+    "probability": 1,
+    "value": "slaps",
+    "count": 2
+   }
+  ],
+  "lightly slaps": [
+   {
+    "probability": 1,
+    "value": "jake",
+    "count": 2
+   }
+  ],
+  "slaps jake": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 2
+   }
+  ],
+  "fives amir": [
+   {
+    "probability": 1,
+    "value": "and",
+    "count": 1
+   }
+  ],
+  "amir and": [
+   {
+    "probability": 1,
+    "value": "laughs",
+    "count": 1
+   }
+  ],
+  "and laughs": [
+   {
+    "probability": 1,
+    "value": "a",
+    "count": 1
+   }
+  ],
+  "laughs a": [
+   {
+    "probability": 1,
+    "value": "little",
+    "count": 1
+   }
+  ],
+  "pitched, ": [
+   {
+    "probability": 1,
+    "value": "whiny",
+    "count": 1
+   }
+  ],
+  ", whiny": [
+   {
+    "probability": 1,
+    "value": "voice",
+    "count": 1
+   }
+  ],
+  "whiny voice": [
+   {
+    "probability": 1,
+    "value": "yeah",
+    "count": 1
+   }
+  ],
+  "voice yeah": [
+   {
+    "probability": 1,
+    "value": "!",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "pitched voice",
+  "amir then",
+  "fives amir",
+  "pitched, "
+ ],
+ "endKeys": []
+}

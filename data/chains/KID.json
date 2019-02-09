@@ -1,0 +1,59 @@
+{
+ "identifier": "KID",
+ "chains": {
+  "i can't": [
+   {
+    "probability": 1,
+    "value": "wait",
+    "count": 1
+   }
+  ],
+  "can't wait": [
+   {
+    "probability": 1,
+    "value": "to",
+    "count": 1
+   }
+  ],
+  "wait to": [
+   {
+    "probability": 1,
+    "value": "kiss",
+    "count": 1
+   }
+  ],
+  "to kiss": [
+   {
+    "probability": 1,
+    "value": "michael",
+    "count": 1
+   }
+  ],
+  "kiss michael": [
+   {
+    "probability": 1,
+    "value": "phelps",
+    "count": 1
+   }
+  ],
+  "michael phelps": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "as promised": [
+   {
+    "probability": 1,
+    "value": "!",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "i can't",
+  "as promised"
+ ],
+ "endKeys": []
+}

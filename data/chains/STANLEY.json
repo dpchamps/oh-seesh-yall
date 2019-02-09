@@ -1,0 +1,477 @@
+{
+ "identifier": "STANLEY",
+ "chains": {
+  "hold back": [
+   {
+    "probability": 0.6666666666666666,
+    "value": ",",
+    "count": 2
+   },
+   {
+    "probability": 0.3333333333333333,
+    "value": "!",
+    "count": 1
+   }
+  ],
+  "back, ": [
+   {
+    "probability": 1,
+    "value": "hold",
+    "count": 2
+   }
+  ],
+  ", hold": [
+   {
+    "probability": 1,
+    "value": "back",
+    "count": 2
+   }
+  ],
+  "you mean": [
+   {
+    "probability": 1,
+    "value": "\"don't",
+    "count": 1
+   }
+  ],
+  "mean \"don't": [
+   {
+    "probability": 1,
+    "value": "have",
+    "count": 1
+   }
+  ],
+  "\"don't have": [
+   {
+    "probability": 1,
+    "value": "a",
+    "count": 1
+   }
+  ],
+  "have a": [
+   {
+    "probability": 1,
+    "value": "cow",
+    "count": 1
+   }
+  ],
+  "a cow": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "cow, ": [
+   {
+    "probability": 0.5,
+    "value": "man",
+    "count": 1
+   },
+   {
+    "probability": 0.5,
+    "value": "\"",
+    "count": 1
+   }
+  ],
+  ", man": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "this is": [
+   {
+    "probability": 1,
+    "value": "exactly",
+    "count": 1
+   }
+  ],
+  "is exactly": [
+   {
+    "probability": 1,
+    "value": "what",
+    "count": 1
+   }
+  ],
+  "exactly what": [
+   {
+    "probability": 1,
+    "value": "a",
+    "count": 1
+   }
+  ],
+  "what a": [
+   {
+    "probability": 1,
+    "value": "fucking",
+    "count": 1
+   }
+  ],
+  "a fucking": [
+   {
+    "probability": 1,
+    "value": "cow",
+    "count": 1
+   }
+  ],
+  "fucking cow": [
+   {
+    "probability": 0.3333333333333333,
+    "value": "would",
+    "count": 1
+   },
+   {
+    "probability": 0.3333333333333333,
+    "value": ".",
+    "count": 1
+   },
+   {
+    "probability": 0.3333333333333333,
+    "value": "!",
+    "count": 1
+   }
+  ],
+  "cow would": [
+   {
+    "probability": 1,
+    "value": "say",
+    "count": 1
+   }
+  ],
+  "would say": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "say, ": [
+   {
+    "probability": 1,
+    "value": "to",
+    "count": 1
+   }
+  ],
+  ", to": [
+   {
+    "probability": 1,
+    "value": "try",
+    "count": 1
+   }
+  ],
+  "to try": [
+   {
+    "probability": 1,
+    "value": "to",
+    "count": 1
+   }
+  ],
+  "try to": [
+   {
+    "probability": 1,
+    "value": "weasel",
+    "count": 1
+   }
+  ],
+  "to weasel": [
+   {
+    "probability": 1,
+    "value": "and",
+    "count": 1
+   }
+  ],
+  "weasel and": [
+   {
+    "probability": 1,
+    "value": "snake",
+    "count": 1
+   }
+  ],
+  "and snake": [
+   {
+    "probability": 1,
+    "value": "his",
+    "count": 1
+   }
+  ],
+  "snake his": [
+   {
+    "probability": 1,
+    "value": "way",
+    "count": 1
+   }
+  ],
+  "his way": [
+   {
+    "probability": 1,
+    "value": "out",
+    "count": 1
+   }
+  ],
+  "way out": [
+   {
+    "probability": 1,
+    "value": "of",
+    "count": 1
+   }
+  ],
+  "out of": [
+   {
+    "probability": 1,
+    "value": "a",
+    "count": 1
+   }
+  ],
+  "of a": [
+   {
+    "probability": 1,
+    "value": "confrontation",
+    "count": 1
+   }
+  ],
+  "you stupid": [
+   {
+    "probability": 1,
+    "value": "fucking",
+    "count": 1
+   }
+  ],
+  "stupid fucking": [
+   {
+    "probability": 1,
+    "value": "cow",
+    "count": 1
+   }
+  ],
+  "you get": [
+   {
+    "probability": 1,
+    "value": "that",
+    "count": 1
+   }
+  ],
+  "get that": [
+   {
+    "probability": 1,
+    "value": "dirty",
+    "count": 1
+   }
+  ],
+  "that dirty": [
+   {
+    "probability": 1,
+    "value": "fucking",
+    "count": 1
+   }
+  ],
+  "dirty fucking": [
+   {
+    "probability": 1,
+    "value": "cow",
+    "count": 1
+   }
+  ],
+  "grade a": [
+   {
+    "probability": 1,
+    "value": "beef",
+    "count": 1
+   }
+  ],
+  "a beef": [
+   {
+    "probability": 1,
+    "value": "!",
+    "count": 1
+   }
+  ],
+  "you're wasting": [
+   {
+    "probability": 1,
+    "value": "all",
+    "count": 1
+   }
+  ],
+  "wasting all": [
+   {
+    "probability": 1,
+    "value": "that",
+    "count": 1
+   }
+  ],
+  "all that": [
+   {
+    "probability": 1,
+    "value": "cow",
+    "count": 1
+   }
+  ],
+  "that cow": [
+   {
+    "probability": 1,
+    "value": "juice",
+    "count": 1
+   }
+  ],
+  "cow juice": [
+   {
+    "probability": 1,
+    "value": "!",
+    "count": 1
+   }
+  ],
+  "you could": [
+   {
+    "probability": 1,
+    "value": "have",
+    "count": 1
+   }
+  ],
+  "could have": [
+   {
+    "probability": 1,
+    "value": "caught",
+    "count": 1
+   }
+  ],
+  "have caught": [
+   {
+    "probability": 1,
+    "value": "it",
+    "count": 1
+   }
+  ],
+  "caught it": [
+   {
+    "probability": 1,
+    "value": "if",
+    "count": 1
+   }
+  ],
+  "it if": [
+   {
+    "probability": 1,
+    "value": "you",
+    "count": 1
+   }
+  ],
+  "if you": [
+   {
+    "probability": 1,
+    "value": "had",
+    "count": 1
+   }
+  ],
+  "you had": [
+   {
+    "probability": 1,
+    "value": "fingers",
+    "count": 1
+   }
+  ],
+  "had fingers": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "fingers, ": [
+   {
+    "probability": 1,
+    "value": "cow",
+    "count": 1
+   }
+  ],
+  ", cow": [
+   {
+    "probability": 0.5,
+    "value": "!",
+    "count": 1
+   },
+   {
+    "probability": 0.5,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "and strikes": [
+   {
+    "probability": 1,
+    "value": "the",
+    "count": 1
+   }
+  ],
+  "strikes the": [
+   {
+    "probability": 1,
+    "value": "defender",
+    "count": 1
+   }
+  ],
+  "the defender": [
+   {
+    "probability": 1,
+    "value": "!",
+    "count": 1
+   }
+  ],
+  "\"whoa, ": [
+   {
+    "probability": 1,
+    "value": "cow",
+    "count": 1
+   }
+  ],
+  ", \"": [
+   {
+    "probability": 1,
+    "value": "he",
+    "count": 1
+   }
+  ],
+  "\" he": [
+   {
+    "probability": 1,
+    "value": "says",
+    "count": 1
+   }
+  ],
+  "he says": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "says, ": [
+   {
+    "probability": 1,
+    "value": "\"whoa",
+    "count": 1
+   }
+  ],
+  ", \"whoa": [
+   {
+    "probability": 1,
+    "value": "!",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "hold back",
+  "you mean",
+  "this is",
+  "you stupid",
+  "you get",
+  "grade a",
+  "you're wasting",
+  "you could",
+  "and strikes",
+  "\"whoa, "
+ ],
+ "endKeys": []
+}

@@ -1,0 +1,37 @@
+{
+ "identifier": "JOEL",
+ "chains": {
+  "i don't": [
+   {
+    "probability": 1,
+    "value": "know",
+    "count": 1
+   }
+  ],
+  "don't know": [
+   {
+    "probability": 1,
+    "value": "your",
+    "count": 1
+   }
+  ],
+  "know your": [
+   {
+    "probability": 1,
+    "value": "name",
+    "count": 1
+   }
+  ],
+  "your name": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "i don't"
+ ],
+ "endKeys": []
+}

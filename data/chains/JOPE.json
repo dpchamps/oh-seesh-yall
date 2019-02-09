@@ -1,0 +1,311 @@
+{
+ "identifier": "JOPE",
+ "chains": {
+  "i told": [
+   {
+    "probability": 1,
+    "value": "you",
+    "count": 1
+   }
+  ],
+  "told you": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "you, ": [
+   {
+    "probability": 1,
+    "value": "no",
+    "count": 1
+   }
+  ],
+  ", no": [
+   {
+    "probability": 1,
+    "value": "more",
+    "count": 1
+   }
+  ],
+  "no more": [
+   {
+    "probability": 1,
+    "value": "of",
+    "count": 1
+   }
+  ],
+  "more of": [
+   {
+    "probability": 1,
+    "value": "that",
+    "count": 1
+   }
+  ],
+  "of that": [
+   {
+    "probability": 1,
+    "value": "!",
+    "count": 1
+   }
+  ],
+  "ooh, ": [
+   {
+    "probability": 1,
+    "value": "i'll",
+    "count": 1
+   }
+  ],
+  ", i'll": [
+   {
+    "probability": 1,
+    "value": "dj",
+    "count": 1
+   }
+  ],
+  "i'll dj": [
+   {
+    "probability": 1,
+    "value": "the",
+    "count": 1
+   }
+  ],
+  "dj the": [
+   {
+    "probability": 1,
+    "value": "premiere",
+    "count": 1
+   }
+  ],
+  "the premiere": [
+   {
+    "probability": 1,
+    "value": "party",
+    "count": 1
+   }
+  ],
+  "premiere party": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "what about": [
+   {
+    "probability": 1,
+    "value": "this",
+    "count": 1
+   }
+  ],
+  "about this": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "hey, ": [
+   {
+    "probability": 1,
+    "value": "yo",
+    "count": 1
+   }
+  ],
+  ", yo": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "yo, ": [
+   {
+    "probability": 1,
+    "value": "my",
+    "count": 1
+   }
+  ],
+  ", my": [
+   {
+    "probability": 1,
+    "value": "name",
+    "count": 1
+   }
+  ],
+  "my name": [
+   {
+    "probability": 1,
+    "value": "is",
+    "count": 1
+   }
+  ],
+  "name is": [
+   {
+    "probability": 1,
+    "value": "drake",
+    "count": 1
+   }
+  ],
+  "is drake": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "do you": [
+   {
+    "probability": 1,
+    "value": "know",
+    "count": 1
+   }
+  ],
+  "you know": [
+   {
+    "probability": 1,
+    "value": "my",
+    "count": 1
+   }
+  ],
+  "know my": [
+   {
+    "probability": 1,
+    "value": "buddy",
+    "count": 1
+   }
+  ],
+  "my buddy": [
+   {
+    "probability": 1,
+    "value": "samuel",
+    "count": 1
+   }
+  ],
+  "buddy samuel": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "he's got": [
+   {
+    "probability": 1,
+    "value": "a",
+    "count": 1
+   }
+  ],
+  "got a": [
+   {
+    "probability": 1,
+    "value": "razor",
+    "count": 1
+   }
+  ],
+  "a razor": [
+   {
+    "probability": 1,
+    "value": "scooter",
+    "count": 1
+   }
+  ],
+  "razor scooter": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "go, ": [
+   {
+    "probability": 1,
+    "value": "samuel",
+    "count": 1
+   }
+  ],
+  ", samuel": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "samuel, ": [
+   {
+    "probability": 1,
+    "value": "you're",
+    "count": 1
+   }
+  ],
+  ", you're": [
+   {
+    "probability": 1,
+    "value": "doing",
+    "count": 1
+   }
+  ],
+  "you're doing": [
+   {
+    "probability": 1,
+    "value": "it",
+    "count": 1
+   }
+  ],
+  "doing it": [
+   {
+    "probability": 1,
+    "value": "!",
+    "count": 1
+   }
+  ],
+  "what are": [
+   {
+    "probability": 1,
+    "value": "they",
+    "count": 1
+   }
+  ],
+  "are they": [
+   {
+    "probability": 1,
+    "value": "doing",
+    "count": 1
+   }
+  ],
+  "they doing": [
+   {
+    "probability": 1,
+    "value": "?",
+    "count": 1
+   }
+  ],
+  "they're trying": [
+   {
+    "probability": 1,
+    "value": "to",
+    "count": 1
+   }
+  ],
+  "trying to": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "i told",
+  "ooh, ",
+  "what about",
+  "hey, ",
+  "do you",
+  "he's got",
+  "go, ",
+  "what are",
+  "they're trying"
+ ],
+ "endKeys": []
+}

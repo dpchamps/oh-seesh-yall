@@ -1,0 +1,267 @@
+{
+ "identifier": "JAY",
+ "chains": {
+  "i don't": [
+   {
+    "probability": 1,
+    "value": "know",
+    "count": 1
+   }
+  ],
+  "don't know": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "know, ": [
+   {
+    "probability": 1,
+    "value": "three",
+    "count": 1
+   }
+  ],
+  ", three": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "three or": [
+   {
+    "probability": 1,
+    "value": "four",
+    "count": 1
+   }
+  ],
+  "or four": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "royal flushes": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "the second": [
+   {
+    "probability": 1,
+    "value": "time",
+    "count": 1
+   }
+  ],
+  "second time": [
+   {
+    "probability": 1,
+    "value": "i",
+    "count": 1
+   }
+  ],
+  "time i": [
+   {
+    "probability": 1,
+    "value": "hit",
+    "count": 1
+   }
+  ],
+  "i hit": [
+   {
+    "probability": 1,
+    "value": "a",
+    "count": 1
+   }
+  ],
+  "hit a": [
+   {
+    "probability": 1,
+    "value": "royal",
+    "count": 2
+   }
+  ],
+  "a royal": [
+   {
+    "probability": 1,
+    "value": "flush",
+    "count": 2
+   }
+  ],
+  "royal flush": [
+   {
+    "probability": 0.5,
+    "value": "i",
+    "count": 1
+   },
+   {
+    "probability": 0.5,
+    "value": "?",
+    "count": 1
+   }
+  ],
+  "flush i": [
+   {
+    "probability": 1,
+    "value": "yelled",
+    "count": 1
+   }
+  ],
+  "i yelled": [
+   {
+    "probability": 1,
+    "value": "really",
+    "count": 1
+   }
+  ],
+  "yelled really": [
+   {
+    "probability": 1,
+    "value": "loud",
+    "count": 1
+   }
+  ],
+  "really loud": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "because it": [
+   {
+    "probability": 1,
+    "value": "normally",
+    "count": 1
+   }
+  ],
+  "it normally": [
+   {
+    "probability": 1,
+    "value": "made",
+    "count": 1
+   }
+  ],
+  "normally made": [
+   {
+    "probability": 1,
+    "value": "me",
+    "count": 1
+   }
+  ],
+  "made me": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "and i'm": [
+   {
+    "probability": 1,
+    "value": "not",
+    "count": 1
+   }
+  ],
+  "i'm not": [
+   {
+    "probability": 1,
+    "value": "gonna",
+    "count": 1
+   }
+  ],
+  "not gonna": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "if you": [
+   {
+    "probability": 1,
+    "value": "reenact",
+    "count": 1
+   }
+  ],
+  "you reenact": [
+   {
+    "probability": 1,
+    "value": "the",
+    "count": 1
+   }
+  ],
+  "reenact the": [
+   {
+    "probability": 1,
+    "value": "screen",
+    "count": 1
+   }
+  ],
+  "the screen": [
+   {
+    "probability": 1,
+    "value": "that",
+    "count": 1
+   }
+  ],
+  "screen that": [
+   {
+    "probability": 1,
+    "value": "you",
+    "count": 1
+   }
+  ],
+  "that you": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "that was": [
+   {
+    "probability": 1,
+    "value": "the",
+    "count": 1
+   }
+  ],
+  "was the": [
+   {
+    "probability": 1,
+    "value": "weirdest",
+    "count": 1
+   }
+  ],
+  "the weirdest": [
+   {
+    "probability": 1,
+    "value": "interview",
+    "count": 1
+   }
+  ],
+  "weirdest interview": [
+   {
+    "probability": 1,
+    "value": "!",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "i don't",
+  "three or",
+  "royal flushes",
+  "the second",
+  "hit a",
+  "because it",
+  "and i'm",
+  "if you",
+  "that was"
+ ],
+ "endKeys": []
+}

@@ -1,0 +1,23 @@
+{
+ "identifier": "ORDER",
+ "chains": {
+  "v k": [
+   {
+    "probability": 1,
+    "value": "a",
+    "count": 1
+   }
+  ],
+  "k a": [
+   {
+    "probability": 1,
+    "value": "j",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "v k"
+ ],
+ "endKeys": []
+}

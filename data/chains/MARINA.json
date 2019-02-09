@@ -1,0 +1,181 @@
+{
+ "identifier": "MARINA",
+ "chains": {
+  "it was": [
+   {
+    "probability": 1,
+    "value": "my",
+    "count": 1
+   }
+  ],
+  "was my": [
+   {
+    "probability": 1,
+    "value": "grandfather's",
+    "count": 1
+   }
+  ],
+  "my grandfather's": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "alright, ": [
+   {
+    "probability": 1,
+    "value": "you",
+    "count": 1
+   }
+  ],
+  ", you": [
+   {
+    "probability": 1,
+    "value": "guys",
+    "count": 1
+   }
+  ],
+  "you guys": [
+   {
+    "probability": 1,
+    "value": "gotta",
+    "count": 1
+   }
+  ],
+  "guys gotta": [
+   {
+    "probability": 1,
+    "value": "pick",
+    "count": 1
+   }
+  ],
+  "gotta pick": [
+   {
+    "probability": 1,
+    "value": "your",
+    "count": 1
+   }
+  ],
+  "pick your": [
+   {
+    "probability": 1,
+    "value": "name",
+    "count": 1
+   }
+  ],
+  "your name": [
+   {
+    "probability": 1,
+    "value": "for",
+    "count": 1
+   }
+  ],
+  "name for": [
+   {
+    "probability": 1,
+    "value": "secret",
+    "count": 1
+   }
+  ],
+  "for secret": [
+   {
+    "probability": 1,
+    "value": "santa",
+    "count": 1
+   }
+  ],
+  "secret santa": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "out of": [
+   {
+    "probability": 1,
+    "value": "a",
+    "count": 1
+   }
+  ],
+  "of a": [
+   {
+    "probability": 1,
+    "value": "hat",
+    "count": 1
+   }
+  ],
+  "a hat": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "yeah, ": [
+   {
+    "probability": 1,
+    "value": "he",
+    "count": 1
+   }
+  ],
+  ", he": [
+   {
+    "probability": 1,
+    "value": "didn't",
+    "count": 1
+   }
+  ],
+  "he didn't": [
+   {
+    "probability": 1,
+    "value": "even",
+    "count": 1
+   }
+  ],
+  "didn't even": [
+   {
+    "probability": 1,
+    "value": "get",
+    "count": 1
+   }
+  ],
+  "even get": [
+   {
+    "probability": 1,
+    "value": "you",
+    "count": 1
+   }
+  ],
+  "get you": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "you're already": [
+   {
+    "probability": 1,
+    "value": "crying",
+    "count": 1
+   }
+  ],
+  "already crying": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "it was",
+  "alright, ",
+  "out of",
+  "yeah, ",
+  "you're already"
+ ],
+ "endKeys": []
+}

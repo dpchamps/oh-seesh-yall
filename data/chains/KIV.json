@@ -1,0 +1,389 @@
+{
+ "identifier": "KIV",
+ "chains": {
+  "uh, ": [
+   {
+    "probability": 1,
+    "value": "not",
+    "count": 1
+   }
+  ],
+  ", not": [
+   {
+    "probability": 1,
+    "value": "as",
+    "count": 1
+   }
+  ],
+  "not as": [
+   {
+    "probability": 1,
+    "value": "much",
+    "count": 1
+   }
+  ],
+  "as much": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "in a": [
+   {
+    "probability": 1,
+    "value": "more",
+    "count": 1
+   }
+  ],
+  "a more": [
+   {
+    "probability": 1,
+    "value": "accurate",
+    "count": 1
+   }
+  ],
+  "more accurate": [
+   {
+    "probability": 1,
+    "value": "way",
+    "count": 1
+   }
+  ],
+  "accurate way": [
+   {
+    "probability": 1,
+    "value": "i",
+    "count": 1
+   }
+  ],
+  "way i": [
+   {
+    "probability": 1,
+    "value": "would",
+    "count": 1
+   }
+  ],
+  "i would": [
+   {
+    "probability": 1,
+    "value": "say",
+    "count": 1
+   }
+  ],
+  "would say": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "say, ": [
+   {
+    "probability": 1,
+    "value": "like",
+    "count": 1
+   }
+  ],
+  ", like": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "like, ": [
+   {
+    "probability": 1,
+    "value": "this",
+    "count": 1
+   }
+  ],
+  ", this": [
+   {
+    "probability": 1,
+    "value": "summer",
+    "count": 1
+   }
+  ],
+  "this summer": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 2
+   }
+  ],
+  "wait, ": [
+   {
+    "probability": 1,
+    "value": "the",
+    "count": 1
+   }
+  ],
+  ", the": [
+   {
+    "probability": 1,
+    "value": "beatles",
+    "count": 1
+   }
+  ],
+  "and busta": [
+   {
+    "probability": 1,
+    "value": "rhymes",
+    "count": 1
+   }
+  ],
+  "busta rhymes": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "and beastie": [
+   {
+    "probability": 1,
+    "value": "boys",
+    "count": 1
+   }
+  ],
+  "beastie boys": [
+   {
+    "probability": 1,
+    "value": "all",
+    "count": 1
+   }
+  ],
+  "boys all": [
+   {
+    "probability": 1,
+    "value": "had",
+    "count": 1
+   }
+  ],
+  "all had": [
+   {
+    "probability": 1,
+    "value": "four",
+    "count": 1
+   }
+  ],
+  "had four": [
+   {
+    "probability": 1,
+    "value": "people",
+    "count": 1
+   }
+  ],
+  "four people": [
+   {
+    "probability": 1,
+    "value": "?",
+    "count": 1
+   }
+  ],
+  "yeah, ": [
+   {
+    "probability": 1,
+    "value": "it",
+    "count": 1
+   }
+  ],
+  ", it": [
+   {
+    "probability": 1,
+    "value": "was",
+    "count": 1
+   }
+  ],
+  "it was": [
+   {
+    "probability": 1,
+    "value": "really",
+    "count": 1
+   }
+  ],
+  "was really": [
+   {
+    "probability": 1,
+    "value": "good",
+    "count": 1
+   }
+  ],
+  "really good": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "i mean": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "mean, ": [
+   {
+    "probability": 1,
+    "value": "i",
+    "count": 1
+   }
+  ],
+  ", i": [
+   {
+    "probability": 1,
+    "value": "can't",
+    "count": 1
+   }
+  ],
+  "i can't": [
+   {
+    "probability": 1,
+    "value": "speak",
+    "count": 1
+   }
+  ],
+  "can't speak": [
+   {
+    "probability": 1,
+    "value": "for",
+    "count": 1
+   }
+  ],
+  "speak for": [
+   {
+    "probability": 1,
+    "value": "the",
+    "count": 1
+   }
+  ],
+  "for the": [
+   {
+    "probability": 1,
+    "value": "group",
+    "count": 1
+   }
+  ],
+  "the group": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "group, ": [
+   {
+    "probability": 1,
+    "value": "but",
+    "count": 1
+   }
+  ],
+  ", but": [
+   {
+    "probability": 1,
+    "value": "from",
+    "count": 1
+   }
+  ],
+  "but from": [
+   {
+    "probability": 1,
+    "value": "my",
+    "count": 1
+   }
+  ],
+  "from my": [
+   {
+    "probability": 1,
+    "value": "perspective",
+    "count": 1
+   }
+  ],
+  "my perspective": [
+   {
+    "probability": 1,
+    "value": "you're",
+    "count": 1
+   }
+  ],
+  "perspective you're": [
+   {
+    "probability": 1,
+    "value": "in",
+    "count": 1
+   }
+  ],
+  "you're in": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "we've learned": [
+   {
+    "probability": 1,
+    "value": "our",
+    "count": 1
+   }
+  ],
+  "learned our": [
+   {
+    "probability": 1,
+    "value": "lesson",
+    "count": 1
+   }
+  ],
+  "our lesson": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "lesson, ": [
+   {
+    "probability": 1,
+    "value": "we're",
+    "count": 1
+   }
+  ],
+  ", we're": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "i'd like": [
+   {
+    "probability": 1,
+    "value": "that",
+    "count": 1
+   }
+  ],
+  "like that": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "uh, ",
+  "in a",
+  "this summer",
+  "wait, ",
+  "and busta",
+  "and beastie",
+  "yeah, ",
+  "i mean",
+  "we've learned",
+  "i'd like"
+ ],
+ "endKeys": []
+}

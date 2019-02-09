@@ -1,0 +1,71 @@
+{
+ "identifier": "JILL",
+ "chains": {
+  "no, ": [
+   {
+    "probability": 1,
+    "value": "i'm",
+    "count": 1
+   }
+  ],
+  ", i'm": [
+   {
+    "probability": 1,
+    "value": "coming",
+    "count": 1
+   }
+  ],
+  "i'm coming": [
+   {
+    "probability": 1,
+    "value": "with",
+    "count": 1
+   }
+  ],
+  "coming with": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "oh my": [
+   {
+    "probability": 1,
+    "value": "god",
+    "count": 2
+   }
+  ],
+  "my god": [
+   {
+    "probability": 0.5,
+    "value": ",",
+    "count": 1
+   },
+   {
+    "probability": 0.5,
+    "value": "!",
+    "count": 1
+   }
+  ],
+  "god, ": [
+   {
+    "probability": 1,
+    "value": "oh",
+    "count": 1
+   }
+  ],
+  ", oh": [
+   {
+    "probability": 1,
+    "value": "my",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "no, ",
+  "oh my"
+ ],
+ "endKeys": []
+}

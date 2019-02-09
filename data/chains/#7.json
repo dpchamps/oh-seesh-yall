@@ -1,0 +1,16 @@
+{
+ "identifier": "#7",
+ "chains": {
+  "me too": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "me too"
+ ],
+ "endKeys": []
+}

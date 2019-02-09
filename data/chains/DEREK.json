@@ -1,0 +1,31 @@
+{
+ "identifier": "DEREK",
+ "chains": {
+  "you said": [
+   {
+    "probability": 1,
+    "value": "paste",
+    "count": 1
+   }
+  ],
+  "said paste": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "it's derek": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "you said",
+  "it's derek"
+ ],
+ "endKeys": []
+}

@@ -1,0 +1,192 @@
+{
+ "identifier": "BATHROOM",
+ "chains": {
+  "not stronger": [
+   {
+    "probability": 1,
+    "value": "than",
+    "count": 1
+   }
+  ],
+  "stronger than": [
+   {
+    "probability": 1,
+    "value": "my",
+    "count": 1
+   }
+  ],
+  "than my": [
+   {
+    "probability": 1,
+    "value": "elbow",
+    "count": 2
+   }
+  ],
+  "my elbow": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 2
+   }
+  ],
+  "elbow, ": [
+   {
+    "probability": 0.5,
+    "value": "not",
+    "count": 1
+   },
+   {
+    "probability": 0.5,
+    "value": "hoo",
+    "count": 1
+   }
+  ],
+  ", not": [
+   {
+    "probability": 1,
+    "value": "strong",
+    "count": 1
+   }
+  ],
+  "not strong": [
+   {
+    "probability": 1,
+    "value": "than",
+    "count": 1
+   }
+  ],
+  "strong than": [
+   {
+    "probability": 1,
+    "value": "my",
+    "count": 1
+   }
+  ],
+  ", hoo": [
+   {
+    "probability": 1,
+    "value": "!",
+    "count": 1
+   }
+  ],
+  "you don't": [
+   {
+    "probability": 1,
+    "value": "care",
+    "count": 1
+   }
+  ],
+  "don't care": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "oh my": [
+   {
+    "probability": 1,
+    "value": "god",
+    "count": 1
+   }
+  ],
+  "my god": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "god, ": [
+   {
+    "probability": 1,
+    "value": "no",
+    "count": 1
+   }
+  ],
+  ", no": [
+   {
+    "probability": 1,
+    "value": "more",
+    "count": 1
+   }
+  ],
+  "no more": [
+   {
+    "probability": 1,
+    "value": "of",
+    "count": 1
+   }
+  ],
+  "more of": [
+   {
+    "probability": 1,
+    "value": "those",
+    "count": 1
+   }
+  ],
+  "of those": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "those, ": [
+   {
+    "probability": 1,
+    "value": "let's",
+    "count": 1
+   }
+  ],
+  ", let's": [
+   {
+    "probability": 1,
+    "value": "celebrate",
+    "count": 1
+   }
+  ],
+  "let's celebrate": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "i'm going": [
+   {
+    "probability": 1,
+    "value": "to",
+    "count": 1
+   }
+  ],
+  "going to": [
+   {
+    "probability": 1,
+    "value": "get",
+    "count": 1
+   }
+  ],
+  "to get": [
+   {
+    "probability": 1,
+    "value": "more",
+    "count": 1
+   }
+  ],
+  "get more": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "not stronger",
+  "you don't",
+  "oh my",
+  "i'm going"
+ ],
+ "endKeys": []
+}

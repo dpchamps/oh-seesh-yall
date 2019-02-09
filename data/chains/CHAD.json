@@ -1,0 +1,38 @@
+{
+ "identifier": "CHAD",
+ "chains": {
+  "i can": [
+   {
+    "probability": 1,
+    "value": "save",
+    "count": 1
+   }
+  ],
+  "can save": [
+   {
+    "probability": 1,
+    "value": "it",
+    "count": 1
+   }
+  ],
+  "i appreciate": [
+   {
+    "probability": 1,
+    "value": "it",
+    "count": 1
+   }
+  ],
+  "appreciate it": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "i can",
+  "i appreciate"
+ ],
+ "endKeys": []
+}

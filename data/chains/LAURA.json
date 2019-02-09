@@ -1,0 +1,60 @@
+{
+ "identifier": "LAURA",
+ "chains": {
+  "oh, ": [
+   {
+    "probability": 1,
+    "value": "no",
+    "count": 1
+   }
+  ],
+  ", no": [
+   {
+    "probability": 1,
+    "value": "problem",
+    "count": 1
+   }
+  ],
+  "no problem": [
+   {
+    "probability": 1,
+    "value": "!",
+    "count": 1
+   }
+  ],
+  "um, ": [
+   {
+    "probability": 1,
+    "value": "mrs",
+    "count": 1
+   }
+  ],
+  ", mrs": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "hurwitz is": [
+   {
+    "probability": 1,
+    "value": "fine",
+    "count": 1
+   }
+  ],
+  "is fine": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "oh, ",
+  "um, ",
+  "hurwitz is"
+ ],
+ "endKeys": []
+}

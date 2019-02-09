@@ -1,0 +1,44 @@
+{
+ "identifier": "RIGHT",
+ "chains": {
+  "we all": [
+   {
+    "probability": 1,
+    "value": "made",
+    "count": 1
+   }
+  ],
+  "all made": [
+   {
+    "probability": 1,
+    "value": "out",
+    "count": 1
+   }
+  ],
+  "made out": [
+   {
+    "probability": 1,
+    "value": "like",
+    "count": 1
+   }
+  ],
+  "out like": [
+   {
+    "probability": 1,
+    "value": "bandits",
+    "count": 1
+   }
+  ],
+  "like bandits": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "we all"
+ ],
+ "endKeys": []
+}

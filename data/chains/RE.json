@@ -1,0 +1,30 @@
+{
+ "identifier": "RE",
+ "chains": {
+  "record, ": [
+   {
+    "probability": 1,
+    "value": "is",
+    "count": 1
+   }
+  ],
+  ", is": [
+   {
+    "probability": 1,
+    "value": "there",
+    "count": 1
+   }
+  ],
+  "is there": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "record, "
+ ],
+ "endKeys": []
+}

@@ -1,0 +1,327 @@
+{
+ "identifier": "EVAN",
+ "chains": {
+  "well, ": [
+   {
+    "probability": 1,
+    "value": "why",
+    "count": 1
+   }
+  ],
+  ", why": [
+   {
+    "probability": 1,
+    "value": "don't",
+    "count": 1
+   }
+  ],
+  "why don't": [
+   {
+    "probability": 1,
+    "value": "you",
+    "count": 1
+   }
+  ],
+  "don't you": [
+   {
+    "probability": 1,
+    "value": "go",
+    "count": 1
+   }
+  ],
+  "you go": [
+   {
+    "probability": 1,
+    "value": "take",
+    "count": 1
+   }
+  ],
+  "go take": [
+   {
+    "probability": 1,
+    "value": "it",
+    "count": 1
+   }
+  ],
+  "take it": [
+   {
+    "probability": 1,
+    "value": "down",
+    "count": 1
+   }
+  ],
+  "it down": [
+   {
+    "probability": 1,
+    "value": "yourself",
+    "count": 1
+   }
+  ],
+  "down yourself": [
+   {
+    "probability": 1,
+    "value": "?",
+    "count": 1
+   }
+  ],
+  "we made": [
+   {
+    "probability": 1,
+    "value": "you",
+    "count": 1
+   }
+  ],
+  "made you": [
+   {
+    "probability": 1,
+    "value": "an",
+    "count": 1
+   }
+  ],
+  "you an": [
+   {
+    "probability": 1,
+    "value": "admin",
+    "count": 1
+   }
+  ],
+  "an admin": [
+   {
+    "probability": 1,
+    "value": "on",
+    "count": 1
+   }
+  ],
+  "admin on": [
+   {
+    "probability": 1,
+    "value": "the",
+    "count": 1
+   }
+  ],
+  "on the": [
+   {
+    "probability": 1,
+    "value": "page",
+    "count": 1
+   }
+  ],
+  "the page": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "it's not": [
+   {
+    "probability": 1,
+    "value": "like",
+    "count": 1
+   }
+  ],
+  "not like": [
+   {
+    "probability": 1,
+    "value": "that",
+    "count": 1
+   }
+  ],
+  "that is": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "that's an": [
+   {
+    "probability": 1,
+    "value": "idea",
+    "count": 1
+   }
+  ],
+  "an idea": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "and fuck": [
+   {
+    "probability": 1,
+    "value": "you",
+    "count": 1
+   }
+  ],
+  "fuck you": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "amir oh": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "oh, ": [
+   {
+    "probability": 1,
+    "value": "you'd",
+    "count": 1
+   }
+  ],
+  ", you'd": [
+   {
+    "probability": 1,
+    "value": "love",
+    "count": 1
+   }
+  ],
+  "you'd love": [
+   {
+    "probability": 1,
+    "value": "that",
+    "count": 1
+   }
+  ],
+  "love that": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "that, ": [
+   {
+    "probability": 1,
+    "value": "wouldn't",
+    "count": 1
+   }
+  ],
+  ", wouldn't": [
+   {
+    "probability": 1,
+    "value": "you",
+    "count": 1
+   }
+  ],
+  "wouldn't you": [
+   {
+    "probability": 1,
+    "value": "?",
+    "count": 1
+   }
+  ],
+  "amir wow": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "the truth": [
+   {
+    "probability": 1,
+    "value": "comes",
+    "count": 1
+   }
+  ],
+  "truth comes": [
+   {
+    "probability": 1,
+    "value": "tumbling",
+    "count": 1
+   }
+  ],
+  "comes tumbling": [
+   {
+    "probability": 1,
+    "value": "out",
+    "count": 1
+   }
+  ],
+  "tumbling out": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "jake's a": [
+   {
+    "probability": 1,
+    "value": "frickin'",
+    "count": 1
+   }
+  ],
+  "a frickin'": [
+   {
+    "probability": 1,
+    "value": "anti",
+    "count": 1
+   }
+  ],
+  "frickin' anti": [
+   {
+    "probability": 1,
+    "value": "semite",
+    "count": 1
+   }
+  ],
+  "anti semite": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "and that": [
+   {
+    "probability": 1,
+    "value": "just",
+    "count": 1
+   }
+  ],
+  "that just": [
+   {
+    "probability": 1,
+    "value": "ain't",
+    "count": 1
+   }
+  ],
+  "just ain't": [
+   {
+    "probability": 1,
+    "value": "right",
+    "count": 1
+   }
+  ],
+  "ain't right": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "well, ",
+  "we made",
+  "it's not",
+  "that is",
+  "that's an",
+  "and fuck",
+  "amir oh",
+  "amir wow",
+  "the truth",
+  "jake's a",
+  "and that"
+ ],
+ "endKeys": []
+}

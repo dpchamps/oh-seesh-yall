@@ -1,0 +1,344 @@
+{
+ "identifier": "MARENA",
+ "chains": {
+  "shut up": [
+   {
+    "probability": 1,
+    "value": "!",
+    "count": 1
+   }
+  ],
+  "i mean": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "mean, ": [
+   {
+    "probability": 1,
+    "value": "we've",
+    "count": 1
+   }
+  ],
+  ", we've": [
+   {
+    "probability": 1,
+    "value": "been",
+    "count": 1
+   }
+  ],
+  "we've been": [
+   {
+    "probability": 1,
+    "value": "trying",
+    "count": 1
+   }
+  ],
+  "been trying": [
+   {
+    "probability": 1,
+    "value": "to",
+    "count": 1
+   }
+  ],
+  "trying to": [
+   {
+    "probability": 1,
+    "value": "ignore",
+    "count": 1
+   }
+  ],
+  "to ignore": [
+   {
+    "probability": 1,
+    "value": "you",
+    "count": 1
+   }
+  ],
+  "ignore you": [
+   {
+    "probability": 1,
+    "value": "but",
+    "count": 1
+   }
+  ],
+  "you but": [
+   {
+    "probability": 1,
+    "value": "that's",
+    "count": 1
+   }
+  ],
+  "but that's": [
+   {
+    "probability": 1,
+    "value": "clearly",
+    "count": 1
+   }
+  ],
+  "that's clearly": [
+   {
+    "probability": 1,
+    "value": "not",
+    "count": 1
+   }
+  ],
+  "clearly not": [
+   {
+    "probability": 1,
+    "value": "working",
+    "count": 1
+   }
+  ],
+  "not working": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "the fact": [
+   {
+    "probability": 1,
+    "value": "is",
+    "count": 1
+   }
+  ],
+  "fact is": [
+   {
+    "probability": 1,
+    "value": "nobody",
+    "count": 1
+   }
+  ],
+  "is nobody": [
+   {
+    "probability": 1,
+    "value": "here",
+    "count": 1
+   }
+  ],
+  "nobody here": [
+   {
+    "probability": 1,
+    "value": "likes",
+    "count": 1
+   }
+  ],
+  "here likes": [
+   {
+    "probability": 1,
+    "value": "you",
+    "count": 1
+   }
+  ],
+  "likes you": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "we hate": [
+   {
+    "probability": 1,
+    "value": "you",
+    "count": 1
+   }
+  ],
+  "hate you": [
+   {
+    "probability": 1,
+    "value": "!",
+    "count": 1
+   }
+  ],
+  "you groped": [
+   {
+    "probability": 1,
+    "value": "amanda",
+    "count": 1
+   }
+  ],
+  "groped amanda": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "you ripped": [
+   {
+    "probability": 1,
+    "value": "my",
+    "count": 1
+   }
+  ],
+  "ripped my": [
+   {
+    "probability": 1,
+    "value": "shirt",
+    "count": 1
+   }
+  ],
+  "my shirt": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "i don't": [
+   {
+    "probability": 1,
+    "value": "know",
+    "count": 1
+   }
+  ],
+  "don't know": [
+   {
+    "probability": 1,
+    "value": "why",
+    "count": 1
+   }
+  ],
+  "know why": [
+   {
+    "probability": 1,
+    "value": "or",
+    "count": 1
+   }
+  ],
+  "why or": [
+   {
+    "probability": 1,
+    "value": "how",
+    "count": 1
+   }
+  ],
+  "or how": [
+   {
+    "probability": 1,
+    "value": "you",
+    "count": 1
+   }
+  ],
+  "how you": [
+   {
+    "probability": 1,
+    "value": "still",
+    "count": 1
+   }
+  ],
+  "you still": [
+   {
+    "probability": 1,
+    "value": "have",
+    "count": 1
+   }
+  ],
+  "still have": [
+   {
+    "probability": 1,
+    "value": "a",
+    "count": 1
+   }
+  ],
+  "have a": [
+   {
+    "probability": 1,
+    "value": "job",
+    "count": 1
+   }
+  ],
+  "a job": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "job, ": [
+   {
+    "probability": 1,
+    "value": "but",
+    "count": 1
+   }
+  ],
+  ", but": [
+   {
+    "probability": 1,
+    "value": "please",
+    "count": 1
+   }
+  ],
+  "but please": [
+   {
+    "probability": 1,
+    "value": "just",
+    "count": 1
+   }
+  ],
+  "please just": [
+   {
+    "probability": 1,
+    "value": "be",
+    "count": 1
+   }
+  ],
+  "just be": [
+   {
+    "probability": 1,
+    "value": "quiet",
+    "count": 1
+   }
+  ],
+  "be quiet": [
+   {
+    "probability": 1,
+    "value": "and",
+    "count": 1
+   }
+  ],
+  "quiet and": [
+   {
+    "probability": 1,
+    "value": "leave",
+    "count": 1
+   }
+  ],
+  "and leave": [
+   {
+    "probability": 1,
+    "value": "us",
+    "count": 1
+   }
+  ],
+  "leave us": [
+   {
+    "probability": 1,
+    "value": "alone",
+    "count": 1
+   }
+  ],
+  "us alone": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "shut up",
+  "i mean",
+  "the fact",
+  "we hate",
+  "you groped",
+  "you ripped",
+  "i don't"
+ ],
+ "endKeys": []
+}

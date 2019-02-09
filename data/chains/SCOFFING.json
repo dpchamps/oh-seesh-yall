@@ -1,0 +1,52 @@
+{
+ "identifier": "SCOFFING",
+ "chains": {
+  "haha probably": [
+   {
+    "probability": 1,
+    "value": "not",
+    "count": 1
+   }
+  ],
+  "probably not": [
+   {
+    "probability": 1,
+    "value": "cause",
+    "count": 1
+   }
+  ],
+  "not cause": [
+   {
+    "probability": 1,
+    "value": "it",
+    "count": 1
+   }
+  ],
+  "cause it": [
+   {
+    "probability": 1,
+    "value": "just",
+    "count": 1
+   }
+  ],
+  "it just": [
+   {
+    "probability": 1,
+    "value": "happened",
+    "count": 2
+   }
+  ],
+  "just happened": [
+   {
+    "probability": 1,
+    "value": "!",
+    "count": 2
+   }
+  ]
+ },
+ "startKeys": [
+  "haha probably",
+  "it just"
+ ],
+ "endKeys": []
+}

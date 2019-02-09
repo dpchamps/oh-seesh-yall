@@ -1,0 +1,23 @@
+{
+ "identifier": "EXCITEDLY",
+ "chains": {
+  "the bachelorette": [
+   {
+    "probability": 1,
+    "value": "party",
+    "count": 1
+   }
+  ],
+  "bachelorette party": [
+   {
+    "probability": 1,
+    "value": "!",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "the bachelorette"
+ ],
+ "endKeys": []
+}

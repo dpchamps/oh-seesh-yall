@@ -1,0 +1,138 @@
+{
+ "identifier": "DICK",
+ "chains": {
+  "tooth holy": [
+   {
+    "probability": 1,
+    "value": "shit",
+    "count": 1
+   }
+  ],
+  "holy shit": [
+   {
+    "probability": 1,
+    "value": "!",
+    "count": 1
+   }
+  ],
+  "god damn": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "damn, ": [
+   {
+    "probability": 1,
+    "value": "hur",
+    "count": 1
+   }
+  ],
+  ", hur": [
+   {
+    "probability": 1,
+    "value": "bitch",
+    "count": 1
+   }
+  ],
+  "hur bitch": [
+   {
+    "probability": 1,
+    "value": "!",
+    "count": 1
+   }
+  ],
+  "i thought": [
+   {
+    "probability": 1,
+    "value": "you",
+    "count": 1
+   }
+  ],
+  "thought you": [
+   {
+    "probability": 1,
+    "value": "was",
+    "count": 1
+   }
+  ],
+  "you was": [
+   {
+    "probability": 1,
+    "value": "dead",
+    "count": 1
+   }
+  ],
+  "was dead": [
+   {
+    "probability": 1,
+    "value": "!",
+    "count": 1
+   }
+  ],
+  "i beeped": [
+   {
+    "probability": 1,
+    "value": "you",
+    "count": 1
+   }
+  ],
+  "beeped you": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "you, ": [
+   {
+    "probability": 1,
+    "value": "and",
+    "count": 1
+   }
+  ],
+  ", and": [
+   {
+    "probability": 1,
+    "value": "i",
+    "count": 1
+   }
+  ],
+  "and i": [
+   {
+    "probability": 1,
+    "value": "got",
+    "count": 1
+   }
+  ],
+  "i got": [
+   {
+    "probability": 1,
+    "value": "nothing",
+    "count": 1
+   }
+  ],
+  "got nothing": [
+   {
+    "probability": 1,
+    "value": "back",
+    "count": 1
+   }
+  ],
+  "nothing back": [
+   {
+    "probability": 1,
+    "value": "!",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "tooth holy",
+  "god damn",
+  "i thought",
+  "i beeped"
+ ],
+ "endKeys": []
+}

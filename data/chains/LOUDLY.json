@@ -1,0 +1,235 @@
+{
+ "identifier": "LOUDLY",
+ "chains": {
+  "shawty's like": [
+   {
+    "probability": 1,
+    "value": "a",
+    "count": 1
+   }
+  ],
+  "like a": [
+   {
+    "probability": 1,
+    "value": "melody",
+    "count": 1
+   }
+  ],
+  "a melody": [
+   {
+    "probability": 1,
+    "value": "in",
+    "count": 1
+   }
+  ],
+  "melody in": [
+   {
+    "probability": 1,
+    "value": "my",
+    "count": 1
+   }
+  ],
+  "in my": [
+   {
+    "probability": 1,
+    "value": "head",
+    "count": 1
+   }
+  ],
+  "my head": [
+   {
+    "probability": 1,
+    "value": "that",
+    "count": 1
+   }
+  ],
+  "head that": [
+   {
+    "probability": 1,
+    "value": "i",
+    "count": 1
+   }
+  ],
+  "that i": [
+   {
+    "probability": 1,
+    "value": "can't",
+    "count": 1
+   }
+  ],
+  "i can't": [
+   {
+    "probability": 1,
+    "value": "keep",
+    "count": 1
+   }
+  ],
+  "can't keep": [
+   {
+    "probability": 1,
+    "value": "out",
+    "count": 1
+   }
+  ],
+  "keep out": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "out, ": [
+   {
+    "probability": 1,
+    "value": "got",
+    "count": 1
+   }
+  ],
+  ", got": [
+   {
+    "probability": 1,
+    "value": "me",
+    "count": 1
+   }
+  ],
+  "got me": [
+   {
+    "probability": 1,
+    "value": "singing",
+    "count": 1
+   }
+  ],
+  "me singing": [
+   {
+    "probability": 1,
+    "value": "like",
+    "count": 1
+   }
+  ],
+  "singing like": [
+   {
+    "probability": 1,
+    "value": "na",
+    "count": 1
+   }
+  ],
+  "like na": [
+   {
+    "probability": 1,
+    "value": "na",
+    "count": 1
+   }
+  ],
+  "na na": [
+   {
+    "probability": 0.6666666666666666,
+    "value": "na",
+    "count": 2
+   },
+   {
+    "probability": 0.3333333333333333,
+    "value": "everyday",
+    "count": 1
+   }
+  ],
+  "na everyday": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "everyday, ": [
+   {
+    "probability": 1,
+    "value": "it's",
+    "count": 1
+   }
+  ],
+  ", it's": [
+   {
+    "probability": 1,
+    "value": "like",
+    "count": 1
+   }
+  ],
+  "it's like": [
+   {
+    "probability": 1,
+    "value": "ipod's",
+    "count": 1
+   }
+  ],
+  "like ipod's": [
+   {
+    "probability": 1,
+    "value": "stuck",
+    "count": 1
+   }
+  ],
+  "ipod's stuck": [
+   {
+    "probability": 1,
+    "value": "on",
+    "count": 1
+   }
+  ],
+  "stuck on": [
+   {
+    "probability": 1,
+    "value": "replay",
+    "count": 1
+   }
+  ],
+  "on replay": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "no way": [
+   {
+    "probability": 0.5,
+    "value": ",",
+    "count": 1
+   },
+   {
+    "probability": 0.5,
+    "value": "way",
+    "count": 1
+   }
+  ],
+  "way, ": [
+   {
+    "probability": 1,
+    "value": "no",
+    "count": 1
+   }
+  ],
+  ", no": [
+   {
+    "probability": 1,
+    "value": "way",
+    "count": 1
+   }
+  ],
+  "way way": [
+   {
+    "probability": 0.8571428571428571,
+    "value": "way",
+    "count": 6
+   },
+   {
+    "probability": 0.14285714285714285,
+    "value": ".",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "shawty's like",
+  "no way"
+ ],
+ "endKeys": []
+}

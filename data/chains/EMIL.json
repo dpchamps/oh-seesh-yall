@@ -1,0 +1,108 @@
+{
+ "identifier": "EMIL",
+ "chains": {
+  "g4 has": [
+   {
+    "probability": 1,
+    "value": "decided",
+    "count": 1
+   }
+  ],
+  "has decided": [
+   {
+    "probability": 1,
+    "value": "that",
+    "count": 1
+   }
+  ],
+  "decided that": [
+   {
+    "probability": 1,
+    "value": "the",
+    "count": 1
+   }
+  ],
+  "that the": [
+   {
+    "probability": 1,
+    "value": "world",
+    "count": 1
+   }
+  ],
+  "the world": [
+   {
+    "probability": 1,
+    "value": "must",
+    "count": 1
+   }
+  ],
+  "world must": [
+   {
+    "probability": 1,
+    "value": "see",
+    "count": 1
+   }
+  ],
+  "must see": [
+   {
+    "probability": 1,
+    "value": "what",
+    "count": 1
+   }
+  ],
+  "see what": [
+   {
+    "probability": 1,
+    "value": "goes",
+    "count": 1
+   }
+  ],
+  "what goes": [
+   {
+    "probability": 1,
+    "value": "on",
+    "count": 1
+   }
+  ],
+  "goes on": [
+   {
+    "probability": 1,
+    "value": "here",
+    "count": 1
+   }
+  ],
+  "on here": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "is he": [
+   {
+    "probability": 1,
+    "value": "playing",
+    "count": 1
+   }
+  ],
+  "he playing": [
+   {
+    "probability": 1,
+    "value": "poker",
+    "count": 1
+   }
+  ],
+  "playing poker": [
+   {
+    "probability": 1,
+    "value": "?",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "g4 has",
+  "is he"
+ ],
+ "endKeys": []
+}

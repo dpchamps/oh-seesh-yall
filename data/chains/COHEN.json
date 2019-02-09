@@ -1,0 +1,160 @@
+{
+ "identifier": "COHEN",
+ "chains": {
+  "is larry": [
+   {
+    "probability": 1,
+    "value": "byrd",
+    "count": 1
+   }
+  ],
+  "larry byrd": [
+   {
+    "probability": 1,
+    "value": "still",
+    "count": 1
+   }
+  ],
+  "byrd still": [
+   {
+    "probability": 1,
+    "value": "on",
+    "count": 1
+   }
+  ],
+  "still on": [
+   {
+    "probability": 1,
+    "value": "this",
+    "count": 1
+   }
+  ],
+  "on this": [
+   {
+    "probability": 1,
+    "value": "team",
+    "count": 1
+   }
+  ],
+  "this team": [
+   {
+    "probability": 1,
+    "value": "?",
+    "count": 1
+   }
+  ],
+  "alright i'll": [
+   {
+    "probability": 1,
+    "value": "i'll",
+    "count": 1
+   }
+  ],
+  "i'll i'll": [
+   {
+    "probability": 1,
+    "value": "have",
+    "count": 1
+   }
+  ],
+  "i'll have": [
+   {
+    "probability": 1,
+    "value": "one",
+    "count": 1
+   }
+  ],
+  "have one": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "ah, ": [
+   {
+    "probability": 1,
+    "value": "fuck",
+    "count": 1
+   }
+  ],
+  ", fuck": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "what do": [
+   {
+    "probability": 1,
+    "value": "you",
+    "count": 1
+   }
+  ],
+  "do you": [
+   {
+    "probability": 1,
+    "value": "have",
+    "count": 1
+   }
+  ],
+  "you have": [
+   {
+    "probability": 1,
+    "value": "to",
+    "count": 1
+   }
+  ],
+  "have to": [
+   {
+    "probability": 1,
+    "value": "complain",
+    "count": 1
+   }
+  ],
+  "to complain": [
+   {
+    "probability": 1,
+    "value": "about",
+    "count": 1
+   }
+  ],
+  "complain about": [
+   {
+    "probability": 1,
+    "value": "?",
+    "count": 1
+   }
+  ],
+  "your job's": [
+   {
+    "probability": 1,
+    "value": "so",
+    "count": 1
+   }
+  ],
+  "job's so": [
+   {
+    "probability": 1,
+    "value": "easy",
+    "count": 1
+   }
+  ],
+  "so easy": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "is larry",
+  "alright i'll",
+  "ah, ",
+  "what do",
+  "your job's"
+ ],
+ "endKeys": []
+}

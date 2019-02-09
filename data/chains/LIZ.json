@@ -1,0 +1,173 @@
+{
+ "identifier": "LIZ",
+ "chains": {
+  "oh wow": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "wow, ": [
+   {
+    "probability": 1,
+    "value": "so",
+    "count": 1
+   }
+  ],
+  ", so": [
+   {
+    "probability": 1,
+    "value": "i",
+    "count": 1
+   }
+  ],
+  "so i": [
+   {
+    "probability": 1,
+    "value": "guess",
+    "count": 1
+   }
+  ],
+  "i guess": [
+   {
+    "probability": 1,
+    "value": "that's",
+    "count": 1
+   }
+  ],
+  "guess that's": [
+   {
+    "probability": 1,
+    "value": "why",
+    "count": 1
+   }
+  ],
+  "that's why": [
+   {
+    "probability": 1,
+    "value": "they",
+    "count": 1
+   }
+  ],
+  "why they": [
+   {
+    "probability": 1,
+    "value": "call",
+    "count": 1
+   }
+  ],
+  "they call": [
+   {
+    "probability": 1,
+    "value": "it",
+    "count": 1
+   }
+  ],
+  "call it": [
+   {
+    "probability": 1,
+    "value": "the",
+    "count": 1
+   }
+  ],
+  "it the": [
+   {
+    "probability": 1,
+    "value": "blues",
+    "count": 1
+   }
+  ],
+  "the blues": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "thank you": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "uh, ": [
+   {
+    "probability": 1,
+    "value": "i",
+    "count": 1
+   }
+  ],
+  ", i": [
+   {
+    "probability": 1,
+    "value": "have",
+    "count": 1
+   }
+  ],
+  "i have": [
+   {
+    "probability": 1,
+    "value": "a",
+    "count": 1
+   }
+  ],
+  "have a": [
+   {
+    "probability": 1,
+    "value": "doctor's",
+    "count": 1
+   }
+  ],
+  "a doctor's": [
+   {
+    "probability": 1,
+    "value": "appointment",
+    "count": 1
+   }
+  ],
+  "doctor's appointment": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "ugh, ": [
+   {
+    "probability": 1,
+    "value": "what's",
+    "count": 1
+   }
+  ],
+  ", what's": [
+   {
+    "probability": 1,
+    "value": "that",
+    "count": 1
+   }
+  ],
+  "what's that": [
+   {
+    "probability": 1,
+    "value": "smell",
+    "count": 1
+   }
+  ],
+  "that smell": [
+   {
+    "probability": 1,
+    "value": "?",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "oh wow",
+  "thank you",
+  "uh, ",
+  "ugh, "
+ ],
+ "endKeys": []
+}

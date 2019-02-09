@@ -1,0 +1,131 @@
+{
+ "identifier": "DUDE",
+ "chains": {
+  "it was": [
+   {
+    "probability": 1,
+    "value": "either",
+    "count": 1
+   }
+  ],
+  "was either": [
+   {
+    "probability": 1,
+    "value": "this",
+    "count": 1
+   }
+  ],
+  "either this": [
+   {
+    "probability": 1,
+    "value": "or",
+    "count": 1
+   }
+  ],
+  "this or": [
+   {
+    "probability": 1,
+    "value": "a",
+    "count": 1
+   }
+  ],
+  "or a": [
+   {
+    "probability": 1,
+    "value": "cupcake",
+    "count": 1
+   }
+  ],
+  "a cupcake": [
+   {
+    "probability": 1,
+    "value": "in",
+    "count": 1
+   }
+  ],
+  "cupcake in": [
+   {
+    "probability": 1,
+    "value": "la",
+    "count": 1
+   }
+  ],
+  "in la": [
+   {
+    "probability": 1,
+    "value": "cienega",
+    "count": 1
+   }
+  ],
+  "la cienega": [
+   {
+    "probability": 1,
+    "value": "that'll",
+    "count": 1
+   }
+  ],
+  "cienega that'll": [
+   {
+    "probability": 1,
+    "value": "drive",
+    "count": 1
+   }
+  ],
+  "that'll drive": [
+   {
+    "probability": 1,
+    "value": "ya",
+    "count": 1
+   }
+  ],
+  "drive ya": [
+   {
+    "probability": 1,
+    "value": "wild",
+    "count": 1
+   }
+  ],
+  "ya wild": [
+   {
+    "probability": 1,
+    "value": "!",
+    "count": 1
+   }
+  ],
+  "movin' on": [
+   {
+    "probability": 1,
+    "value": "!",
+    "count": 1
+   }
+  ],
+  "in wilshire": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "there he": [
+   {
+    "probability": 1,
+    "value": "is",
+    "count": 1
+   }
+  ],
+  "he is": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "it was",
+  "movin' on",
+  "in wilshire",
+  "there he"
+ ],
+ "endKeys": []
+}

@@ -1,0 +1,37 @@
+{
+ "identifier": "DESCRIPTION",
+ "chains": {
+  "originally uploaded": [
+   {
+    "probability": 1,
+    "value": "somewhere",
+    "count": 2
+   }
+  ],
+  "uploaded somewhere": [
+   {
+    "probability": 1,
+    "value": "around",
+    "count": 2
+   }
+  ],
+  "somewhere around": [
+   {
+    "probability": 1,
+    "value": "2011",
+    "count": 2
+   }
+  ],
+  "around 2011": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 2
+   }
+  ]
+ },
+ "startKeys": [
+  "originally uploaded"
+ ],
+ "endKeys": []
+}

@@ -1,0 +1,122 @@
+{
+ "identifier": "SISTER",
+ "chains": {
+  "mom, ": [
+   {
+    "probability": 1,
+    "value": "should",
+    "count": 1
+   }
+  ],
+  ", should": [
+   {
+    "probability": 1,
+    "value": "i",
+    "count": 1
+   }
+  ],
+  "should i": [
+   {
+    "probability": 1,
+    "value": "call",
+    "count": 1
+   }
+  ],
+  "i call": [
+   {
+    "probability": 1,
+    "value": "dad",
+    "count": 1
+   }
+  ],
+  "call dad": [
+   {
+    "probability": 1,
+    "value": "?",
+    "count": 1
+   }
+  ],
+  "yeah, ": [
+   {
+    "probability": 1,
+    "value": "there",
+    "count": 1
+   }
+  ],
+  ", there": [
+   {
+    "probability": 1,
+    "value": "should",
+    "count": 1
+   }
+  ],
+  "there should": [
+   {
+    "probability": 1,
+    "value": "have",
+    "count": 1
+   }
+  ],
+  "should have": [
+   {
+    "probability": 1,
+    "value": "been",
+    "count": 1
+   }
+  ],
+  "have been": [
+   {
+    "probability": 1,
+    "value": "enough",
+    "count": 1
+   }
+  ],
+  "been enough": [
+   {
+    "probability": 1,
+    "value": "for",
+    "count": 1
+   }
+  ],
+  "enough for": [
+   {
+    "probability": 1,
+    "value": "everyone",
+    "count": 1
+   }
+  ],
+  "for everyone": [
+   {
+    "probability": 1,
+    "value": "to",
+    "count": 1
+   }
+  ],
+  "everyone to": [
+   {
+    "probability": 1,
+    "value": "have",
+    "count": 1
+   }
+  ],
+  "to have": [
+   {
+    "probability": 1,
+    "value": "two",
+    "count": 1
+   }
+  ],
+  "have two": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "mom, ",
+  "yeah, "
+ ],
+ "endKeys": []
+}

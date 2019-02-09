@@ -1,0 +1,623 @@
+{
+ "identifier": "CROOSHTOOST",
+ "chains": {
+  "milkman, ": [
+   {
+    "probability": 0.5714285714285714,
+    "value": "milkman",
+    "count": 4
+   },
+   {
+    "probability": 0.42857142857142855,
+    "value": "the",
+    "count": 3
+   }
+  ],
+  ", milkman": [
+   {
+    "probability": 0.5,
+    "value": ",",
+    "count": 2
+   },
+   {
+    "probability": 0.5,
+    "value": "!",
+    "count": 2
+   }
+  ],
+  "looks like": [
+   {
+    "probability": 1,
+    "value": "you",
+    "count": 1
+   }
+  ],
+  "like you": [
+   {
+    "probability": 1,
+    "value": "got",
+    "count": 1
+   }
+  ],
+  "you got": [
+   {
+    "probability": 1,
+    "value": "a",
+    "count": 1
+   }
+  ],
+  "got a": [
+   {
+    "probability": 0.5,
+    "value": "shiner",
+    "count": 1
+   },
+   {
+    "probability": 0.5,
+    "value": "vintage",
+    "count": 1
+   }
+  ],
+  "a shiner": [
+   {
+    "probability": 1,
+    "value": "there",
+    "count": 1
+   }
+  ],
+  "shiner there": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "you want": [
+   {
+    "probability": 1,
+    "value": "something",
+    "count": 1
+   }
+  ],
+  "want something": [
+   {
+    "probability": 1,
+    "value": "cold",
+    "count": 1
+   }
+  ],
+  "something cold": [
+   {
+    "probability": 1,
+    "value": "to",
+    "count": 1
+   }
+  ],
+  "cold to": [
+   {
+    "probability": 1,
+    "value": "put",
+    "count": 1
+   }
+  ],
+  "to put": [
+   {
+    "probability": 1,
+    "value": "on",
+    "count": 1
+   }
+  ],
+  "put on": [
+   {
+    "probability": 1,
+    "value": "it",
+    "count": 1
+   }
+  ],
+  "on it": [
+   {
+    "probability": 1,
+    "value": "?",
+    "count": 1
+   }
+  ],
+  "ah, ": [
+   {
+    "probability": 1,
+    "value": "well",
+    "count": 1
+   }
+  ],
+  ", well": [
+   {
+    "probability": 1,
+    "value": "the",
+    "count": 1
+   }
+  ],
+  "well the": [
+   {
+    "probability": 1,
+    "value": "name",
+    "count": 1
+   }
+  ],
+  "the name": [
+   {
+    "probability": 1,
+    "value": "is",
+    "count": 1
+   }
+  ],
+  "name is": [
+   {
+    "probability": 1,
+    "value": "charles",
+    "count": 1
+   }
+  ],
+  "is charles": [
+   {
+    "probability": 1,
+    "value": "crooshtoost",
+    "count": 1
+   }
+  ],
+  "charles crooshtoost": [
+   {
+    "probability": 0.5,
+    "value": ",",
+    "count": 1
+   },
+   {
+    "probability": 0.5,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "crooshtoost, ": [
+   {
+    "probability": 1,
+    "value": "and",
+    "count": 1
+   }
+  ],
+  ", and": [
+   {
+    "probability": 1,
+    "value": "i",
+    "count": 1
+   }
+  ],
+  "and i": [
+   {
+    "probability": 0.5,
+    "value": "bring",
+    "count": 1
+   },
+   {
+    "probability": 0.5,
+    "value": "will",
+    "count": 1
+   }
+  ],
+  "i bring": [
+   {
+    "probability": 1,
+    "value": "milk",
+    "count": 1
+   }
+  ],
+  "bring milk": [
+   {
+    "probability": 1,
+    "value": "to",
+    "count": 1
+   }
+  ],
+  "milk to": [
+   {
+    "probability": 1,
+    "value": "man",
+    "count": 1
+   }
+  ],
+  "to man": [
+   {
+    "probability": 1,
+    "value": "!",
+    "count": 1
+   }
+  ],
+  "what year": [
+   {
+    "probability": 1,
+    "value": "could",
+    "count": 1
+   }
+  ],
+  "year could": [
+   {
+    "probability": 1,
+    "value": "i",
+    "count": 1
+   }
+  ],
+  "could i": [
+   {
+    "probability": 1,
+    "value": "get",
+    "count": 1
+   }
+  ],
+  "i get": [
+   {
+    "probability": 1,
+    "value": "you",
+    "count": 1
+   }
+  ],
+  "get you": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "you, ": [
+   {
+    "probability": 1,
+    "value": "son",
+    "count": 1
+   }
+  ],
+  ", son": [
+   {
+    "probability": 1,
+    "value": "?",
+    "count": 1
+   }
+  ],
+  "in my": [
+   {
+    "probability": 1,
+    "value": "hand",
+    "count": 1
+   }
+  ],
+  "my hand": [
+   {
+    "probability": 1,
+    "value": "right",
+    "count": 1
+   }
+  ],
+  "hand right": [
+   {
+    "probability": 1,
+    "value": "now",
+    "count": 1
+   }
+  ],
+  "right now": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "now, ": [
+   {
+    "probability": 1,
+    "value": "i've",
+    "count": 1
+   }
+  ],
+  ", i've": [
+   {
+    "probability": 1,
+    "value": "got",
+    "count": 1
+   }
+  ],
+  "i've got": [
+   {
+    "probability": 1,
+    "value": "a",
+    "count": 1
+   }
+  ],
+  "a vintage": [
+   {
+    "probability": 1,
+    "value": "september",
+    "count": 1
+   }
+  ],
+  "vintage september": [
+   {
+    "probability": 1,
+    "value": "1242",
+    "count": 1
+   }
+  ],
+  "september 1242": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "where's the": [
+   {
+    "probability": 1,
+    "value": "shiner",
+    "count": 1
+   }
+  ],
+  "the shiner": [
+   {
+    "probability": 1,
+    "value": "?",
+    "count": 1
+   }
+  ],
+  "way to": [
+   {
+    "probability": 1,
+    "value": "go",
+    "count": 1
+   }
+  ],
+  "to go": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "go, ": [
+   {
+    "probability": 1,
+    "value": "gotta",
+    "count": 1
+   }
+  ],
+  ", gotta": [
+   {
+    "probability": 1,
+    "value": "go",
+    "count": 1
+   }
+  ],
+  "gotta go": [
+   {
+    "probability": 1,
+    "value": "!",
+    "count": 1
+   }
+  ],
+  "i will": [
+   {
+    "probability": 1,
+    "value": "bring",
+    "count": 1
+   }
+  ],
+  "will bring": [
+   {
+    "probability": 1,
+    "value": "the",
+    "count": 1
+   }
+  ],
+  "bring the": [
+   {
+    "probability": 1,
+    "value": "milk",
+    "count": 1
+   }
+  ],
+  "the milk": [
+   {
+    "probability": 1,
+    "value": "!",
+    "count": 1
+   }
+  ],
+  "okay, ": [
+   {
+    "probability": 1,
+    "value": "how",
+    "count": 1
+   }
+  ],
+  ", how": [
+   {
+    "probability": 1,
+    "value": "old",
+    "count": 1
+   }
+  ],
+  "how old": [
+   {
+    "probability": 1,
+    "value": "are",
+    "count": 1
+   }
+  ],
+  "old are": [
+   {
+    "probability": 1,
+    "value": "the",
+    "count": 1
+   }
+  ],
+  "are the": [
+   {
+    "probability": 1,
+    "value": "kids",
+    "count": 1
+   }
+  ],
+  "the kids": [
+   {
+    "probability": 1,
+    "value": "going",
+    "count": 1
+   }
+  ],
+  "kids going": [
+   {
+    "probability": 1,
+    "value": "to",
+    "count": 1
+   }
+  ],
+  "going to": [
+   {
+    "probability": 1,
+    "value": "your",
+    "count": 1
+   }
+  ],
+  "to your": [
+   {
+    "probability": 1,
+    "value": "parties",
+    "count": 1
+   }
+  ],
+  "your parties": [
+   {
+    "probability": 1,
+    "value": "?",
+    "count": 1
+   }
+  ],
+  "\"nobody drinks": [
+   {
+    "probability": 1,
+    "value": "milk",
+    "count": 1
+   }
+  ],
+  "drinks milk": [
+   {
+    "probability": 1,
+    "value": "at",
+    "count": 1
+   }
+  ],
+  "milk at": [
+   {
+    "probability": 1,
+    "value": "parties\"",
+    "count": 1
+   }
+  ],
+  "at parties\"": [
+   {
+    "probability": 1,
+    "value": "!",
+    "count": 1
+   }
+  ],
+  "fade up": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "up, ": [
+   {
+    "probability": 1,
+    "value": "on",
+    "count": 1
+   }
+  ],
+  ", on": [
+   {
+    "probability": 1,
+    "value": "charles",
+    "count": 1
+   }
+  ],
+  "on charles": [
+   {
+    "probability": 1,
+    "value": "crooshtoost",
+    "count": 1
+   }
+  ],
+  "hail to": [
+   {
+    "probability": 1,
+    "value": "the",
+    "count": 2
+   }
+  ],
+  "to the": [
+   {
+    "probability": 1,
+    "value": "milkman",
+    "count": 2
+   }
+  ],
+  "the milkman": [
+   {
+    "probability": 0.6,
+    "value": ",",
+    "count": 3
+   },
+   {
+    "probability": 0.2,
+    "value": "!",
+    "count": 1
+   },
+   {
+    "probability": 0.2,
+    "value": "is",
+    "count": 1
+   }
+  ],
+  ", the": [
+   {
+    "probability": 1,
+    "value": "milkman",
+    "count": 3
+   }
+  ],
+  "milkman is": [
+   {
+    "probability": 1,
+    "value": "me",
+    "count": 1
+   }
+  ],
+  "is me": [
+   {
+    "probability": 1,
+    "value": "!",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "milkman, ",
+  "looks like",
+  "you want",
+  "ah, ",
+  "what year",
+  "in my",
+  "where's the",
+  "way to",
+  "and i",
+  "okay, ",
+  "\"nobody drinks",
+  "fade up",
+  "hail to"
+ ],
+ "endKeys": []
+}

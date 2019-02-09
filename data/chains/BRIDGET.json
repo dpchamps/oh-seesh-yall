@@ -1,0 +1,398 @@
+{
+ "identifier": "BRIDGET",
+ "chains": {
+  "if you": [
+   {
+    "probability": 1,
+    "value": "lose",
+    "count": 2
+   }
+  ],
+  "you lose": [
+   {
+    "probability": 1,
+    "value": "that",
+    "count": 2
+   }
+  ],
+  "lose that": [
+   {
+    "probability": 1,
+    "value": "fedora",
+    "count": 2
+   }
+  ],
+  "that fedora": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 2
+   }
+  ],
+  "let me": [
+   {
+    "probability": 1,
+    "value": "finish",
+    "count": 1
+   }
+  ],
+  "me finish": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "fedora, ": [
+   {
+    "probability": 1,
+    "value": "and",
+    "count": 1
+   }
+  ],
+  ", and": [
+   {
+    "probability": 1,
+    "value": "you",
+    "count": 1
+   }
+  ],
+  "and you": [
+   {
+    "probability": 1,
+    "value": "go",
+    "count": 1
+   }
+  ],
+  "you go": [
+   {
+    "probability": 1,
+    "value": "home",
+    "count": 1
+   }
+  ],
+  "go home": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "home, ": [
+   {
+    "probability": 1,
+    "value": "maybe",
+    "count": 1
+   }
+  ],
+  ", maybe": [
+   {
+    "probability": 1,
+    "value": "i'll",
+    "count": 1
+   }
+  ],
+  "maybe i'll": [
+   {
+    "probability": 1,
+    "value": "forget",
+    "count": 1
+   }
+  ],
+  "i'll forget": [
+   {
+    "probability": 1,
+    "value": "about",
+    "count": 1
+   }
+  ],
+  "forget about": [
+   {
+    "probability": 1,
+    "value": "how",
+    "count": 1
+   }
+  ],
+  "about how": [
+   {
+    "probability": 1,
+    "value": "badly",
+    "count": 1
+   }
+  ],
+  "how badly": [
+   {
+    "probability": 1,
+    "value": "you",
+    "count": 1
+   }
+  ],
+  "badly you": [
+   {
+    "probability": 1,
+    "value": "embarrassed",
+    "count": 1
+   }
+  ],
+  "you embarrassed": [
+   {
+    "probability": 1,
+    "value": "yourself",
+    "count": 1
+   }
+  ],
+  "embarrassed yourself": [
+   {
+    "probability": 1,
+    "value": "in",
+    "count": 1
+   }
+  ],
+  "yourself in": [
+   {
+    "probability": 1,
+    "value": "front",
+    "count": 1
+   }
+  ],
+  "in front": [
+   {
+    "probability": 1,
+    "value": "of",
+    "count": 1
+   }
+  ],
+  "front of": [
+   {
+    "probability": 1,
+    "value": "me",
+    "count": 1
+   }
+  ],
+  "of me": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "you're ugly": [
+   {
+    "probability": 1,
+    "value": "to",
+    "count": 1
+   }
+  ],
+  "ugly to": [
+   {
+    "probability": 1,
+    "value": "me",
+    "count": 1
+   }
+  ],
+  "to me": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "oh my": [
+   {
+    "probability": 1,
+    "value": "god",
+    "count": 1
+   }
+  ],
+  "my god": [
+   {
+    "probability": 1,
+    "value": "that",
+    "count": 1
+   }
+  ],
+  "god that": [
+   {
+    "probability": 1,
+    "value": "is",
+    "count": 1
+   }
+  ],
+  "that is": [
+   {
+    "probability": 1,
+    "value": "the",
+    "count": 1
+   }
+  ],
+  "is the": [
+   {
+    "probability": 1,
+    "value": "dumbest",
+    "count": 1
+   }
+  ],
+  "the dumbest": [
+   {
+    "probability": 1,
+    "value": "thing",
+    "count": 1
+   }
+  ],
+  "dumbest thing": [
+   {
+    "probability": 1,
+    "value": "i",
+    "count": 1
+   }
+  ],
+  "thing i": [
+   {
+    "probability": 1,
+    "value": "have",
+    "count": 1
+   }
+  ],
+  "i have": [
+   {
+    "probability": 1,
+    "value": "ever",
+    "count": 1
+   }
+  ],
+  "have ever": [
+   {
+    "probability": 1,
+    "value": "heard",
+    "count": 1
+   }
+  ],
+  "ever heard": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "you look": [
+   {
+    "probability": 1,
+    "value": "like",
+    "count": 1
+   }
+  ],
+  "look like": [
+   {
+    "probability": 1,
+    "value": "your",
+    "count": 1
+   }
+  ],
+  "like your": [
+   {
+    "probability": 1,
+    "value": "chin",
+    "count": 1
+   }
+  ],
+  "your chin": [
+   {
+    "probability": 1,
+    "value": "grew",
+    "count": 1
+   }
+  ],
+  "chin grew": [
+   {
+    "probability": 1,
+    "value": "pubes",
+    "count": 1
+   }
+  ],
+  "grew pubes": [
+   {
+    "probability": 1,
+    "value": ";",
+    "count": 1
+   }
+  ],
+  "pubes; ": [
+   {
+    "probability": 1,
+    "value": "i",
+    "count": 1
+   }
+  ],
+  "; i": [
+   {
+    "probability": 1,
+    "value": "wouldn't",
+    "count": 1
+   }
+  ],
+  "i wouldn't": [
+   {
+    "probability": 1,
+    "value": "let",
+    "count": 1
+   }
+  ],
+  "wouldn't let": [
+   {
+    "probability": 1,
+    "value": "you",
+    "count": 1
+   }
+  ],
+  "let you": [
+   {
+    "probability": 1,
+    "value": "fuck",
+    "count": 1
+   }
+  ],
+  "you fuck": [
+   {
+    "probability": 1,
+    "value": "me",
+    "count": 1
+   }
+  ],
+  "fuck me": [
+   {
+    "probability": 1,
+    "value": "with",
+    "count": 1
+   }
+  ],
+  "me with": [
+   {
+    "probability": 1,
+    "value": "anyone's",
+    "count": 1
+   }
+  ],
+  "with anyone's": [
+   {
+    "probability": 1,
+    "value": "dick",
+    "count": 1
+   }
+  ],
+  "anyone's dick": [
+   {
+    "probability": 1,
+    "value": "!",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "if you",
+  "let me",
+  "you're ugly",
+  "oh my",
+  "you look"
+ ],
+ "endKeys": []
+}

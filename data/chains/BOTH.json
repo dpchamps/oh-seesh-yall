@@ -1,0 +1,95 @@
+{
+ "identifier": "BOTH",
+ "chains": {
+  "i think": [
+   {
+    "probability": 1,
+    "value": "i'm",
+    "count": 1
+   }
+  ],
+  "think i'm": [
+   {
+    "probability": 1,
+    "value": "down",
+    "count": 1
+   }
+  ],
+  "i'm down": [
+   {
+    "probability": 1,
+    "value": "to",
+    "count": 1
+   }
+  ],
+  "down to": [
+   {
+    "probability": 1,
+    "value": "vote",
+    "count": 1
+   }
+  ],
+  "to vote": [
+   {
+    "probability": 1,
+    "value": "today",
+    "count": 1
+   }
+  ],
+  "vote today": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "tomorrow it": [
+   {
+    "probability": 1,
+    "value": "is",
+    "count": 1
+   }
+  ],
+  "it is": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "i know": [
+   {
+    "probability": 1,
+    "value": "what",
+    "count": 1
+   }
+  ],
+  "know what": [
+   {
+    "probability": 1,
+    "value": "you're",
+    "count": 1
+   }
+  ],
+  "what you're": [
+   {
+    "probability": 1,
+    "value": "doing",
+    "count": 1
+   }
+  ],
+  "you're doing": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "i think",
+  "tomorrow it",
+  "i know"
+ ],
+ "endKeys": []
+}

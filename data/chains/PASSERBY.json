@@ -1,0 +1,30 @@
+{
+ "identifier": "PASSERBY",
+ "chains": {
+  "yeah, ": [
+   {
+    "probability": 1,
+    "value": "a",
+    "count": 1
+   }
+  ],
+  ", a": [
+   {
+    "probability": 1,
+    "value": "blowjob",
+    "count": 1
+   }
+  ],
+  "a blowjob": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "yeah, "
+ ],
+ "endKeys": []
+}

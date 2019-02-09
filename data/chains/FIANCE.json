@@ -1,0 +1,59 @@
+{
+ "identifier": "FIANCE",
+ "chains": {
+  "that's him": [
+   {
+    "probability": 1,
+    "value": "!",
+    "count": 1
+   }
+  ],
+  "that's the": [
+   {
+    "probability": 1,
+    "value": "guy",
+    "count": 1
+   }
+  ],
+  "the guy": [
+   {
+    "probability": 1,
+    "value": "that",
+    "count": 1
+   }
+  ],
+  "guy that": [
+   {
+    "probability": 1,
+    "value": "stole",
+    "count": 1
+   }
+  ],
+  "that stole": [
+   {
+    "probability": 1,
+    "value": "my",
+    "count": 1
+   }
+  ],
+  "stole my": [
+   {
+    "probability": 1,
+    "value": "ring",
+    "count": 1
+   }
+  ],
+  "my ring": [
+   {
+    "probability": 1,
+    "value": "!",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "that's him",
+  "that's the"
+ ],
+ "endKeys": []
+}

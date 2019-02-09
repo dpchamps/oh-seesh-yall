@@ -1,0 +1,30 @@
+{
+ "identifier": "MRS",
+ "chains": {
+  "hurwitz oh": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "oh, ": [
+   {
+    "probability": 1,
+    "value": "that",
+    "count": 1
+   }
+  ],
+  ", that": [
+   {
+    "probability": 1,
+    "value": "is",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "hurwitz oh"
+ ],
+ "endKeys": []
+}

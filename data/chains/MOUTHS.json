@@ -1,0 +1,30 @@
+{
+ "identifier": "MOUTHS",
+ "chains": {
+  "i don't": [
+   {
+    "probability": 1,
+    "value": "want",
+    "count": 1
+   }
+  ],
+  "don't want": [
+   {
+    "probability": 1,
+    "value": "one",
+    "count": 1
+   }
+  ],
+  "want one": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "i don't"
+ ],
+ "endKeys": []
+}

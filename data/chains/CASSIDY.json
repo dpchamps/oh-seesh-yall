@@ -1,0 +1,96 @@
+{
+ "identifier": "CASSIDY",
+ "chains": {
+  "i can't": [
+   {
+    "probability": 1,
+    "value": "use",
+    "count": 1
+   }
+  ],
+  "can't use": [
+   {
+    "probability": 1,
+    "value": "that",
+    "count": 1
+   }
+  ],
+  "i'm like": [
+   {
+    "probability": 1,
+    "value": "too",
+    "count": 1
+   }
+  ],
+  "like too": [
+   {
+    "probability": 1,
+    "value": "add",
+    "count": 1
+   }
+  ],
+  "too add": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "i said": [
+   {
+    "probability": 1,
+    "value": "i'm",
+    "count": 1
+   }
+  ],
+  "said i'm": [
+   {
+    "probability": 1,
+    "value": "\"like\"",
+    "count": 1
+   }
+  ],
+  "i'm \"like\"": [
+   {
+    "probability": 1,
+    "value": "add",
+    "count": 1
+   }
+  ],
+  "\"like\" add": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "you ate": [
+   {
+    "probability": 1,
+    "value": "my",
+    "count": 1
+   }
+  ],
+  "ate my": [
+   {
+    "probability": 1,
+    "value": "puke",
+    "count": 1
+   }
+  ],
+  "my puke": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "i can't",
+  "i'm like",
+  "i said",
+  "you ate"
+ ],
+ "endKeys": []
+}

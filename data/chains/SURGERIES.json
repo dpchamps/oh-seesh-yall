@@ -1,0 +1,145 @@
+{
+ "identifier": "SURGERIES",
+ "chains": {
+  "stop dancing": [
+   {
+    "probability": 1,
+    "value": "!",
+    "count": 1
+   }
+  ],
+  "none of": [
+   {
+    "probability": 1,
+    "value": "it",
+    "count": 1
+   }
+  ],
+  "of it": [
+   {
+    "probability": 1,
+    "value": "is",
+    "count": 1
+   }
+  ],
+  "it is": [
+   {
+    "probability": 1,
+    "value": "ever",
+    "count": 1
+   }
+  ],
+  "is ever": [
+   {
+    "probability": 1,
+    "value": "to",
+    "count": 1
+   }
+  ],
+  "ever to": [
+   {
+    "probability": 1,
+    "value": "any",
+    "count": 1
+   }
+  ],
+  "to any": [
+   {
+    "probability": 1,
+    "value": "avail",
+    "count": 1
+   }
+  ],
+  "any avail": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "at the": [
+   {
+    "probability": 1,
+    "value": "end",
+    "count": 1
+   }
+  ],
+  "the end": [
+   {
+    "probability": 1,
+    "value": "of",
+    "count": 1
+   }
+  ],
+  "end of": [
+   {
+    "probability": 1,
+    "value": "the",
+    "count": 1
+   }
+  ],
+  "of the": [
+   {
+    "probability": 1,
+    "value": "day",
+    "count": 1
+   }
+  ],
+  "the day": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "day, ": [
+   {
+    "probability": 1,
+    "value": "you're",
+    "count": 1
+   }
+  ],
+  ", you're": [
+   {
+    "probability": 1,
+    "value": "still",
+    "count": 1
+   }
+  ],
+  "you're still": [
+   {
+    "probability": 1,
+    "value": "you",
+    "count": 1
+   }
+  ],
+  "still you": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "and you": [
+   {
+    "probability": 1,
+    "value": "suck",
+    "count": 1
+   }
+  ],
+  "you suck": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "stop dancing",
+  "none of",
+  "at the",
+  "and you"
+ ],
+ "endKeys": []
+}

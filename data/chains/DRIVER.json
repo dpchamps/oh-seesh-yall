@@ -1,0 +1,194 @@
+{
+ "identifier": "DRIVER",
+ "chains": {
+  "jamie's house": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "i think": [
+   {
+    "probability": 1,
+    "value": "you",
+    "count": 1
+   }
+  ],
+  "think you": [
+   {
+    "probability": 1,
+    "value": "guys",
+    "count": 1
+   }
+  ],
+  "you guys": [
+   {
+    "probability": 1,
+    "value": "wrecked",
+    "count": 1
+   }
+  ],
+  "guys wrecked": [
+   {
+    "probability": 1,
+    "value": "the",
+    "count": 1
+   }
+  ],
+  "wrecked the": [
+   {
+    "probability": 1,
+    "value": "bangbus",
+    "count": 1
+   }
+  ],
+  "the bangbus": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "ok, ": [
+   {
+    "probability": 1,
+    "value": "um",
+    "count": 1
+   }
+  ],
+  ", um": [
+   {
+    "probability": 1,
+    "value": "not",
+    "count": 1
+   }
+  ],
+  "um not": [
+   {
+    "probability": 1,
+    "value": "cool",
+    "count": 1
+   }
+  ],
+  "not cool": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "you're going": [
+   {
+    "probability": 1,
+    "value": "to",
+    "count": 1
+   }
+  ],
+  "going to": [
+   {
+    "probability": 1,
+    "value": "have",
+    "count": 1
+   }
+  ],
+  "to have": [
+   {
+    "probability": 1,
+    "value": "to",
+    "count": 1
+   }
+  ],
+  "have to": [
+   {
+    "probability": 1,
+    "value": "come",
+    "count": 1
+   }
+  ],
+  "to come": [
+   {
+    "probability": 1,
+    "value": "back",
+    "count": 1
+   }
+  ],
+  "come back": [
+   {
+    "probability": 1,
+    "value": "to",
+    "count": 1
+   }
+  ],
+  "back to": [
+   {
+    "probability": 1,
+    "value": "the",
+    "count": 1
+   }
+  ],
+  "to the": [
+   {
+    "probability": 1,
+    "value": "bangbros",
+    "count": 1
+   }
+  ],
+  "the bangbros": [
+   {
+    "probability": 1,
+    "value": "headquarters",
+    "count": 1
+   }
+  ],
+  "bangbros headquarters": [
+   {
+    "probability": 1,
+    "value": "and",
+    "count": 1
+   }
+  ],
+  "headquarters and": [
+   {
+    "probability": 1,
+    "value": "talk",
+    "count": 1
+   }
+  ],
+  "and talk": [
+   {
+    "probability": 1,
+    "value": "to",
+    "count": 1
+   }
+  ],
+  "talk to": [
+   {
+    "probability": 1,
+    "value": "my",
+    "count": 1
+   }
+  ],
+  "to my": [
+   {
+    "probability": 1,
+    "value": "boss",
+    "count": 1
+   }
+  ],
+  "my boss": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "jamie's house",
+  "i think",
+  "ok, ",
+  "you're going"
+ ],
+ "endKeys": []
+}

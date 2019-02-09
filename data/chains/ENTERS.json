@@ -1,0 +1,86 @@
+{
+ "identifier": "ENTERS",
+ "chains": {
+  "looks identical": [
+   {
+    "probability": 1,
+    "value": "to",
+    "count": 1
+   }
+  ],
+  "identical to": [
+   {
+    "probability": 1,
+    "value": "amir",
+    "count": 1
+   }
+  ],
+  "to amir": [
+   {
+    "probability": 1,
+    "value": "but",
+    "count": 1
+   }
+  ],
+  "amir but": [
+   {
+    "probability": 1,
+    "value": "with",
+    "count": 1
+   }
+  ],
+  "but with": [
+   {
+    "probability": 1,
+    "value": "flat",
+    "count": 1
+   }
+  ],
+  "with flat": [
+   {
+    "probability": 1,
+    "value": "hair",
+    "count": 1
+   }
+  ],
+  "flat hair": [
+   {
+    "probability": 1,
+    "value": "and",
+    "count": 1
+   }
+  ],
+  "hair and": [
+   {
+    "probability": 1,
+    "value": "a",
+    "count": 1
+   }
+  ],
+  "and a": [
+   {
+    "probability": 1,
+    "value": "green",
+    "count": 1
+   }
+  ],
+  "a green": [
+   {
+    "probability": 1,
+    "value": "sweater",
+    "count": 1
+   }
+  ],
+  "green sweater": [
+   {
+    "probability": 1,
+    "value": "on",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "looks identical"
+ ],
+ "endKeys": []
+}

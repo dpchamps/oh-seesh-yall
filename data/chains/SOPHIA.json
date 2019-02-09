@@ -1,0 +1,71 @@
+{
+ "identifier": "SOPHIA",
+ "chains": {
+  "hi, ": [
+   {
+    "probability": 0.5,
+    "value": "guys",
+    "count": 1
+   },
+   {
+    "probability": 0.5,
+    "value": "i'm",
+    "count": 1
+   }
+  ],
+  ", guys": [
+   {
+    "probability": 1,
+    "value": "!",
+    "count": 1
+   }
+  ],
+  ", i'm": [
+   {
+    "probability": 1,
+    "value": "sophia",
+    "count": 1
+   }
+  ],
+  "i'm sophia": [
+   {
+    "probability": 1,
+    "value": "!",
+    "count": 1
+   }
+  ],
+  "oo, ": [
+   {
+    "probability": 1,
+    "value": "i",
+    "count": 1
+   }
+  ],
+  ", i": [
+   {
+    "probability": 1,
+    "value": "like",
+    "count": 1
+   }
+  ],
+  "i like": [
+   {
+    "probability": 1,
+    "value": "you",
+    "count": 1
+   }
+  ],
+  "like you": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "hi, ",
+  "oo, "
+ ],
+ "endKeys": []
+}

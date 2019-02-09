@@ -1,0 +1,99 @@
+{
+ "identifier": "CHRIS",
+ "chains": {
+  "i like": [
+   {
+    "probability": 1,
+    "value": "the",
+    "count": 1
+   }
+  ],
+  "you little": [
+   {
+    "probability": 0.3333333333333333,
+    "value": "cocksucker",
+    "count": 1
+   },
+   {
+    "probability": 0.3333333333333333,
+    "value": "prick",
+    "count": 1
+   },
+   {
+    "probability": 0.3333333333333333,
+    "value": "bleep",
+    "count": 1
+   }
+  ],
+  "little prick": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "prick, ": [
+   {
+    "probability": 1,
+    "value": "i'm",
+    "count": 1
+   }
+  ],
+  ", i'm": [
+   {
+    "probability": 1,
+    "value": "a",
+    "count": 1
+   }
+  ],
+  "i'm a": [
+   {
+    "probability": 1,
+    "value": "break",
+    "count": 1
+   }
+  ],
+  "a break": [
+   {
+    "probability": 1,
+    "value": "your",
+    "count": 1
+   }
+  ],
+  "break your": [
+   {
+    "probability": 1,
+    "value": "neck",
+    "count": 1
+   }
+  ],
+  "you're about": [
+   {
+    "probability": 1,
+    "value": "to",
+    "count": 1
+   }
+  ],
+  "about to": [
+   {
+    "probability": 1,
+    "value": "die",
+    "count": 1
+   }
+  ],
+  "listen you": [
+   {
+    "probability": 1,
+    "value": "little",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "i like",
+  "you little",
+  "you're about",
+  "listen you"
+ ],
+ "endKeys": []
+}

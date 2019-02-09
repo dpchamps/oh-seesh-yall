@@ -1,0 +1,52 @@
+{
+ "identifier": "SARA",
+ "chains": {
+  "wow that's": [
+   {
+    "probability": 1,
+    "value": "great",
+    "count": 1
+   }
+  ],
+  "that's great": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "how much": [
+   {
+    "probability": 1,
+    "value": "did",
+    "count": 1
+   }
+  ],
+  "much did": [
+   {
+    "probability": 1,
+    "value": "you",
+    "count": 1
+   }
+  ],
+  "did you": [
+   {
+    "probability": 1,
+    "value": "win",
+    "count": 1
+   }
+  ],
+  "you win": [
+   {
+    "probability": 1,
+    "value": "?",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "wow that's",
+  "how much"
+ ],
+ "endKeys": []
+}

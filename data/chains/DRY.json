@@ -1,0 +1,121 @@
+{
+ "identifier": "DRY",
+ "chains": {
+  "aged prime": [
+   {
+    "probability": 1,
+    "value": "rib",
+    "count": 1
+   }
+  ],
+  "prime rib": [
+   {
+    "probability": 1,
+    "value": "with",
+    "count": 1
+   }
+  ],
+  "rib with": [
+   {
+    "probability": 1,
+    "value": "mashed",
+    "count": 1
+   }
+  ],
+  "with mashed": [
+   {
+    "probability": 1,
+    "value": "potatoes",
+    "count": 1
+   }
+  ],
+  "mashed potatoes": [
+   {
+    "probability": 1,
+    "value": "and",
+    "count": 1
+   }
+  ],
+  "potatoes and": [
+   {
+    "probability": 1,
+    "value": "vegetables",
+    "count": 1
+   }
+  ],
+  "and vegetables": [
+   {
+    "probability": 1,
+    "value": "and",
+    "count": 1
+   }
+  ],
+  "vegetables and": [
+   {
+    "probability": 1,
+    "value": "for",
+    "count": 1
+   }
+  ],
+  "and for": [
+   {
+    "probability": 1,
+    "value": "dessert",
+    "count": 1
+   }
+  ],
+  "for dessert": [
+   {
+    "probability": 1,
+    "value": "they",
+    "count": 1
+   }
+  ],
+  "dessert they": [
+   {
+    "probability": 1,
+    "value": "cart",
+    "count": 1
+   }
+  ],
+  "they cart": [
+   {
+    "probability": 1,
+    "value": "out",
+    "count": 1
+   }
+  ],
+  "cart out": [
+   {
+    "probability": 1,
+    "value": "this",
+    "count": 1
+   }
+  ],
+  "out this": [
+   {
+    "probability": 1,
+    "value": "heaping",
+    "count": 1
+   }
+  ],
+  "this heaping": [
+   {
+    "probability": 1,
+    "value": "helpful",
+    "count": 1
+   }
+  ],
+  "heaping helpful": [
+   {
+    "probability": 1,
+    "value": "of",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "aged prime"
+ ],
+ "endKeys": []
+}

@@ -1,0 +1,150 @@
+{
+ "identifier": "AGAIN",
+ "chains": {
+  "with more": [
+   {
+    "probability": 1,
+    "value": "glug",
+    "count": 1
+   }
+  ],
+  "more glug": [
+   {
+    "probability": 1,
+    "value": "sounds",
+    "count": 1
+   }
+  ],
+  "glug sounds": [
+   {
+    "probability": 1,
+    "value": "crushing",
+    "count": 1
+   }
+  ],
+  "sounds crushing": [
+   {
+    "probability": 1,
+    "value": "the",
+    "count": 1
+   }
+  ],
+  "crushing the": [
+   {
+    "probability": 1,
+    "value": "empty",
+    "count": 1
+   }
+  ],
+  "the empty": [
+   {
+    "probability": 1,
+    "value": "beer",
+    "count": 1
+   }
+  ],
+  "empty beer": [
+   {
+    "probability": 1,
+    "value": "can",
+    "count": 1
+   }
+  ],
+  "beer can": [
+   {
+    "probability": 1,
+    "value": "on",
+    "count": 1
+   }
+  ],
+  "can on": [
+   {
+    "probability": 1,
+    "value": "his",
+    "count": 1
+   }
+  ],
+  "on his": [
+   {
+    "probability": 1,
+    "value": "forehead",
+    "count": 1
+   }
+  ],
+  "his forehead": [
+   {
+    "probability": 1,
+    "value": "and",
+    "count": 1
+   }
+  ],
+  "forehead and": [
+   {
+    "probability": 1,
+    "value": "tossing",
+    "count": 1
+   }
+  ],
+  "and tossing": [
+   {
+    "probability": 1,
+    "value": "it",
+    "count": 1
+   }
+  ],
+  "tossing it": [
+   {
+    "probability": 1,
+    "value": "away",
+    "count": 1
+   }
+  ],
+  "it away": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "jake then": [
+   {
+    "probability": 1,
+    "value": "laughs",
+    "count": 1
+   }
+  ],
+  "then laughs": [
+   {
+    "probability": 1,
+    "value": "at",
+    "count": 1
+   }
+  ],
+  "laughs at": [
+   {
+    "probability": 1,
+    "value": "his",
+    "count": 1
+   }
+  ],
+  "at his": [
+   {
+    "probability": 1,
+    "value": "own",
+    "count": 1
+   }
+  ],
+  "his own": [
+   {
+    "probability": 1,
+    "value": "joke",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "with more",
+  "jake then"
+ ],
+ "endKeys": []
+}

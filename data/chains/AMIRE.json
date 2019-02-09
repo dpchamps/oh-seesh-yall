@@ -1,0 +1,30 @@
+{
+ "identifier": "AMIRE",
+ "chains": {
+  "what is": [
+   {
+    "probability": 1,
+    "value": "the",
+    "count": 1
+   }
+  ],
+  "is the": [
+   {
+    "probability": 1,
+    "value": "odds",
+    "count": 1
+   }
+  ],
+  "the odds": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "what is"
+ ],
+ "endKeys": []
+}

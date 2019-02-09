@@ -1,0 +1,338 @@
+{
+ "identifier": "PRESENTER",
+ "chains": {
+  "okay you": [
+   {
+    "probability": 1,
+    "value": "guys",
+    "count": 1
+   }
+  ],
+  "you guys": [
+   {
+    "probability": 1,
+    "value": "are",
+    "count": 1
+   }
+  ],
+  "guys are": [
+   {
+    "probability": 1,
+    "value": "clamouring",
+    "count": 1
+   }
+  ],
+  "are clamouring": [
+   {
+    "probability": 1,
+    "value": "for",
+    "count": 1
+   }
+  ],
+  "clamouring for": [
+   {
+    "probability": 1,
+    "value": "it",
+    "count": 1
+   }
+  ],
+  "for it": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "it, ": [
+   {
+    "probability": 1,
+    "value": "here",
+    "count": 1
+   }
+  ],
+  ", here": [
+   {
+    "probability": 1,
+    "value": "it",
+    "count": 1
+   }
+  ],
+  "here it": [
+   {
+    "probability": 1,
+    "value": "is",
+    "count": 1
+   }
+  ],
+  "it is": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "is, ": [
+   {
+    "probability": 1,
+    "value": "one",
+    "count": 1
+   }
+  ],
+  ", one": [
+   {
+    "probability": 1,
+    "value": "more",
+    "count": 1
+   }
+  ],
+  "one more": [
+   {
+    "probability": 1,
+    "value": "time",
+    "count": 1
+   }
+  ],
+  "more time": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "time, ": [
+   {
+    "probability": 1,
+    "value": "hoodie",
+    "count": 1
+   }
+  ],
+  ", hoodie": [
+   {
+    "probability": 1,
+    "value": "allen",
+    "count": 1
+   }
+  ],
+  "hoodie allen": [
+   {
+    "probability": 1,
+    "value": "featuring",
+    "count": 1
+   }
+  ],
+  "allen featuring": [
+   {
+    "probability": 1,
+    "value": "amir",
+    "count": 1
+   }
+  ],
+  "featuring amir": [
+   {
+    "probability": 1,
+    "value": "valerie",
+    "count": 1
+   }
+  ],
+  "amir valerie": [
+   {
+    "probability": 1,
+    "value": "blumenfeld",
+    "count": 1
+   }
+  ],
+  "valerie blumenfeld": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "blumenfeld, ": [
+   {
+    "probability": 1,
+    "value": "this",
+    "count": 1
+   }
+  ],
+  ", this": [
+   {
+    "probability": 1,
+    "value": "one",
+    "count": 1
+   }
+  ],
+  "this one": [
+   {
+    "probability": 1,
+    "value": "is",
+    "count": 1
+   }
+  ],
+  "one is": [
+   {
+    "probability": 1,
+    "value": "not",
+    "count": 1
+   }
+  ],
+  "is not": [
+   {
+    "probability": 1,
+    "value": "for",
+    "count": 1
+   }
+  ],
+  "not for": [
+   {
+    "probability": 1,
+    "value": "whatever",
+    "count": 1
+   }
+  ],
+  "for whatever": [
+   {
+    "probability": 1,
+    "value": "reason",
+    "count": 1
+   }
+  ],
+  "whatever reason": [
+   {
+    "probability": 1,
+    "value": "on",
+    "count": 1
+   }
+  ],
+  "reason on": [
+   {
+    "probability": 1,
+    "value": "hoodie",
+    "count": 1
+   }
+  ],
+  "on hoodie": [
+   {
+    "probability": 1,
+    "value": "allen's",
+    "count": 1
+   }
+  ],
+  "hoodie allen's": [
+   {
+    "probability": 1,
+    "value": "all",
+    "count": 1
+   }
+  ],
+  "allen's all": [
+   {
+    "probability": 1,
+    "value": "american",
+    "count": 1
+   }
+  ],
+  "all american": [
+   {
+    "probability": 1,
+    "value": "ep",
+    "count": 1
+   }
+  ],
+  "american ep": [
+   {
+    "probability": 1,
+    "value": "coming",
+    "count": 1
+   }
+  ],
+  "ep coming": [
+   {
+    "probability": 1,
+    "value": "out",
+    "count": 1
+   }
+  ],
+  "coming out": [
+   {
+    "probability": 1,
+    "value": "today",
+    "count": 1
+   }
+  ],
+  "out today": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "today, ": [
+   {
+    "probability": 1,
+    "value": "april",
+    "count": 1
+   }
+  ],
+  ", april": [
+   {
+    "probability": 1,
+    "value": "10th",
+    "count": 1
+   }
+  ],
+  "april 10th": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "10th, ": [
+   {
+    "probability": 1,
+    "value": "it's",
+    "count": 1
+   }
+  ],
+  ", it's": [
+   {
+    "probability": 1,
+    "value": "called",
+    "count": 1
+   }
+  ],
+  "it's called": [
+   {
+    "probability": 1,
+    "value": "three",
+    "count": 1
+   }
+  ],
+  "called three": [
+   {
+    "probability": 1,
+    "value": "wishes",
+    "count": 1
+   }
+  ],
+  "three wishes": [
+   {
+    "probability": 1,
+    "value": "genie",
+    "count": 1
+   }
+  ],
+  "wishes genie": [
+   {
+    "probability": 1,
+    "value": "!",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "okay you"
+ ],
+ "endKeys": []
+}

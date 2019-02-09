@@ -1,0 +1,661 @@
+{
+ "identifier": "VOICE",
+ "chains": {
+  "ok, ": [
+   {
+    "probability": 0.5,
+    "value": "obviously",
+    "count": 1
+   },
+   {
+    "probability": 0.5,
+    "value": "you",
+    "count": 1
+   }
+  ],
+  ", obviously": [
+   {
+    "probability": 1,
+    "value": "i",
+    "count": 1
+   }
+  ],
+  "obviously i": [
+   {
+    "probability": 1,
+    "value": "wouldn't",
+    "count": 1
+   }
+  ],
+  "i wouldn't": [
+   {
+    "probability": 1,
+    "value": "say",
+    "count": 1
+   }
+  ],
+  "wouldn't say": [
+   {
+    "probability": 1,
+    "value": "anything",
+    "count": 1
+   }
+  ],
+  "say anything": [
+   {
+    "probability": 1,
+    "value": "unless",
+    "count": 1
+   }
+  ],
+  "anything unless": [
+   {
+    "probability": 1,
+    "value": "it",
+    "count": 1
+   }
+  ],
+  "unless it": [
+   {
+    "probability": 0.5,
+    "value": "really",
+    "count": 1
+   },
+   {
+    "probability": 0.5,
+    "value": "kills",
+    "count": 1
+   }
+  ],
+  "it really": [
+   {
+    "probability": 0.5,
+    "value": "really",
+    "count": 1
+   },
+   {
+    "probability": 0.5,
+    "value": "hurts",
+    "count": 1
+   }
+  ],
+  "really really": [
+   {
+    "probability": 1,
+    "value": "hurt",
+    "count": 1
+   }
+  ],
+  "really hurt": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "hurt, ": [
+   {
+    "probability": 1,
+    "value": "alright",
+    "count": 1
+   }
+  ],
+  ", alright": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "you know": [
+   {
+    "probability": 0.3333333333333333,
+    "value": "me",
+    "count": 1
+   },
+   {
+    "probability": 0.3333333333333333,
+    "value": "i",
+    "count": 1
+   },
+   {
+    "probability": 0.3333333333333333,
+    "value": "what",
+    "count": 1
+   }
+  ],
+  "know me": [
+   {
+    "probability": 1,
+    "value": "man",
+    "count": 1
+   }
+  ],
+  "me man": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "man, ": [
+   {
+    "probability": 1,
+    "value": "you",
+    "count": 1
+   }
+  ],
+  ", you": [
+   {
+    "probability": 0.6666666666666666,
+    "value": "know",
+    "count": 2
+   },
+   {
+    "probability": 0.3333333333333333,
+    "value": "can't",
+    "count": 1
+   }
+  ],
+  "know i": [
+   {
+    "probability": 1,
+    "value": "keep",
+    "count": 1
+   }
+  ],
+  "i keep": [
+   {
+    "probability": 1,
+    "value": "silent",
+    "count": 1
+   }
+  ],
+  "keep silent": [
+   {
+    "probability": 1,
+    "value": "unless",
+    "count": 1
+   }
+  ],
+  "silent unless": [
+   {
+    "probability": 1,
+    "value": "it",
+    "count": 1
+   }
+  ],
+  "it kills": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "kills, ": [
+   {
+    "probability": 1,
+    "value": "but",
+    "count": 1
+   }
+  ],
+  ", but": [
+   {
+    "probability": 1,
+    "value": "it",
+    "count": 1
+   }
+  ],
+  "but it": [
+   {
+    "probability": 1,
+    "value": "really",
+    "count": 1
+   }
+  ],
+  "really hurts": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "know what": [
+   {
+    "probability": 1,
+    "value": "?",
+    "count": 1
+   }
+  ],
+  "how about": [
+   {
+    "probability": 1,
+    "value": "you",
+    "count": 1
+   }
+  ],
+  "about you": [
+   {
+    "probability": 1,
+    "value": "smile",
+    "count": 1
+   }
+  ],
+  "you smile": [
+   {
+    "probability": 1,
+    "value": "and",
+    "count": 1
+   }
+  ],
+  "smile and": [
+   {
+    "probability": 1,
+    "value": "i'll",
+    "count": 1
+   }
+  ],
+  "and i'll": [
+   {
+    "probability": 1,
+    "value": "throw",
+    "count": 1
+   }
+  ],
+  "i'll throw": [
+   {
+    "probability": 1,
+    "value": "one",
+    "count": 1
+   }
+  ],
+  "throw one": [
+   {
+    "probability": 1,
+    "value": "of",
+    "count": 1
+   }
+  ],
+  "one of": [
+   {
+    "probability": 0.5,
+    "value": "these",
+    "count": 1
+   },
+   {
+    "probability": 0.5,
+    "value": "the",
+    "count": 1
+   }
+  ],
+  "of these": [
+   {
+    "probability": 1,
+    "value": "pebbles",
+    "count": 1
+   }
+  ],
+  "these pebbles": [
+   {
+    "probability": 1,
+    "value": "in",
+    "count": 1
+   }
+  ],
+  "pebbles in": [
+   {
+    "probability": 1,
+    "value": "your",
+    "count": 2
+   }
+  ],
+  "in your": [
+   {
+    "probability": 0.5,
+    "value": "mouth",
+    "count": 1
+   },
+   {
+    "probability": 0.5,
+    "value": "eyes",
+    "count": 1
+   }
+  ],
+  "your mouth": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "mouth, ": [
+   {
+    "probability": 1,
+    "value": "we'll",
+    "count": 1
+   }
+  ],
+  ", we'll": [
+   {
+    "probability": 1,
+    "value": "see",
+    "count": 1
+   }
+  ],
+  "we'll see": [
+   {
+    "probability": 1,
+    "value": "how",
+    "count": 1
+   }
+  ],
+  "see how": [
+   {
+    "probability": 1,
+    "value": "you",
+    "count": 1
+   }
+  ],
+  "how you": [
+   {
+    "probability": 1,
+    "value": "like",
+    "count": 1
+   }
+  ],
+  "you like": [
+   {
+    "probability": 1,
+    "value": "it",
+    "count": 1
+   }
+  ],
+  "like it": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "it, ": [
+   {
+    "probability": 1,
+    "value": "ok",
+    "count": 1
+   }
+  ],
+  ", ok": [
+   {
+    "probability": 1,
+    "value": "?",
+    "count": 1
+   }
+  ],
+  "ooh see": [
+   {
+    "probability": 1,
+    "value": "!",
+    "count": 1
+   }
+  ],
+  "oh wait": [
+   {
+    "probability": 1,
+    "value": "no",
+    "count": 1
+   }
+  ],
+  "wait no": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "no, ": [
+   {
+    "probability": 1,
+    "value": "you",
+    "count": 1
+   }
+  ],
+  "you can't": [
+   {
+    "probability": 0.5,
+    "value": "because",
+    "count": 1
+   },
+   {
+    "probability": 0.5,
+    "value": "and",
+    "count": 1
+   }
+  ],
+  "can't because": [
+   {
+    "probability": 1,
+    "value": "i",
+    "count": 1
+   }
+  ],
+  "because i": [
+   {
+    "probability": 1,
+    "value": "threw",
+    "count": 1
+   }
+  ],
+  "i threw": [
+   {
+    "probability": 1,
+    "value": "one",
+    "count": 1
+   }
+  ],
+  "threw one": [
+   {
+    "probability": 1,
+    "value": "of",
+    "count": 1
+   }
+  ],
+  "of the": [
+   {
+    "probability": 1,
+    "value": "pebbles",
+    "count": 1
+   }
+  ],
+  "the pebbles": [
+   {
+    "probability": 1,
+    "value": "in",
+    "count": 1
+   }
+  ],
+  "your eyes": [
+   {
+    "probability": 1,
+    "value": "and",
+    "count": 1
+   }
+  ],
+  "eyes and": [
+   {
+    "probability": 1,
+    "value": "now",
+    "count": 1
+   }
+  ],
+  "and now": [
+   {
+    "probability": 1,
+    "value": "you",
+    "count": 1
+   }
+  ],
+  "now you": [
+   {
+    "probability": 1,
+    "value": "can't",
+    "count": 1
+   }
+  ],
+  "can't and": [
+   {
+    "probability": 1,
+    "value": "you",
+    "count": 1
+   }
+  ],
+  "and you": [
+   {
+    "probability": 1,
+    "value": "won't",
+    "count": 1
+   }
+  ],
+  "you won't": [
+   {
+    "probability": 1,
+    "value": "shut",
+    "count": 1
+   }
+  ],
+  "won't shut": [
+   {
+    "probability": 1,
+    "value": "up",
+    "count": 1
+   }
+  ],
+  "shut up": [
+   {
+    "probability": 1,
+    "value": "about",
+    "count": 1
+   }
+  ],
+  "up about": [
+   {
+    "probability": 1,
+    "value": "it",
+    "count": 1
+   }
+  ],
+  "about it": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "but when": [
+   {
+    "probability": 1,
+    "value": "i",
+    "count": 1
+   }
+  ],
+  "when i": [
+   {
+    "probability": 1,
+    "value": "do",
+    "count": 1
+   }
+  ],
+  "i do": [
+   {
+    "probability": 1,
+    "value": "it",
+    "count": 1
+   }
+  ],
+  "do it": [
+   {
+    "probability": 1,
+    "value": "i'm",
+    "count": 1
+   }
+  ],
+  "it i'm": [
+   {
+    "probability": 1,
+    "value": "a",
+    "count": 1
+   }
+  ],
+  "i'm a": [
+   {
+    "probability": 1,
+    "value": "huge",
+    "count": 1
+   }
+  ],
+  "a huge": [
+   {
+    "probability": 1,
+    "value": "dill",
+    "count": 1
+   }
+  ],
+  "huge dill": [
+   {
+    "probability": 1,
+    "value": "weed",
+    "count": 1
+   }
+  ],
+  "dill weed": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "weed, ": [
+   {
+    "probability": 1,
+    "value": "so",
+    "count": 1
+   }
+  ],
+  ", so": [
+   {
+    "probability": 1,
+    "value": "how's",
+    "count": 1
+   }
+  ],
+  "so how's": [
+   {
+    "probability": 1,
+    "value": "that",
+    "count": 1
+   }
+  ],
+  "how's that": [
+   {
+    "probability": 1,
+    "value": "fair",
+    "count": 1
+   }
+  ],
+  "that fair": [
+   {
+    "probability": 1,
+    "value": "?",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "ok, ",
+  "you know",
+  "how about",
+  "ooh see",
+  "oh wait",
+  "but when"
+ ],
+ "endKeys": []
+}

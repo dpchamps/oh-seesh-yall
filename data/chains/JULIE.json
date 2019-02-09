@@ -1,0 +1,247 @@
+{
+ "identifier": "JULIE",
+ "chains": {
+  "um, ": [
+   {
+    "probability": 0.5,
+    "value": "my",
+    "count": 1
+   },
+   {
+    "probability": 0.5,
+    "value": "i'm",
+    "count": 1
+   }
+  ],
+  ", my": [
+   {
+    "probability": 1,
+    "value": "name",
+    "count": 1
+   }
+  ],
+  "my name": [
+   {
+    "probability": 1,
+    "value": "is",
+    "count": 1
+   }
+  ],
+  "name is": [
+   {
+    "probability": 1,
+    "value": "julie",
+    "count": 1
+   }
+  ],
+  "i'm an": [
+   {
+    "probability": 1,
+    "value": "intern",
+    "count": 1
+   }
+  ],
+  "an intern": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "intern, ": [
+   {
+    "probability": 1,
+    "value": "i'm",
+    "count": 1
+   }
+  ],
+  ", i'm": [
+   {
+    "probability": 0.5,
+    "value": "17",
+    "count": 1
+   },
+   {
+    "probability": 0.5,
+    "value": "on",
+    "count": 1
+   }
+  ],
+  "a special": [
+   {
+    "probability": 1,
+    "value": "high",
+    "count": 1
+   }
+  ],
+  "special high": [
+   {
+    "probability": 1,
+    "value": "school",
+    "count": 1
+   }
+  ],
+  "high school": [
+   {
+    "probability": 1,
+    "value": "mentor",
+    "count": 1
+   }
+  ],
+  "school mentor": [
+   {
+    "probability": 1,
+    "value": "ship",
+    "count": 1
+   }
+  ],
+  "mentor ship": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "i'm actually": [
+   {
+    "probability": 1,
+    "value": "16",
+    "count": 1
+   }
+  ],
+  "actually 16": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "16, ": [
+   {
+    "probability": 1,
+    "value": "i",
+    "count": 1
+   }
+  ],
+  ", i": [
+   {
+    "probability": 1,
+    "value": "i",
+    "count": 1
+   }
+  ],
+  "i i": [
+   {
+    "probability": 1,
+    "value": "lied",
+    "count": 1
+   }
+  ],
+  "i lied": [
+   {
+    "probability": 1,
+    "value": "to",
+    "count": 1
+   }
+  ],
+  "lied to": [
+   {
+    "probability": 1,
+    "value": "seem",
+    "count": 1
+   }
+  ],
+  "to seem": [
+   {
+    "probability": 1,
+    "value": "older",
+    "count": 1
+   }
+  ],
+  "seem older": [
+   {
+    "probability": 1,
+    "value": "but",
+    "count": 1
+   }
+  ],
+  "older but": [
+   {
+    "probability": 1,
+    "value": "i'd",
+    "count": 1
+   }
+  ],
+  "but i'd": [
+   {
+    "probability": 1,
+    "value": "prefer",
+    "count": 1
+   }
+  ],
+  "i'd prefer": [
+   {
+    "probability": 1,
+    "value": "if",
+    "count": 1
+   }
+  ],
+  "prefer if": [
+   {
+    "probability": 1,
+    "value": "everyone",
+    "count": 1
+   }
+  ],
+  "if everyone": [
+   {
+    "probability": 1,
+    "value": "knew",
+    "count": 1
+   }
+  ],
+  "everyone knew": [
+   {
+    "probability": 1,
+    "value": "my",
+    "count": 1
+   }
+  ],
+  "knew my": [
+   {
+    "probability": 1,
+    "value": "real",
+    "count": 1
+   }
+  ],
+  "my real": [
+   {
+    "probability": 1,
+    "value": "age",
+    "count": 1
+   }
+  ],
+  "real age": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "you monster": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "um, ",
+  "i'm an",
+  "a special",
+  "i'm actually",
+  "you monster"
+ ],
+ "endKeys": []
+}

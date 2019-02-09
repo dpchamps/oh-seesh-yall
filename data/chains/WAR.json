@@ -1,0 +1,37 @@
+{
+ "identifier": "WAR",
+ "chains": {
+  "sixty and": [
+   {
+    "probability": 1,
+    "value": "nine",
+    "count": 1
+   }
+  ],
+  "and nine": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "nine, ": [
+   {
+    "probability": 1,
+    "value": "that",
+    "count": 1
+   }
+  ],
+  ", that": [
+   {
+    "probability": 1,
+    "value": "wore",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "sixty and"
+ ],
+ "endKeys": []
+}

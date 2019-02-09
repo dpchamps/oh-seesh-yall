@@ -1,0 +1,65 @@
+{
+ "identifier": "182",
+ "chains": {
+  "all the": [
+   {
+    "probability": 1,
+    "value": "small",
+    "count": 1
+   }
+  ],
+  "the small": [
+   {
+    "probability": 1,
+    "value": "things",
+    "count": 1
+   }
+  ],
+  "small things": [
+   {
+    "probability": 1,
+    "value": "plays",
+    "count": 1
+   }
+  ],
+  "things plays": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "plays, ": [
+   {
+    "probability": 1,
+    "value": "with",
+    "count": 1
+   }
+  ],
+  ", with": [
+   {
+    "probability": 1,
+    "value": "amir",
+    "count": 1
+   }
+  ],
+  "with amir": [
+   {
+    "probability": 1,
+    "value": "lip",
+    "count": 1
+   }
+  ],
+  "amir lip": [
+   {
+    "probability": 1,
+    "value": "syncing",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "all the"
+ ],
+ "endKeys": []
+}

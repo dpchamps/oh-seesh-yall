@@ -1,0 +1,30 @@
+{
+ "identifier": "WIFE",
+ "chains": {
+  "choke him": [
+   {
+    "probability": 1,
+    "value": "to",
+    "count": 1
+   }
+  ],
+  "him to": [
+   {
+    "probability": 1,
+    "value": "death",
+    "count": 1
+   }
+  ],
+  "to death": [
+   {
+    "probability": 1,
+    "value": "honey",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "choke him"
+ ],
+ "endKeys": []
+}

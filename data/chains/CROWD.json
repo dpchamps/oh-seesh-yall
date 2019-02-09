@@ -1,0 +1,23 @@
+{
+ "identifier": "CROWD",
+ "chains": {
+  "where's our": [
+   {
+    "probability": 1,
+    "value": "$50",
+    "count": 1
+   }
+  ],
+  "our $50": [
+   {
+    "probability": 1,
+    "value": "?",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "where's our"
+ ],
+ "endKeys": []
+}

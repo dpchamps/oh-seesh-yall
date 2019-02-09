@@ -1,0 +1,1092 @@
+{
+ "identifier": "GARY",
+ "chains": {
+  "guys, ": [
+   {
+    "probability": 0.5,
+    "value": "what's",
+    "count": 1
+   },
+   {
+    "probability": 0.5,
+    "value": "here's",
+    "count": 1
+   }
+  ],
+  ", what's": [
+   {
+    "probability": 1,
+    "value": "up",
+    "count": 1
+   }
+  ],
+  "what's up": [
+   {
+    "probability": 1,
+    "value": "?",
+    "count": 1
+   }
+  ],
+  "i'm gary": [
+   {
+    "probability": 1,
+    "value": "vay",
+    "count": 1
+   }
+  ],
+  "gary vay": [
+   {
+    "probability": 1,
+    "value": "ner",
+    "count": 1
+   }
+  ],
+  "vay ner": [
+   {
+    "probability": 1,
+    "value": "chuck",
+    "count": 1
+   }
+  ],
+  "ner chuck": [
+   {
+    "probability": 1,
+    "value": "and",
+    "count": 1
+   }
+  ],
+  "chuck and": [
+   {
+    "probability": 1,
+    "value": "ricky",
+    "count": 1
+   }
+  ],
+  "and ricky": [
+   {
+    "probability": 1,
+    "value": "hired",
+    "count": 1
+   }
+  ],
+  "ricky hired": [
+   {
+    "probability": 1,
+    "value": "me",
+    "count": 1
+   }
+  ],
+  "hired me": [
+   {
+    "probability": 1,
+    "value": "to",
+    "count": 1
+   }
+  ],
+  "me to": [
+   {
+    "probability": 1,
+    "value": "help",
+    "count": 1
+   }
+  ],
+  "to help": [
+   {
+    "probability": 1,
+    "value": "you",
+    "count": 1
+   }
+  ],
+  "help you": [
+   {
+    "probability": 1,
+    "value": "guys",
+    "count": 1
+   }
+  ],
+  "you guys": [
+   {
+    "probability": 0.2,
+    "value": "explode",
+    "count": 1
+   },
+   {
+    "probability": 0.2,
+    "value": "on",
+    "count": 1
+   },
+   {
+    "probability": 0.2,
+    "value": "active",
+    "count": 1
+   },
+   {
+    "probability": 0.2,
+    "value": "are",
+    "count": 1
+   },
+   {
+    "probability": 0.2,
+    "value": "go",
+    "count": 1
+   }
+  ],
+  "guys explode": [
+   {
+    "probability": 1,
+    "value": "college",
+    "count": 1
+   }
+  ],
+  "explode college": [
+   {
+    "probability": 1,
+    "value": "humor's",
+    "count": 1
+   }
+  ],
+  "college humor's": [
+   {
+    "probability": 1,
+    "value": "traffic",
+    "count": 1
+   }
+  ],
+  "humor's traffic": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "i said": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "said, ": [
+   {
+    "probability": 1,
+    "value": "i'm",
+    "count": 1
+   }
+  ],
+  ", i'm": [
+   {
+    "probability": 1,
+    "value": "gary",
+    "count": 1
+   }
+  ],
+  "wait wait": [
+   {
+    "probability": 0.5,
+    "value": "wait",
+    "count": 1
+   },
+   {
+    "probability": 0.5,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "wait, ": [
+   {
+    "probability": 1,
+    "value": "okay",
+    "count": 1
+   }
+  ],
+  ", okay": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "are you": [
+   {
+    "probability": 1,
+    "value": "guys",
+    "count": 2
+   }
+  ],
+  "guys on": [
+   {
+    "probability": 1,
+    "value": "facebook",
+    "count": 1
+   }
+  ],
+  "on facebook": [
+   {
+    "probability": 1,
+    "value": "?",
+    "count": 1
+   }
+  ],
+  "guys active": [
+   {
+    "probability": 1,
+    "value": "at",
+    "count": 1
+   }
+  ],
+  "active at": [
+   {
+    "probability": 1,
+    "value": "all",
+    "count": 1
+   }
+  ],
+  "at all": [
+   {
+    "probability": 1,
+    "value": "?",
+    "count": 1
+   }
+  ],
+  "actually, ": [
+   {
+    "probability": 1,
+    "value": "i",
+    "count": 1
+   }
+  ],
+  ", i": [
+   {
+    "probability": 1,
+    "value": "am",
+    "count": 1
+   }
+  ],
+  "i am": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "you know": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "know, ": [
+   {
+    "probability": 1,
+    "value": "a",
+    "count": 1
+   }
+  ],
+  ", a": [
+   {
+    "probability": 0.5,
+    "value": "healthy",
+    "count": 1
+   },
+   {
+    "probability": 0.5,
+    "value": "picnic",
+    "count": 1
+   }
+  ],
+  "a healthy": [
+   {
+    "probability": 1,
+    "value": "lovelife",
+    "count": 1
+   }
+  ],
+  "healthy lovelife": [
+   {
+    "probability": 1,
+    "value": "really",
+    "count": 1
+   }
+  ],
+  "lovelife really": [
+   {
+    "probability": 1,
+    "value": "impacts",
+    "count": 1
+   }
+  ],
+  "really impacts": [
+   {
+    "probability": 1,
+    "value": "the",
+    "count": 1
+   }
+  ],
+  "impacts the": [
+   {
+    "probability": 1,
+    "value": "workplace",
+    "count": 1
+   }
+  ],
+  "the workplace": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "alright guys": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  ", here's": [
+   {
+    "probability": 1,
+    "value": "what",
+    "count": 1
+   }
+  ],
+  "here's what": [
+   {
+    "probability": 1,
+    "value": "we",
+    "count": 1
+   }
+  ],
+  "what we": [
+   {
+    "probability": 1,
+    "value": "need",
+    "count": 1
+   }
+  ],
+  "we need": [
+   {
+    "probability": 1,
+    "value": "to",
+    "count": 1
+   }
+  ],
+  "need to": [
+   {
+    "probability": 0.5,
+    "value": "do",
+    "count": 1
+   },
+   {
+    "probability": 0.5,
+    "value": "hustle",
+    "count": 1
+   }
+  ],
+  "to do": [
+   {
+    "probability": 1,
+    "value": "to",
+    "count": 1
+   }
+  ],
+  "do to": [
+   {
+    "probability": 1,
+    "value": "make",
+    "count": 1
+   }
+  ],
+  "to make": [
+   {
+    "probability": 1,
+    "value": "collegehumor",
+    "count": 1
+   }
+  ],
+  "make collegehumor": [
+   {
+    "probability": 1,
+    "value": "go",
+    "count": 1
+   }
+  ],
+  "collegehumor go": [
+   {
+    "probability": 1,
+    "value": "huge",
+    "count": 1
+   }
+  ],
+  "go huge": [
+   {
+    "probability": 1,
+    "value": "you",
+    "count": 1
+   }
+  ],
+  "huge you": [
+   {
+    "probability": 1,
+    "value": "need",
+    "count": 1
+   }
+  ],
+  "you need": [
+   {
+    "probability": 1,
+    "value": "to",
+    "count": 1
+   }
+  ],
+  "to hustle": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "hustle, ": [
+   {
+    "probability": 1,
+    "value": "crush",
+    "count": 1
+   }
+  ],
+  ", crush": [
+   {
+    "probability": 1,
+    "value": "it",
+    "count": 1
+   }
+  ],
+  "crush it": [
+   {
+    "probability": 0.5,
+    "value": ",",
+    "count": 1
+   },
+   {
+    "probability": 0.5,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "it, ": [
+   {
+    "probability": 1,
+    "value": "and",
+    "count": 1
+   }
+  ],
+  ", and": [
+   {
+    "probability": 1,
+    "value": "go",
+    "count": 1
+   }
+  ],
+  "and go": [
+   {
+    "probability": 1,
+    "value": "big",
+    "count": 1
+   }
+  ],
+  "go big": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "they're not": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "hustle is": [
+   {
+    "probability": 1,
+    "value": "to",
+    "count": 1
+   }
+  ],
+  "is to": [
+   {
+    "probability": 0.5,
+    "value": "crush",
+    "count": 1
+   },
+   {
+    "probability": 0.5,
+    "value": "respect",
+    "count": 1
+   }
+  ],
+  "to crush": [
+   {
+    "probability": 1,
+    "value": "it",
+    "count": 1
+   }
+  ],
+  "no, ": [
+   {
+    "probability": 1,
+    "value": "that",
+    "count": 1
+   }
+  ],
+  ", that": [
+   {
+    "probability": 1,
+    "value": "was",
+    "count": 1
+   }
+  ],
+  "that was": [
+   {
+    "probability": 1,
+    "value": "go",
+    "count": 1
+   }
+  ],
+  "was go": [
+   {
+    "probability": 1,
+    "value": "big",
+    "count": 1
+   }
+  ],
+  "thank you": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "you, ": [
+   {
+    "probability": 1,
+    "value": "comprende",
+    "count": 1
+   }
+  ],
+  ", comprende": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "jake, ": [
+   {
+    "probability": 0.5,
+    "value": "the",
+    "count": 1
+   },
+   {
+    "probability": 0.5,
+    "value": "amir's",
+    "count": 1
+   }
+  ],
+  ", the": [
+   {
+    "probability": 1,
+    "value": "number",
+    "count": 1
+   }
+  ],
+  "the number": [
+   {
+    "probability": 1,
+    "value": "one",
+    "count": 1
+   }
+  ],
+  "number one": [
+   {
+    "probability": 1,
+    "value": "thing",
+    "count": 1
+   }
+  ],
+  "one thing": [
+   {
+    "probability": 1,
+    "value": "is",
+    "count": 1
+   }
+  ],
+  "thing is": [
+   {
+    "probability": 1,
+    "value": "to",
+    "count": 1
+   }
+  ],
+  "to respect": [
+   {
+    "probability": 1,
+    "value": "your",
+    "count": 1
+   }
+  ],
+  "respect your": [
+   {
+    "probability": 1,
+    "value": "co",
+    "count": 1
+   }
+  ],
+  "your co": [
+   {
+    "probability": 1,
+    "value": "worker",
+    "count": 1
+   }
+  ],
+  "co worker": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "it's family": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "guys are": [
+   {
+    "probability": 1,
+    "value": "friends",
+    "count": 1
+   }
+  ],
+  "are friends": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "friends, ": [
+   {
+    "probability": 1,
+    "value": "right",
+    "count": 1
+   }
+  ],
+  ", right": [
+   {
+    "probability": 1,
+    "value": "?",
+    "count": 1
+   }
+  ],
+  "take amir": [
+   {
+    "probability": 1,
+    "value": "to",
+    "count": 1
+   }
+  ],
+  "amir to": [
+   {
+    "probability": 1,
+    "value": "a",
+    "count": 1
+   }
+  ],
+  "to a": [
+   {
+    "probability": 1,
+    "value": "water",
+    "count": 1
+   }
+  ],
+  "a water": [
+   {
+    "probability": 1,
+    "value": "park",
+    "count": 1
+   }
+  ],
+  "water park": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "park, ": [
+   {
+    "probability": 1,
+    "value": "an",
+    "count": 1
+   }
+  ],
+  ", an": [
+   {
+    "probability": 1,
+    "value": "arcade",
+    "count": 1
+   }
+  ],
+  "an arcade": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "arcade, ": [
+   {
+    "probability": 1,
+    "value": "a",
+    "count": 1
+   }
+  ],
+  "a picnic": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "i i": [
+   {
+    "probability": 0.5,
+    "value": "i",
+    "count": 1
+   },
+   {
+    "probability": 0.5,
+    "value": "think",
+    "count": 1
+   }
+  ],
+  "i think": [
+   {
+    "probability": 1,
+    "value": "amir's",
+    "count": 1
+   }
+  ],
+  "think amir's": [
+   {
+    "probability": 1,
+    "value": "cousin",
+    "count": 1
+   }
+  ],
+  "amir's cousin": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "cousin, ": [
+   {
+    "probability": 1,
+    "value": "leron",
+    "count": 1
+   }
+  ],
+  ", leron": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "leron, ": [
+   {
+    "probability": 1,
+    "value": "runs",
+    "count": 1
+   }
+  ],
+  ", runs": [
+   {
+    "probability": 1,
+    "value": "a",
+    "count": 1
+   }
+  ],
+  "runs a": [
+   {
+    "probability": 1,
+    "value": "laser",
+    "count": 1
+   }
+  ],
+  "a laser": [
+   {
+    "probability": 1,
+    "value": "tag",
+    "count": 1
+   }
+  ],
+  "laser tag": [
+   {
+    "probability": 1,
+    "value": "in",
+    "count": 1
+   }
+  ],
+  "tag in": [
+   {
+    "probability": 1,
+    "value": "queens",
+    "count": 1
+   }
+  ],
+  "in queens": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "why don't": [
+   {
+    "probability": 1,
+    "value": "you",
+    "count": 1
+   }
+  ],
+  "don't you": [
+   {
+    "probability": 1,
+    "value": "guys",
+    "count": 1
+   }
+  ],
+  "guys go": [
+   {
+    "probability": 1,
+    "value": "up",
+    "count": 1
+   }
+  ],
+  "go up": [
+   {
+    "probability": 1,
+    "value": "there",
+    "count": 1
+   }
+  ],
+  "up there": [
+   {
+    "probability": 1,
+    "value": "and",
+    "count": 1
+   }
+  ],
+  "there and": [
+   {
+    "probability": 1,
+    "value": "laser",
+    "count": 1
+   }
+  ],
+  "and laser": [
+   {
+    "probability": 1,
+    "value": "it",
+    "count": 1
+   }
+  ],
+  "laser it": [
+   {
+    "probability": 1,
+    "value": "up",
+    "count": 1
+   }
+  ],
+  "it up": [
+   {
+    "probability": 1,
+    "value": "?",
+    "count": 1
+   }
+  ],
+  ", amir's": [
+   {
+    "probability": 1,
+    "value": "right",
+    "count": 1
+   }
+  ],
+  "amir's right": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "don't worry": [
+   {
+    "probability": 1,
+    "value": "about",
+    "count": 1
+   }
+  ],
+  "worry about": [
+   {
+    "probability": 1,
+    "value": "the",
+    "count": 1
+   }
+  ],
+  "about the": [
+   {
+    "probability": 1,
+    "value": "traffic",
+    "count": 1
+   }
+  ],
+  "the traffic": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "become best": [
+   {
+    "probability": 1,
+    "value": "friends",
+    "count": 1
+   }
+  ],
+  "best friends": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "and it": [
+   {
+    "probability": 1,
+    "value": "will",
+    "count": 1
+   }
+  ],
+  "it will": [
+   {
+    "probability": 1,
+    "value": "all",
+    "count": 1
+   }
+  ],
+  "will all": [
+   {
+    "probability": 1,
+    "value": "work",
+    "count": 1
+   }
+  ],
+  "all work": [
+   {
+    "probability": 1,
+    "value": "itself",
+    "count": 1
+   }
+  ],
+  "work itself": [
+   {
+    "probability": 1,
+    "value": "out",
+    "count": 1
+   }
+  ],
+  "itself out": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "or not": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "dude, ": [
+   {
+    "probability": 1,
+    "value": "now",
+    "count": 1
+   }
+  ],
+  ", now": [
+   {
+    "probability": 1,
+    "value": "you're",
+    "count": 1
+   }
+  ],
+  "now you're": [
+   {
+    "probability": 1,
+    "value": "getting",
+    "count": 1
+   }
+  ],
+  "you're getting": [
+   {
+    "probability": 1,
+    "value": "it",
+    "count": 1
+   }
+  ],
+  "getting it": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "guys, ",
+  "i'm gary",
+  "i said",
+  "wait wait",
+  "are you",
+  "actually, ",
+  "you know",
+  "alright guys",
+  "they're not",
+  "hustle is",
+  "no, ",
+  "thank you",
+  "jake, ",
+  "it's family",
+  "you guys",
+  "take amir",
+  "i i",
+  "why don't",
+  "don't worry",
+  "become best",
+  "and it",
+  "or not",
+  "dude, "
+ ],
+ "endKeys": []
+}

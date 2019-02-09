@@ -1,0 +1,258 @@
+{
+ "identifier": "NUNES",
+ "chains": {
+  "that was": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "9 minutes": [
+   {
+    "probability": 1,
+    "value": "long",
+    "count": 1
+   }
+  ],
+  "minutes long": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "are you": [
+   {
+    "probability": 1,
+    "value": "crying",
+    "count": 1
+   }
+  ],
+  "you crying": [
+   {
+    "probability": 1,
+    "value": "?",
+    "count": 1
+   }
+  ],
+  "amir said": [
+   {
+    "probability": 1,
+    "value": "that",
+    "count": 1
+   }
+  ],
+  "said that": [
+   {
+    "probability": 1,
+    "value": "if",
+    "count": 1
+   }
+  ],
+  "that if": [
+   {
+    "probability": 1,
+    "value": "we",
+    "count": 1
+   }
+  ],
+  "if we": [
+   {
+    "probability": 1,
+    "value": "recorded",
+    "count": 1
+   }
+  ],
+  "we recorded": [
+   {
+    "probability": 1,
+    "value": "some",
+    "count": 1
+   }
+  ],
+  "recorded some": [
+   {
+    "probability": 1,
+    "value": "tracks",
+    "count": 1
+   }
+  ],
+  "some tracks": [
+   {
+    "probability": 1,
+    "value": "for",
+    "count": 1
+   }
+  ],
+  "tracks for": [
+   {
+    "probability": 1,
+    "value": "him",
+    "count": 1
+   }
+  ],
+  "for him": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "him, ": [
+   {
+    "probability": 1,
+    "value": "he'd",
+    "count": 1
+   }
+  ],
+  ", he'd": [
+   {
+    "probability": 1,
+    "value": "put",
+    "count": 1
+   }
+  ],
+  "he'd put": [
+   {
+    "probability": 1,
+    "value": "me",
+    "count": 1
+   }
+  ],
+  "put me": [
+   {
+    "probability": 1,
+    "value": "in",
+    "count": 1
+   }
+  ],
+  "me in": [
+   {
+    "probability": 1,
+    "value": "touch",
+    "count": 1
+   }
+  ],
+  "in touch": [
+   {
+    "probability": 1,
+    "value": "with",
+    "count": 1
+   }
+  ],
+  "touch with": [
+   {
+    "probability": 1,
+    "value": "his",
+    "count": 1
+   }
+  ],
+  "with his": [
+   {
+    "probability": 1,
+    "value": "cousin",
+    "count": 1
+   }
+  ],
+  "his cousin": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "cousin, ": [
+   {
+    "probability": 1,
+    "value": "leron",
+    "count": 1
+   }
+  ],
+  ", leron": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "leron, ": [
+   {
+    "probability": 1,
+    "value": "who",
+    "count": 1
+   }
+  ],
+  ", who": [
+   {
+    "probability": 1,
+    "value": "owns",
+    "count": 1
+   }
+  ],
+  "who owns": [
+   {
+    "probability": 1,
+    "value": "a",
+    "count": 1
+   }
+  ],
+  "owns a": [
+   {
+    "probability": 1,
+    "value": "record",
+    "count": 1
+   }
+  ],
+  "a record": [
+   {
+    "probability": 1,
+    "value": "label",
+    "count": 1
+   }
+  ],
+  "record label": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "label, ": [
+   {
+    "probability": 1,
+    "value": "right",
+    "count": 1
+   }
+  ],
+  ", right": [
+   {
+    "probability": 1,
+    "value": "?",
+    "count": 1
+   }
+  ],
+  "it's a": [
+   {
+    "probability": 1,
+    "value": "ukelele",
+    "count": 1
+   }
+  ],
+  "a ukelele": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "that was",
+  "9 minutes",
+  "are you",
+  "amir said",
+  "it's a"
+ ],
+ "endKeys": []
+}

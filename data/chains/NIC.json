@@ -1,0 +1,51 @@
+{
+ "identifier": "NIC",
+ "chains": {
+  "uh, ": [
+   {
+    "probability": 1,
+    "value": "we're",
+    "count": 1
+   }
+  ],
+  ", we're": [
+   {
+    "probability": 1,
+    "value": "called",
+    "count": 1
+   }
+  ],
+  "we're called": [
+   {
+    "probability": 1,
+    "value": "the",
+    "count": 1
+   }
+  ],
+  "called the": [
+   {
+    "probability": 1,
+    "value": "takeover",
+    "count": 1
+   }
+  ],
+  "the takeover": [
+   {
+    "probability": 1,
+    "value": "uk",
+    "count": 1
+   }
+  ],
+  "takeover uk": [
+   {
+    "probability": 1,
+    "value": "?",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "uh, "
+ ],
+ "endKeys": []
+}

@@ -1,0 +1,268 @@
+{
+ "identifier": "SAID",
+ "chains": {
+  "i'm sure": [
+   {
+    "probability": 1,
+    "value": "my",
+    "count": 1
+   }
+  ],
+  "sure my": [
+   {
+    "probability": 1,
+    "value": "dad",
+    "count": 1
+   }
+  ],
+  "my dad": [
+   {
+    "probability": 1,
+    "value": "would",
+    "count": 1
+   }
+  ],
+  "dad would": [
+   {
+    "probability": 1,
+    "value": "be",
+    "count": 1
+   }
+  ],
+  "would be": [
+   {
+    "probability": 1,
+    "value": "disappointed",
+    "count": 1
+   }
+  ],
+  "be disappointed": [
+   {
+    "probability": 1,
+    "value": "to",
+    "count": 1
+   }
+  ],
+  "disappointed to": [
+   {
+    "probability": 1,
+    "value": "see",
+    "count": 1
+   }
+  ],
+  "to see": [
+   {
+    "probability": 1,
+    "value": "me",
+    "count": 1
+   }
+  ],
+  "see me": [
+   {
+    "probability": 1,
+    "value": "grovelling",
+    "count": 1
+   }
+  ],
+  "me grovelling": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "grovelling, ": [
+   {
+    "probability": 1,
+    "value": "but",
+    "count": 1
+   }
+  ],
+  ", but": [
+   {
+    "probability": 1,
+    "value": "the",
+    "count": 1
+   }
+  ],
+  "but the": [
+   {
+    "probability": 1,
+    "value": "look",
+    "count": 1
+   }
+  ],
+  "the look": [
+   {
+    "probability": 1,
+    "value": "in",
+    "count": 1
+   }
+  ],
+  "look in": [
+   {
+    "probability": 1,
+    "value": "his",
+    "count": 1
+   }
+  ],
+  "in his": [
+   {
+    "probability": 1,
+    "value": "eyes",
+    "count": 1
+   }
+  ],
+  "his eyes": [
+   {
+    "probability": 1,
+    "value": "when",
+    "count": 1
+   }
+  ],
+  "eyes when": [
+   {
+    "probability": 1,
+    "value": "i",
+    "count": 1
+   }
+  ],
+  "when i": [
+   {
+    "probability": 1,
+    "value": "show",
+    "count": 1
+   }
+  ],
+  "i show": [
+   {
+    "probability": 1,
+    "value": "him",
+    "count": 1
+   }
+  ],
+  "show him": [
+   {
+    "probability": 1,
+    "value": "i'm",
+    "count": 1
+   }
+  ],
+  "him i'm": [
+   {
+    "probability": 1,
+    "value": "the",
+    "count": 1
+   }
+  ],
+  "i'm the": [
+   {
+    "probability": 1,
+    "value": "certified",
+    "count": 1
+   }
+  ],
+  "the certified": [
+   {
+    "probability": 1,
+    "value": "owned",
+    "count": 1
+   }
+  ],
+  "certified owned": [
+   {
+    "probability": 1,
+    "value": "of",
+    "count": 1
+   }
+  ],
+  "owned of": [
+   {
+    "probability": 1,
+    "value": "a",
+    "count": 1
+   }
+  ],
+  "of a": [
+   {
+    "probability": 1,
+    "value": "cock",
+    "count": 1
+   }
+  ],
+  "a cock": [
+   {
+    "probability": 1,
+    "value": "future",
+    "count": 1
+   }
+  ],
+  "cock future": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "future, ": [
+   {
+    "probability": 1,
+    "value": "would",
+    "count": 1
+   }
+  ],
+  ", would": [
+   {
+    "probability": 1,
+    "value": "surely",
+    "count": 1
+   }
+  ],
+  "would surely": [
+   {
+    "probability": 1,
+    "value": "erase",
+    "count": 1
+   }
+  ],
+  "surely erase": [
+   {
+    "probability": 1,
+    "value": "28",
+    "count": 1
+   }
+  ],
+  "erase 28": [
+   {
+    "probability": 1,
+    "value": "years",
+    "count": 1
+   }
+  ],
+  "28 years": [
+   {
+    "probability": 1,
+    "value": "of",
+    "count": 1
+   }
+  ],
+  "years of": [
+   {
+    "probability": 1,
+    "value": "disapproval",
+    "count": 1
+   }
+  ],
+  "of disapproval": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "i'm sure"
+ ],
+ "endKeys": []
+}

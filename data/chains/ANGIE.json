@@ -1,0 +1,262 @@
+{
+ "identifier": "ANGIE",
+ "chains": {
+  "so what's": [
+   {
+    "probability": 0.5,
+    "value": "your",
+    "count": 1
+   },
+   {
+    "probability": 0.5,
+    "value": "the",
+    "count": 1
+   }
+  ],
+  "what's your": [
+   {
+    "probability": 1,
+    "value": "movie",
+    "count": 1
+   }
+  ],
+  "your movie": [
+   {
+    "probability": 1,
+    "value": "about",
+    "count": 1
+   }
+  ],
+  "movie about": [
+   {
+    "probability": 1,
+    "value": "?",
+    "count": 1
+   }
+  ],
+  "oh, ": [
+   {
+    "probability": 1,
+    "value": "you",
+    "count": 1
+   }
+  ],
+  ", you": [
+   {
+    "probability": 1,
+    "value": "have",
+    "count": 1
+   }
+  ],
+  "you have": [
+   {
+    "probability": 1,
+    "value": "a",
+    "count": 1
+   }
+  ],
+  "have a": [
+   {
+    "probability": 1,
+    "value": "seed",
+    "count": 1
+   }
+  ],
+  "a seed": [
+   {
+    "probability": 1,
+    "value": "in",
+    "count": 1
+   }
+  ],
+  "seed in": [
+   {
+    "probability": 1,
+    "value": "your",
+    "count": 1
+   }
+  ],
+  "in your": [
+   {
+    "probability": 1,
+    "value": "teeth",
+    "count": 1
+   }
+  ],
+  "your teeth": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "so just": [
+   {
+    "probability": 1,
+    "value": "lox",
+    "count": 1
+   }
+  ],
+  "just lox": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "so it's": [
+   {
+    "probability": 1,
+    "value": "not",
+    "count": 1
+   }
+  ],
+  "it's not": [
+   {
+    "probability": 1,
+    "value": "a",
+    "count": 1
+   }
+  ],
+  "not a": [
+   {
+    "probability": 1,
+    "value": "movie",
+    "count": 1
+   }
+  ],
+  "a movie": [
+   {
+    "probability": 1,
+    "value": "?",
+    "count": 1
+   }
+  ],
+  "what's the": [
+   {
+    "probability": 1,
+    "value": "tv",
+    "count": 1
+   }
+  ],
+  "the tv": [
+   {
+    "probability": 1,
+    "value": "show",
+    "count": 1
+   }
+  ],
+  "tv show": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "show, ": [
+   {
+    "probability": 1,
+    "value": "then",
+    "count": 1
+   }
+  ],
+  ", then": [
+   {
+    "probability": 1,
+    "value": "?",
+    "count": 1
+   }
+  ],
+  "i thought": [
+   {
+    "probability": 1,
+    "value": "you",
+    "count": 1
+   }
+  ],
+  "thought you": [
+   {
+    "probability": 1,
+    "value": "said",
+    "count": 1
+   }
+  ],
+  "you said": [
+   {
+    "probability": 1,
+    "value": "this",
+    "count": 1
+   }
+  ],
+  "said this": [
+   {
+    "probability": 1,
+    "value": "was",
+    "count": 1
+   }
+  ],
+  "this was": [
+   {
+    "probability": 1,
+    "value": "a",
+    "count": 1
+   }
+  ],
+  "was a": [
+   {
+    "probability": 1,
+    "value": "premiere",
+    "count": 1
+   }
+  ],
+  "a premiere": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "i'm so": [
+   {
+    "probability": 1,
+    "value": "sorry",
+    "count": 2
+   }
+  ],
+  "so sorry": [
+   {
+    "probability": 0.5,
+    "value": ",",
+    "count": 1
+   },
+   {
+    "probability": 0.5,
+    "value": "!",
+    "count": 1
+   }
+  ],
+  "sorry, ": [
+   {
+    "probability": 1,
+    "value": "i'm",
+    "count": 1
+   }
+  ],
+  ", i'm": [
+   {
+    "probability": 1,
+    "value": "so",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "so what's",
+  "oh, ",
+  "so just",
+  "so it's",
+  "i thought",
+  "i'm so"
+ ],
+ "endKeys": []
+}

@@ -1,0 +1,59 @@
+{
+ "identifier": "I",
+ "chains": {
+  "i can't": [
+   {
+    "probability": 1,
+    "value": "feel",
+    "count": 1
+   }
+  ],
+  "can't feel": [
+   {
+    "probability": 1,
+    "value": "my",
+    "count": 1
+   }
+  ],
+  "feel my": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "just get": [
+   {
+    "probability": 1,
+    "value": "away",
+    "count": 1
+   }
+  ],
+  "get away": [
+   {
+    "probability": 1,
+    "value": "from",
+    "count": 1
+   }
+  ],
+  "away from": [
+   {
+    "probability": 1,
+    "value": "me",
+    "count": 1
+   }
+  ],
+  "from me": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "i can't",
+  "just get"
+ ],
+ "endKeys": []
+}

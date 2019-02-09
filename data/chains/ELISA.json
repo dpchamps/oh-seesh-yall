@@ -1,0 +1,278 @@
+{
+ "identifier": "ELISA",
+ "chains": {
+  "drop him": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "what did": [
+   {
+    "probability": 1,
+    "value": "you",
+    "count": 1
+   }
+  ],
+  "did you": [
+   {
+    "probability": 1,
+    "value": "say",
+    "count": 1
+   }
+  ],
+  "you say": [
+   {
+    "probability": 1,
+    "value": "about",
+    "count": 1
+   }
+  ],
+  "say about": [
+   {
+    "probability": 1,
+    "value": "eggs",
+    "count": 1
+   }
+  ],
+  "about eggs": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "eggs, ": [
+   {
+    "probability": 1,
+    "value": "motherfucker",
+    "count": 1
+   }
+  ],
+  ", motherfucker": [
+   {
+    "probability": 1,
+    "value": "?",
+    "count": 1
+   }
+  ],
+  "say it": [
+   {
+    "probability": 0.5,
+    "value": ".",
+    "count": 1
+   },
+   {
+    "probability": 0.5,
+    "value": "to",
+    "count": 1
+   }
+  ],
+  "it to": [
+   {
+    "probability": 1,
+    "value": "our",
+    "count": 1
+   }
+  ],
+  "to our": [
+   {
+    "probability": 1,
+    "value": "face",
+    "count": 1
+   }
+  ],
+  "our face": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "like an": [
+   {
+    "probability": 1,
+    "value": "arnold",
+    "count": 1
+   }
+  ],
+  "an arnold": [
+   {
+    "probability": 1,
+    "value": "palmer",
+    "count": 1
+   }
+  ],
+  "arnold palmer": [
+   {
+    "probability": 0.5,
+    "value": "isn't",
+    "count": 1
+   },
+   {
+    "probability": 0.5,
+    "value": "!",
+    "count": 1
+   }
+  ],
+  "palmer isn't": [
+   {
+    "probability": 1,
+    "value": "made",
+    "count": 1
+   }
+  ],
+  "isn't made": [
+   {
+    "probability": 1,
+    "value": "of",
+    "count": 1
+   }
+  ],
+  "made of": [
+   {
+    "probability": 1,
+    "value": "arnold",
+    "count": 1
+   }
+  ],
+  "of arnold": [
+   {
+    "probability": 1,
+    "value": "palmer",
+    "count": 1
+   }
+  ],
+  "he's a": [
+   {
+    "probability": 1,
+    "value": "golfer",
+    "count": 1
+   }
+  ],
+  "a golfer": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "golfer, ": [
+   {
+    "probability": 1,
+    "value": "not",
+    "count": 1
+   }
+  ],
+  ", not": [
+   {
+    "probability": 1,
+    "value": "a",
+    "count": 1
+   }
+  ],
+  "not a": [
+   {
+    "probability": 1,
+    "value": "drink",
+    "count": 1
+   }
+  ],
+  "a drink": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "i learned": [
+   {
+    "probability": 1,
+    "value": "that",
+    "count": 1
+   }
+  ],
+  "learned that": [
+   {
+    "probability": 1,
+    "value": "the",
+    "count": 1
+   }
+  ],
+  "that the": [
+   {
+    "probability": 1,
+    "value": "hard",
+    "count": 1
+   }
+  ],
+  "the hard": [
+   {
+    "probability": 1,
+    "value": "way",
+    "count": 1
+   }
+  ],
+  "hard way": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "way, ": [
+   {
+    "probability": 1,
+    "value": "remember",
+    "count": 1
+   }
+  ],
+  ", remember": [
+   {
+    "probability": 1,
+    "value": "?",
+    "count": 1
+   }
+  ],
+  "come on": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "on, ": [
+   {
+    "probability": 1,
+    "value": "baby",
+    "count": 1
+   }
+  ],
+  ", baby": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "go, ": [
+   {
+    "probability": 1,
+    "value": "go",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "drop him",
+  "what did",
+  "say it",
+  "like an",
+  "he's a",
+  "i learned",
+  "come on",
+  "go, "
+ ],
+ "endKeys": []
+}

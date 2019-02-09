@@ -1,0 +1,355 @@
+{
+ "identifier": "JESSICA",
+ "chains": {
+  "are you": [
+   {
+    "probability": 1,
+    "value": "okay",
+    "count": 1
+   }
+  ],
+  "you okay": [
+   {
+    "probability": 1,
+    "value": "?",
+    "count": 1
+   }
+  ],
+  "it was": [
+   {
+    "probability": 1,
+    "value": "fine",
+    "count": 1
+   }
+  ],
+  "was fine": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "well, ": [
+   {
+    "probability": 1,
+    "value": "i",
+    "count": 1
+   }
+  ],
+  ", i": [
+   {
+    "probability": 1,
+    "value": "kinda",
+    "count": 1
+   }
+  ],
+  "i kinda": [
+   {
+    "probability": 1,
+    "value": "get",
+    "count": 1
+   }
+  ],
+  "kinda get": [
+   {
+    "probability": 1,
+    "value": "the",
+    "count": 1
+   }
+  ],
+  "get the": [
+   {
+    "probability": 1,
+    "value": "sense",
+    "count": 1
+   }
+  ],
+  "the sense": [
+   {
+    "probability": 1,
+    "value": "that",
+    "count": 2
+   }
+  ],
+  "sense that": [
+   {
+    "probability": 0.5,
+    "value": "you",
+    "count": 1
+   },
+   {
+    "probability": 0.5,
+    "value": "he",
+    "count": 1
+   }
+  ],
+  "that you": [
+   {
+    "probability": 1,
+    "value": "make",
+    "count": 1
+   }
+  ],
+  "you make": [
+   {
+    "probability": 1,
+    "value": "those",
+    "count": 1
+   }
+  ],
+  "make those": [
+   {
+    "probability": 1,
+    "value": "jokes",
+    "count": 1
+   }
+  ],
+  "those jokes": [
+   {
+    "probability": 1,
+    "value": "a",
+    "count": 1
+   }
+  ],
+  "jokes a": [
+   {
+    "probability": 1,
+    "value": "lot",
+    "count": 1
+   }
+  ],
+  "a lot": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "well maybe": [
+   {
+    "probability": 1,
+    "value": "he",
+    "count": 1
+   }
+  ],
+  "maybe he": [
+   {
+    "probability": 1,
+    "value": "was",
+    "count": 1
+   }
+  ],
+  "he was": [
+   {
+    "probability": 1,
+    "value": "just",
+    "count": 1
+   }
+  ],
+  "was just": [
+   {
+    "probability": 1,
+    "value": "fed",
+    "count": 1
+   }
+  ],
+  "just fed": [
+   {
+    "probability": 1,
+    "value": "up",
+    "count": 1
+   }
+  ],
+  "fed up": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "up, ": [
+   {
+    "probability": 1,
+    "value": "and",
+    "count": 1
+   }
+  ],
+  ", and": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "didn't want": [
+   {
+    "probability": 1,
+    "value": "to",
+    "count": 2
+   }
+  ],
+  "want to": [
+   {
+    "probability": 1,
+    "value": "be",
+    "count": 2
+   }
+  ],
+  "to be": [
+   {
+    "probability": 1,
+    "value": "here",
+    "count": 2
+   }
+  ],
+  "be here": [
+   {
+    "probability": 0.5,
+    "value": "anymore",
+    "count": 1
+   },
+   {
+    "probability": 0.5,
+    "value": "to",
+    "count": 1
+   }
+  ],
+  "here anymore": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "well i": [
+   {
+    "probability": 1,
+    "value": "also",
+    "count": 1
+   }
+  ],
+  "i also": [
+   {
+    "probability": 1,
+    "value": "got",
+    "count": 1
+   }
+  ],
+  "also got": [
+   {
+    "probability": 1,
+    "value": "the",
+    "count": 1
+   }
+  ],
+  "got the": [
+   {
+    "probability": 1,
+    "value": "sense",
+    "count": 1
+   }
+  ],
+  "that he": [
+   {
+    "probability": 1,
+    "value": "didn't",
+    "count": 1
+   }
+  ],
+  "he didn't": [
+   {
+    "probability": 1,
+    "value": "want",
+    "count": 1
+   }
+  ],
+  "here to": [
+   {
+    "probability": 1,
+    "value": "begin",
+    "count": 1
+   }
+  ],
+  "to begin": [
+   {
+    "probability": 1,
+    "value": "with",
+    "count": 1
+   }
+  ],
+  "begin with": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "with, ": [
+   {
+    "probability": 1,
+    "value": "so",
+    "count": 1
+   }
+  ],
+  ", so": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "it's fine": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "fine, ": [
+   {
+    "probability": 1,
+    "value": "chloe",
+    "count": 1
+   }
+  ],
+  ", chloe": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "it's gonna": [
+   {
+    "probability": 1,
+    "value": "be",
+    "count": 1
+   }
+  ],
+  "gonna be": [
+   {
+    "probability": 1,
+    "value": "fine",
+    "count": 1
+   }
+  ],
+  "be fine": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "are you",
+  "it was",
+  "well, ",
+  "well maybe",
+  "didn't want",
+  "well i",
+  "it's fine",
+  "it's gonna"
+ ],
+ "endKeys": []
+}

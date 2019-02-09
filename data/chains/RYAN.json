@@ -1,0 +1,16 @@
+{
+ "identifier": "RYAN",
+ "chains": {
+  "oh wow": [
+   {
+    "probability": 1,
+    "value": "!",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "oh wow"
+ ],
+ "endKeys": []
+}

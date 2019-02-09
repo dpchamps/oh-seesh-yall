@@ -1,0 +1,67 @@
+{
+ "identifier": "LYDIA",
+ "chains": {
+  "uh, ": [
+   {
+    "probability": 1,
+    "value": "my",
+    "count": 1
+   }
+  ],
+  ", my": [
+   {
+    "probability": 1,
+    "value": "name's",
+    "count": 1
+   }
+  ],
+  "my name's": [
+   {
+    "probability": 1,
+    "value": "lydia",
+    "count": 1
+   }
+  ],
+  "name's lydia": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "what did": [
+   {
+    "probability": 1,
+    "value": "you",
+    "count": 1
+   }
+  ],
+  "did you": [
+   {
+    "probability": 1,
+    "value": "say",
+    "count": 1
+   }
+  ],
+  "you say": [
+   {
+    "probability": 1,
+    "value": "?",
+    "count": 1
+   }
+  ],
+  "you promised": [
+   {
+    "probability": 1,
+    "value": "!",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "uh, ",
+  "what did",
+  "you promised"
+ ],
+ "endKeys": []
+}

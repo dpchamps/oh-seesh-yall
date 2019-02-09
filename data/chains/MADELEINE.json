@@ -1,0 +1,175 @@
+{
+ "identifier": "MADELEINE",
+ "chains": {
+  "i already": [
+   {
+    "probability": 1,
+    "value": "had",
+    "count": 1
+   }
+  ],
+  "already had": [
+   {
+    "probability": 1,
+    "value": "my",
+    "count": 1
+   }
+  ],
+  "had my": [
+   {
+    "probability": 1,
+    "value": "period",
+    "count": 1
+   }
+  ],
+  "my period": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "i got": [
+   {
+    "probability": 1,
+    "value": "it",
+    "count": 1
+   }
+  ],
+  "got it": [
+   {
+    "probability": 1,
+    "value": "when",
+    "count": 1
+   }
+  ],
+  "it when": [
+   {
+    "probability": 1,
+    "value": "i",
+    "count": 1
+   }
+  ],
+  "when i": [
+   {
+    "probability": 1,
+    "value": "was",
+    "count": 1
+   }
+  ],
+  "i was": [
+   {
+    "probability": 1,
+    "value": "twelve",
+    "count": 1
+   }
+  ],
+  "was twelve": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "it's not": [
+   {
+    "probability": 0.5,
+    "value": "a",
+    "count": 1
+   },
+   {
+    "probability": 0.5,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "not a": [
+   {
+    "probability": 1,
+    "value": "big",
+    "count": 1
+   }
+  ],
+  "a big": [
+   {
+    "probability": 1,
+    "value": "deal",
+    "count": 1
+   }
+  ],
+  "big deal": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "no it's": [
+   {
+    "probability": 1,
+    "value": "not",
+    "count": 1
+   }
+  ],
+  "my mom": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "you're a": [
+   {
+    "probability": 1,
+    "value": "loser",
+    "count": 1
+   }
+  ],
+  "a loser": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "you're dumb": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "i knew": [
+   {
+    "probability": 1,
+    "value": "that",
+    "count": 1
+   }
+  ],
+  "knew that": [
+   {
+    "probability": 1,
+    "value": "already",
+    "count": 1
+   }
+  ],
+  "that already": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "i already",
+  "i got",
+  "it's not",
+  "no it's",
+  "my mom",
+  "you're a",
+  "you're dumb",
+  "i knew"
+ ],
+ "endKeys": []
+}

@@ -1,0 +1,38 @@
+{
+ "identifier": "917",
+ "chains": {
+  "446 9701": [
+   {
+    "probability": 1,
+    "value": "call",
+    "count": 1
+   }
+  ],
+  "9701 call": [
+   {
+    "probability": 1,
+    "value": "now",
+    "count": 1
+   }
+  ],
+  "call now": [
+   {
+    "probability": 1,
+    "value": "!",
+    "count": 1
+   }
+  ],
+  "flashes repeatedly": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "446 9701",
+  "flashes repeatedly"
+ ],
+ "endKeys": []
+}

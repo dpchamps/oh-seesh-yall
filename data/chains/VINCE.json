@@ -1,0 +1,362 @@
+{
+ "identifier": "VINCE",
+ "chains": {
+  "no, ": [
+   {
+    "probability": 1,
+    "value": "his",
+    "count": 1
+   }
+  ],
+  ", his": [
+   {
+    "probability": 1,
+    "value": "feet",
+    "count": 1
+   }
+  ],
+  "his feet": [
+   {
+    "probability": 1,
+    "value": "weren't",
+    "count": 1
+   }
+  ],
+  "feet weren't": [
+   {
+    "probability": 1,
+    "value": "down",
+    "count": 1
+   }
+  ],
+  "weren't down": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "cuz you": [
+   {
+    "probability": 1,
+    "value": "stabbed",
+    "count": 1
+   }
+  ],
+  "you stabbed": [
+   {
+    "probability": 1,
+    "value": "her",
+    "count": 1
+   }
+  ],
+  "stabbed her": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "totally jake": [
+   {
+    "probability": 1,
+    "value": "yeah",
+    "count": 1
+   }
+  ],
+  "wait, ": [
+   {
+    "probability": 0.6666666666666666,
+    "value": "wait",
+    "count": 2
+   },
+   {
+    "probability": 0.3333333333333333,
+    "value": "weren't",
+    "count": 1
+   }
+  ],
+  ", wait": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 2
+   }
+  ],
+  ", weren't": [
+   {
+    "probability": 1,
+    "value": "you",
+    "count": 1
+   }
+  ],
+  "weren't you": [
+   {
+    "probability": 1,
+    "value": "in",
+    "count": 1
+   }
+  ],
+  "you in": [
+   {
+    "probability": 1,
+    "value": "ap",
+    "count": 1
+   }
+  ],
+  "in ap": [
+   {
+    "probability": 1,
+    "value": "bio",
+    "count": 1
+   }
+  ],
+  "ap bio": [
+   {
+    "probability": 1,
+    "value": "?",
+    "count": 1
+   }
+  ],
+  "h hey": [
+   {
+    "probability": 1,
+    "value": "hey",
+    "count": 1
+   }
+  ],
+  "hey hey": [
+   {
+    "probability": 0.5,
+    "value": "hey",
+    "count": 1
+   },
+   {
+    "probability": 0.5,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "hey, ": [
+   {
+    "probability": 1,
+    "value": "look",
+    "count": 1
+   }
+  ],
+  ", look": [
+   {
+    "probability": 1,
+    "value": "they",
+    "count": 1
+   }
+  ],
+  "look they": [
+   {
+    "probability": 1,
+    "value": "they're",
+    "count": 1
+   }
+  ],
+  "they they're": [
+   {
+    "probability": 1,
+    "value": "going",
+    "count": 1
+   }
+  ],
+  "they're going": [
+   {
+    "probability": 1,
+    "value": "for",
+    "count": 1
+   }
+  ],
+  "going for": [
+   {
+    "probability": 1,
+    "value": "it",
+    "count": 1
+   }
+  ],
+  "for it": [
+   {
+    "probability": 1,
+    "value": "on",
+    "count": 1
+   }
+  ],
+  "it on": [
+   {
+    "probability": 1,
+    "value": "the",
+    "count": 1
+   }
+  ],
+  "on the": [
+   {
+    "probability": 1,
+    "value": "4th",
+    "count": 1
+   }
+  ],
+  "the 4th": [
+   {
+    "probability": 1,
+    "value": "down",
+    "count": 1
+   }
+  ],
+  "4th down": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "yeah, ": [
+   {
+    "probability": 1,
+    "value": "sure",
+    "count": 1
+   }
+  ],
+  ", sure": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "i said": [
+   {
+    "probability": 1,
+    "value": "yes",
+    "count": 1
+   }
+  ],
+  "said yes": [
+   {
+    "probability": 1,
+    "value": "cuz",
+    "count": 1
+   }
+  ],
+  "yes cuz": [
+   {
+    "probability": 1,
+    "value": "i",
+    "count": 1
+   }
+  ],
+  "cuz i": [
+   {
+    "probability": 1,
+    "value": "i",
+    "count": 1
+   }
+  ],
+  "i i": [
+   {
+    "probability": 1,
+    "value": "thought",
+    "count": 1
+   }
+  ],
+  "i thought": [
+   {
+    "probability": 1,
+    "value": "you",
+    "count": 1
+   }
+  ],
+  "thought you": [
+   {
+    "probability": 1,
+    "value": "were",
+    "count": 1
+   }
+  ],
+  "you were": [
+   {
+    "probability": 1,
+    "value": "gonna",
+    "count": 1
+   }
+  ],
+  "were gonna": [
+   {
+    "probability": 1,
+    "value": "be",
+    "count": 1
+   }
+  ],
+  "gonna be": [
+   {
+    "probability": 1,
+    "value": "making",
+    "count": 1
+   }
+  ],
+  "be making": [
+   {
+    "probability": 1,
+    "value": "it",
+    "count": 1
+   }
+  ],
+  "you don't": [
+   {
+    "probability": 1,
+    "value": "understand",
+    "count": 1
+   }
+  ],
+  "don't understand": [
+   {
+    "probability": 1,
+    "value": "the",
+    "count": 1
+   }
+  ],
+  "understand the": [
+   {
+    "probability": 1,
+    "value": "way",
+    "count": 1
+   }
+  ],
+  "the way": [
+   {
+    "probability": 1,
+    "value": "things",
+    "count": 1
+   }
+  ],
+  "way things": [
+   {
+    "probability": 1,
+    "value": "work",
+    "count": 1
+   }
+  ],
+  "things work": [
+   {
+    "probability": 1,
+    "value": "!",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "no, ",
+  "cuz you",
+  "totally jake",
+  "wait, ",
+  "h hey",
+  "yeah, ",
+  "i said",
+  "you don't"
+ ],
+ "endKeys": []
+}

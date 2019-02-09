@@ -1,0 +1,398 @@
+{
+ "identifier": "LERON",
+ "chains": {
+  "what up": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "up, ": [
+   {
+    "probability": 1,
+    "value": "guys",
+    "count": 1
+   }
+  ],
+  ", guys": [
+   {
+    "probability": 1,
+    "value": "?",
+    "count": 1
+   }
+  ],
+  "yeah, ": [
+   {
+    "probability": 1,
+    "value": "we",
+    "count": 1
+   }
+  ],
+  ", we": [
+   {
+    "probability": 1,
+    "value": "just",
+    "count": 1
+   }
+  ],
+  "we just": [
+   {
+    "probability": 1,
+    "value": "ate",
+    "count": 1
+   }
+  ],
+  "just ate": [
+   {
+    "probability": 1,
+    "value": "fishsticks",
+    "count": 1
+   }
+  ],
+  "ate fishsticks": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "just do": [
+   {
+    "probability": 1,
+    "value": "it",
+    "count": 1
+   }
+  ],
+  "do it": [
+   {
+    "probability": 1,
+    "value": "already",
+    "count": 1
+   }
+  ],
+  "it already": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "already, ": [
+   {
+    "probability": 1,
+    "value": "i'm",
+    "count": 1
+   }
+  ],
+  ", i'm": [
+   {
+    "probability": 1,
+    "value": "sick",
+    "count": 1
+   }
+  ],
+  "i'm sick": [
+   {
+    "probability": 1,
+    "value": "of",
+    "count": 1
+   }
+  ],
+  "sick of": [
+   {
+    "probability": 1,
+    "value": "hearing",
+    "count": 1
+   }
+  ],
+  "of hearing": [
+   {
+    "probability": 1,
+    "value": "you",
+    "count": 1
+   }
+  ],
+  "hearing you": [
+   {
+    "probability": 1,
+    "value": "two",
+    "count": 1
+   }
+  ],
+  "you two": [
+   {
+    "probability": 1,
+    "value": "dykes",
+    "count": 1
+   }
+  ],
+  "two dykes": [
+   {
+    "probability": 1,
+    "value": "argue",
+    "count": 1
+   }
+  ],
+  "dykes argue": [
+   {
+    "probability": 1,
+    "value": "about",
+    "count": 1
+   }
+  ],
+  "argue about": [
+   {
+    "probability": 1,
+    "value": "it",
+    "count": 1
+   }
+  ],
+  "about it": [
+   {
+    "probability": 1,
+    "value": "!",
+    "count": 1
+   }
+  ],
+  "no you": [
+   {
+    "probability": 1,
+    "value": "shut",
+    "count": 1
+   }
+  ],
+  "you shut": [
+   {
+    "probability": 1,
+    "value": "up",
+    "count": 1
+   }
+  ],
+  "shut up": [
+   {
+    "probability": 1,
+    "value": "!",
+    "count": 1
+   }
+  ],
+  "amir is": [
+   {
+    "probability": 1,
+    "value": "the",
+    "count": 1
+   }
+  ],
+  "is the": [
+   {
+    "probability": 1,
+    "value": "only",
+    "count": 1
+   }
+  ],
+  "the only": [
+   {
+    "probability": 1,
+    "value": "one",
+    "count": 1
+   }
+  ],
+  "only one": [
+   {
+    "probability": 1,
+    "value": "who",
+    "count": 1
+   }
+  ],
+  "one who": [
+   {
+    "probability": 1,
+    "value": "gives",
+    "count": 1
+   }
+  ],
+  "who gives": [
+   {
+    "probability": 1,
+    "value": "a",
+    "count": 1
+   }
+  ],
+  "gives a": [
+   {
+    "probability": 1,
+    "value": "crap",
+    "count": 1
+   }
+  ],
+  "a crap": [
+   {
+    "probability": 1,
+    "value": "!",
+    "count": 1
+   }
+  ],
+  "alright, ": [
+   {
+    "probability": 0.5,
+    "value": "you",
+    "count": 1
+   },
+   {
+    "probability": 0.5,
+    "value": "linny",
+    "count": 1
+   }
+  ],
+  ", you": [
+   {
+    "probability": 1,
+    "value": "go",
+    "count": 1
+   }
+  ],
+  "you go": [
+   {
+    "probability": 1,
+    "value": "through",
+    "count": 1
+   }
+  ],
+  "go through": [
+   {
+    "probability": 1,
+    "value": "life",
+    "count": 1
+   }
+  ],
+  "through life": [
+   {
+    "probability": 1,
+    "value": "not",
+    "count": 1
+   }
+  ],
+  "life not": [
+   {
+    "probability": 1,
+    "value": "knowing",
+    "count": 1
+   }
+  ],
+  "not knowing": [
+   {
+    "probability": 1,
+    "value": "what",
+    "count": 1
+   }
+  ],
+  "knowing what": [
+   {
+    "probability": 1,
+    "value": "you",
+    "count": 1
+   }
+  ],
+  "what you": [
+   {
+    "probability": 1,
+    "value": "want",
+    "count": 1
+   }
+  ],
+  "you want": [
+   {
+    "probability": 1,
+    "value": "?",
+    "count": 1
+   }
+  ],
+  ", linny": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "linny, ": [
+   {
+    "probability": 1,
+    "value": "let's",
+    "count": 1
+   }
+  ],
+  ", let's": [
+   {
+    "probability": 1,
+    "value": "go",
+    "count": 1
+   }
+  ],
+  "let's go": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "yeah i": [
+   {
+    "probability": 1,
+    "value": "just",
+    "count": 1
+   }
+  ],
+  "i just": [
+   {
+    "probability": 1,
+    "value": "think",
+    "count": 1
+   }
+  ],
+  "just think": [
+   {
+    "probability": 1,
+    "value": "i",
+    "count": 1
+   }
+  ],
+  "think i": [
+   {
+    "probability": 1,
+    "value": "cut",
+    "count": 1
+   }
+  ],
+  "i cut": [
+   {
+    "probability": 1,
+    "value": "you",
+    "count": 1
+   }
+  ],
+  "cut you": [
+   {
+    "probability": 1,
+    "value": "off",
+    "count": 1
+   }
+  ],
+  "you off": [
+   {
+    "probability": 1,
+    "value": "aol",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "what up",
+  "yeah, ",
+  "just do",
+  "no you",
+  "amir is",
+  "alright, ",
+  "yeah i"
+ ],
+ "endKeys": []
+}

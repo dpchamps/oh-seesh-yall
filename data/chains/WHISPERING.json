@@ -1,0 +1,155 @@
+{
+ "identifier": "WHISPERING",
+ "chains": {
+  "we're having": [
+   {
+    "probability": 1,
+    "value": "a",
+    "count": 1
+   }
+  ],
+  "having a": [
+   {
+    "probability": 1,
+    "value": "moment",
+    "count": 1
+   }
+  ],
+  "a moment": [
+   {
+    "probability": 1,
+    "value": "of",
+    "count": 1
+   }
+  ],
+  "moment of": [
+   {
+    "probability": 1,
+    "value": "silence",
+    "count": 1
+   }
+  ],
+  "there's one": [
+   {
+    "probability": 1,
+    "value": "button",
+    "count": 1
+   }
+  ],
+  "one button": [
+   {
+    "probability": 1,
+    "value": "that",
+    "count": 1
+   }
+  ],
+  "button that": [
+   {
+    "probability": 1,
+    "value": "mutes",
+    "count": 1
+   }
+  ],
+  "that mutes": [
+   {
+    "probability": 1,
+    "value": "everything",
+    "count": 1
+   }
+  ],
+  "why now": [
+   {
+    "probability": 1,
+    "value": "?",
+    "count": 1
+   }
+  ],
+  "i like": [
+   {
+    "probability": 1,
+    "value": "the",
+    "count": 1
+   }
+  ],
+  "like the": [
+   {
+    "probability": 1,
+    "value": "blue",
+    "count": 1
+   }
+  ],
+  "the blue": [
+   {
+    "probability": 1,
+    "value": "ones",
+    "count": 1
+   }
+  ],
+  "you don't": [
+   {
+    "probability": 1,
+    "value": "have",
+    "count": 1
+   }
+  ],
+  "don't have": [
+   {
+    "probability": 1,
+    "value": "to",
+    "count": 1
+   }
+  ],
+  "have to": [
+   {
+    "probability": 1,
+    "value": "say",
+    "count": 1
+   }
+  ],
+  "to say": [
+   {
+    "probability": 1,
+    "value": "ow",
+    "count": 1
+   }
+  ],
+  "just please": [
+   {
+    "probability": 1,
+    "value": "!",
+    "count": 1
+   }
+  ],
+  "i'm asking": [
+   {
+    "probability": 1,
+    "value": "for",
+    "count": 1
+   }
+  ],
+  "asking for": [
+   {
+    "probability": 1,
+    "value": "10",
+    "count": 1
+   }
+  ],
+  "for 10": [
+   {
+    "probability": 1,
+    "value": "seconds",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "we're having",
+  "there's one",
+  "why now",
+  "i like",
+  "you don't",
+  "just please",
+  "i'm asking"
+ ],
+ "endKeys": []
+}

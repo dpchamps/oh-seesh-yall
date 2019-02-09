@@ -1,0 +1,67 @@
+{
+ "identifier": "GONNY",
+ "chains": {
+  "o captain": [
+   {
+    "probability": 1,
+    "value": "!",
+    "count": 1
+   }
+  ],
+  "my captain": [
+   {
+    "probability": 1,
+    "value": "!",
+    "count": 1
+   }
+  ],
+  "what shall": [
+   {
+    "probability": 1,
+    "value": "we",
+    "count": 1
+   }
+  ],
+  "shall we": [
+   {
+    "probability": 1,
+    "value": "do",
+    "count": 1
+   }
+  ],
+  "we do": [
+   {
+    "probability": 1,
+    "value": "with",
+    "count": 1
+   }
+  ],
+  "do with": [
+   {
+    "probability": 1,
+    "value": "this",
+    "count": 1
+   }
+  ],
+  "with this": [
+   {
+    "probability": 1,
+    "value": "traitor",
+    "count": 1
+   }
+  ],
+  "this traitor": [
+   {
+    "probability": 1,
+    "value": "?",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "o captain",
+  "my captain",
+  "what shall"
+ ],
+ "endKeys": []
+}

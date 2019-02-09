@@ -1,0 +1,44 @@
+{
+ "identifier": "UNKNOWS",
+ "chains": {
+  "how the": [
+   {
+    "probability": 1,
+    "value": "fk",
+    "count": 1
+   }
+  ],
+  "the fk": [
+   {
+    "probability": 1,
+    "value": "did",
+    "count": 1
+   }
+  ],
+  "fk did": [
+   {
+    "probability": 1,
+    "value": "this",
+    "count": 1
+   }
+  ],
+  "did this": [
+   {
+    "probability": 1,
+    "value": "happen",
+    "count": 1
+   }
+  ],
+  "this happen": [
+   {
+    "probability": 1,
+    "value": "?",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "how the"
+ ],
+ "endKeys": []
+}

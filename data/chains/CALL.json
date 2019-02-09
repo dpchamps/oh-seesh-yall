@@ -1,0 +1,30 @@
+{
+ "identifier": "CALL",
+ "chains": {
+  "in lipstick": [
+   {
+    "probability": 1,
+    "value": "above",
+    "count": 1
+   }
+  ],
+  "lipstick above": [
+   {
+    "probability": 1,
+    "value": "it",
+    "count": 1
+   }
+  ],
+  "above it": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "in lipstick"
+ ],
+ "endKeys": []
+}

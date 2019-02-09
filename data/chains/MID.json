@@ -1,0 +1,37 @@
+{
+ "identifier": "MID",
+ "chains": {
+  "slap and": [
+   {
+    "probability": 1,
+    "value": "torn",
+    "count": 1
+   }
+  ],
+  "and torn": [
+   {
+    "probability": 1,
+    "value": "starts",
+    "count": 1
+   }
+  ],
+  "torn starts": [
+   {
+    "probability": 1,
+    "value": "playing",
+    "count": 1
+   }
+  ],
+  "starts playing": [
+   {
+    "probability": 1,
+    "value": "again",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "slap and"
+ ],
+ "endKeys": []
+}

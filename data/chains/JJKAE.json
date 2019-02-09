@@ -1,0 +1,72 @@
+{
+ "identifier": "JJKAE",
+ "chains": {
+  "he says": [
+   {
+    "probability": 1,
+    "value": "copy",
+    "count": 1
+   }
+  ],
+  "says copy": [
+   {
+    "probability": 1,
+    "value": "edit",
+    "count": 1
+   }
+  ],
+  "copy edit": [
+   {
+    "probability": 1,
+    "value": "this",
+    "count": 1
+   }
+  ],
+  "edit this": [
+   {
+    "probability": 1,
+    "value": "these",
+    "count": 1
+   }
+  ],
+  "this these": [
+   {
+    "probability": 1,
+    "value": "aren't",
+    "count": 1
+   }
+  ],
+  "these aren't": [
+   {
+    "probability": 1,
+    "value": "even",
+    "count": 1
+   }
+  ],
+  "aren't even": [
+   {
+    "probability": 1,
+    "value": "fucking",
+    "count": 1
+   }
+  ],
+  "even fucking": [
+   {
+    "probability": 1,
+    "value": "words",
+    "count": 1
+   }
+  ],
+  "fucking words": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "he says"
+ ],
+ "endKeys": []
+}

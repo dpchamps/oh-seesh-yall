@@ -1,0 +1,37 @@
+{
+ "identifier": "YOU",
+ "chains": {
+  "i finish": [
+   {
+    "probability": 1,
+    "value": "all",
+    "count": 1
+   }
+  ],
+  "finish all": [
+   {
+    "probability": 1,
+    "value": "this",
+    "count": 1
+   }
+  ],
+  "all this": [
+   {
+    "probability": 1,
+    "value": "food",
+    "count": 1
+   }
+  ],
+  "this food": [
+   {
+    "probability": 1,
+    "value": "in",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "i finish"
+ ],
+ "endKeys": []
+}

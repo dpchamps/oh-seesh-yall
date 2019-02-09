@@ -1,0 +1,16 @@
+{
+ "identifier": "FOLKS",
+ "chains": {
+  "chapel hill": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "chapel hill"
+ ],
+ "endKeys": []
+}

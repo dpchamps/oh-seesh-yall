@@ -1,0 +1,136 @@
+{
+ "identifier": "TOGETHER",
+ "chains": {
+  "spinnin' right": [
+   {
+    "probability": 1,
+    "value": "in",
+    "count": 1
+   }
+  ],
+  "right in": [
+   {
+    "probability": 1,
+    "value": "our",
+    "count": 1
+   }
+  ],
+  "in our": [
+   {
+    "probability": 1,
+    "value": "hands",
+    "count": 1
+   }
+  ],
+  "our hands": [
+   {
+    "probability": 1,
+    "value": "baby",
+    "count": 1
+   }
+  ],
+  "hands baby": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "baby, ": [
+   {
+    "probability": 1,
+    "value": "you",
+    "count": 1
+   }
+  ],
+  ", you": [
+   {
+    "probability": 1,
+    "value": "and",
+    "count": 1
+   }
+  ],
+  "you and": [
+   {
+    "probability": 1,
+    "value": "me",
+    "count": 1
+   }
+  ],
+  "and me": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "we gotta": [
+   {
+    "probability": 1,
+    "value": "be",
+    "count": 1
+   }
+  ],
+  "gotta be": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "be, ": [
+   {
+    "probability": 1,
+    "value": "the",
+    "count": 1
+   }
+  ],
+  ", the": [
+   {
+    "probability": 1,
+    "value": "luckiest",
+    "count": 1
+   }
+  ],
+  "the luckiest": [
+   {
+    "probability": 1,
+    "value": "dreamers",
+    "count": 1
+   }
+  ],
+  "luckiest dreamers": [
+   {
+    "probability": 1,
+    "value": "who",
+    "count": 1
+   }
+  ],
+  "dreamers who": [
+   {
+    "probability": 1,
+    "value": "never",
+    "count": 1
+   }
+  ],
+  "who never": [
+   {
+    "probability": 1,
+    "value": "stopped",
+    "count": 1
+   }
+  ],
+  "never stopped": [
+   {
+    "probability": 1,
+    "value": "dreamin'",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "spinnin' right",
+  "we gotta"
+ ],
+ "endKeys": []
+}

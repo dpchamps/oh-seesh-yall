@@ -1,0 +1,444 @@
+{
+ "identifier": "12",
+ "chains": {
+  "48 still": [
+   {
+    "probability": 1,
+    "value": "in",
+    "count": 1
+   }
+  ],
+  "still in": [
+   {
+    "probability": 1,
+    "value": "that",
+    "count": 1
+   }
+  ],
+  "in that": [
+   {
+    "probability": 1,
+    "value": "cab",
+    "count": 1
+   }
+  ],
+  "that cab": [
+   {
+    "probability": 1,
+    "value": "yo",
+    "count": 1
+   }
+  ],
+  "cab yo": [
+   {
+    "probability": 1,
+    "value": "trying",
+    "count": 1
+   }
+  ],
+  "yo trying": [
+   {
+    "probability": 1,
+    "value": "to",
+    "count": 1
+   }
+  ],
+  "trying to": [
+   {
+    "probability": 1,
+    "value": "sort",
+    "count": 1
+   }
+  ],
+  "to sort": [
+   {
+    "probability": 1,
+    "value": "some",
+    "count": 1
+   }
+  ],
+  "sort some": [
+   {
+    "probability": 1,
+    "value": "stuff",
+    "count": 1
+   }
+  ],
+  "some stuff": [
+   {
+    "probability": 1,
+    "value": "out",
+    "count": 1
+   }
+  ],
+  "stuff out": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "how far": [
+   {
+    "probability": 1,
+    "value": "is",
+    "count": 1
+   }
+  ],
+  "far is": [
+   {
+    "probability": 1,
+    "value": "this",
+    "count": 1
+   }
+  ],
+  "is this": [
+   {
+    "probability": 1,
+    "value": "place",
+    "count": 1
+   }
+  ],
+  "this place": [
+   {
+    "probability": 1,
+    "value": "?",
+    "count": 1
+   }
+  ],
+  "lol you": [
+   {
+    "probability": 1,
+    "value": "are",
+    "count": 1
+   }
+  ],
+  "you are": [
+   {
+    "probability": 1,
+    "value": "one",
+    "count": 1
+   }
+  ],
+  "are one": [
+   {
+    "probability": 1,
+    "value": "wild",
+    "count": 1
+   }
+  ],
+  "one wild": [
+   {
+    "probability": 1,
+    "value": "child",
+    "count": 1
+   }
+  ],
+  "wild child": [
+   {
+    "probability": 1,
+    "value": "of",
+    "count": 1
+   }
+  ],
+  "child of": [
+   {
+    "probability": 1,
+    "value": "the",
+    "count": 1
+   }
+  ],
+  "of the": [
+   {
+    "probability": 1,
+    "value": "night",
+    "count": 1
+   }
+  ],
+  "the night": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "this is": [
+   {
+    "probability": 1,
+    "value": "forever",
+    "count": 2
+   }
+  ],
+  "is forever": [
+   {
+    "probability": 1,
+    "value": "night",
+    "count": 2
+   }
+  ],
+  "forever night": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 2
+   }
+  ],
+  "49 dang": [
+   {
+    "probability": 1,
+    "value": "cut",
+    "count": 1
+   }
+  ],
+  "dang cut": [
+   {
+    "probability": 1,
+    "value": "me",
+    "count": 1
+   }
+  ],
+  "cut me": [
+   {
+    "probability": 1,
+    "value": "off",
+    "count": 1
+   }
+  ],
+  "me off": [
+   {
+    "probability": 1,
+    "value": "meant",
+    "count": 1
+   }
+  ],
+  "off meant": [
+   {
+    "probability": 1,
+    "value": "to",
+    "count": 1
+   }
+  ],
+  "meant to": [
+   {
+    "probability": 1,
+    "value": "right",
+    "count": 1
+   }
+  ],
+  "to right": [
+   {
+    "probability": 1,
+    "value": "this",
+    "count": 1
+   }
+  ],
+  "right this": [
+   {
+    "probability": 1,
+    "value": "is",
+    "count": 1
+   }
+  ],
+  "49 yea": [
+   {
+    "probability": 1,
+    "value": "i'm",
+    "count": 1
+   }
+  ],
+  "yea i'm": [
+   {
+    "probability": 1,
+    "value": "nice",
+    "count": 1
+   }
+  ],
+  "i'm nice": [
+   {
+    "probability": 1,
+    "value": "right",
+    "count": 1
+   }
+  ],
+  "nice right": [
+   {
+    "probability": 1,
+    "value": "now",
+    "count": 1
+   }
+  ],
+  "right now": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "50 dag": [
+   {
+    "probability": 1,
+    "value": "yo",
+    "count": 1
+   }
+  ],
+  "dag yo": [
+   {
+    "probability": 1,
+    "value": "this",
+    "count": 1
+   }
+  ],
+  "yo this": [
+   {
+    "probability": 1,
+    "value": "cab",
+    "count": 1
+   }
+  ],
+  "this cab": [
+   {
+    "probability": 1,
+    "value": "is",
+    "count": 1
+   }
+  ],
+  "cab is": [
+   {
+    "probability": 1,
+    "value": "muy",
+    "count": 1
+   }
+  ],
+  "is muy": [
+   {
+    "probability": 1,
+    "value": "expensivo",
+    "count": 1
+   }
+  ],
+  "muy expensivo": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "you best": [
+   {
+    "probability": 1,
+    "value": "be",
+    "count": 1
+   }
+  ],
+  "best be": [
+   {
+    "probability": 1,
+    "value": "paying",
+    "count": 1
+   }
+  ],
+  "be paying": [
+   {
+    "probability": 1,
+    "value": "for",
+    "count": 1
+   }
+  ],
+  "paying for": [
+   {
+    "probability": 1,
+    "value": "drinks",
+    "count": 1
+   }
+  ],
+  "50 where": [
+   {
+    "probability": 1,
+    "value": "you",
+    "count": 1
+   }
+  ],
+  "where you": [
+   {
+    "probability": 0.5,
+    "value": "izat",
+    "count": 1
+   },
+   {
+    "probability": 0.5,
+    "value": "at",
+    "count": 1
+   }
+  ],
+  "you izat": [
+   {
+    "probability": 1,
+    "value": "?",
+    "count": 1
+   }
+  ],
+  "51 where": [
+   {
+    "probability": 1,
+    "value": "you",
+    "count": 1
+   }
+  ],
+  "you at": [
+   {
+    "probability": 1,
+    "value": "?",
+    "count": 1
+   }
+  ],
+  "52 where": [
+   {
+    "probability": 1,
+    "value": "the",
+    "count": 1
+   }
+  ],
+  "where the": [
+   {
+    "probability": 1,
+    "value": "fuck",
+    "count": 1
+   }
+  ],
+  "the fuck": [
+   {
+    "probability": 1,
+    "value": "are",
+    "count": 1
+   }
+  ],
+  "fuck are": [
+   {
+    "probability": 1,
+    "value": "you",
+    "count": 1
+   }
+  ],
+  "are you": [
+   {
+    "probability": 1,
+    "value": "?",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "48 still",
+  "how far",
+  "lol you",
+  "this is",
+  "49 dang",
+  "49 yea",
+  "50 dag",
+  "you best",
+  "50 where",
+  "51 where",
+  "52 where"
+ ],
+ "endKeys": []
+}

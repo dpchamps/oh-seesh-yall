@@ -1,0 +1,37 @@
+{
+ "identifier": "ON",
+ "chains": {
+  "screen, ": [
+   {
+    "probability": 1,
+    "value": "his",
+    "count": 1
+   }
+  ],
+  ", his": [
+   {
+    "probability": 1,
+    "value": "shirt",
+    "count": 1
+   }
+  ],
+  "his shirt": [
+   {
+    "probability": 1,
+    "value": "all",
+    "count": 1
+   }
+  ],
+  "shirt all": [
+   {
+    "probability": 1,
+    "value": "orange",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "screen, "
+ ],
+ "endKeys": []
+}

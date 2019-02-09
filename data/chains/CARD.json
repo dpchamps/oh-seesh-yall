@@ -1,0 +1,52 @@
+{
+ "identifier": "CARD",
+ "chains": {
+  "jake and": [
+   {
+    "probability": 1,
+    "value": "amir's",
+    "count": 2
+   }
+  ],
+  "and amir's": [
+   {
+    "probability": 1,
+    "value": "get",
+    "count": 2
+   }
+  ],
+  "amir's get": [
+   {
+    "probability": 1,
+    "value": "together",
+    "count": 2
+   }
+  ],
+  "get together": [
+   {
+    "probability": 1,
+    "value": "project",
+    "count": 2
+   }
+  ],
+  "to be": [
+   {
+    "probability": 1,
+    "value": "continued",
+    "count": 1
+   }
+  ],
+  "be continued": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "jake and",
+  "to be"
+ ],
+ "endKeys": []
+}

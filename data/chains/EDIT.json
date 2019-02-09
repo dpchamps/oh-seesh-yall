@@ -1,0 +1,93 @@
+{
+ "identifier": "EDIT",
+ "chains": {
+  "correcting the": [
+   {
+    "probability": 1,
+    "value": "mistakes",
+    "count": 1
+   }
+  ],
+  "the mistakes": [
+   {
+    "probability": 1,
+    "value": "raised",
+    "count": 1
+   }
+  ],
+  "mistakes raised": [
+   {
+    "probability": 1,
+    "value": "in",
+    "count": 1
+   }
+  ],
+  "raised in": [
+   {
+    "probability": 1,
+    "value": "seeegma's",
+    "count": 1
+   }
+  ],
+  "in seeegma's": [
+   {
+    "probability": 1,
+    "value": "comment",
+    "count": 1
+   }
+  ],
+  "seeegma's comment": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "comment, ": [
+   {
+    "probability": 1,
+    "value": "thanks",
+    "count": 1
+   }
+  ],
+  ", thanks": [
+   {
+    "probability": 1,
+    "value": "for",
+    "count": 1
+   }
+  ],
+  "thanks for": [
+   {
+    "probability": 1,
+    "value": "the",
+    "count": 1
+   }
+  ],
+  "for the": [
+   {
+    "probability": 1,
+    "value": "proof",
+    "count": 1
+   }
+  ],
+  "the proof": [
+   {
+    "probability": 1,
+    "value": "read",
+    "count": 1
+   }
+  ],
+  "proof read": [
+   {
+    "probability": 1,
+    "value": "!",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "correcting the"
+ ],
+ "endKeys": []
+}

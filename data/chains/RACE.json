@@ -1,0 +1,86 @@
+{
+ "identifier": "RACE",
+ "chains": {
+  "car beds": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "beds, ": [
+   {
+    "probability": 1,
+    "value": "i",
+    "count": 1
+   }
+  ],
+  ", i": [
+   {
+    "probability": 1,
+    "value": "hope",
+    "count": 1
+   }
+  ],
+  "i hope": [
+   {
+    "probability": 1,
+    "value": "positive",
+    "count": 1
+   }
+  ],
+  "hope positive": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "positive, ": [
+   {
+    "probability": 1,
+    "value": "because",
+    "count": 1
+   }
+  ],
+  ", because": [
+   {
+    "probability": 1,
+    "value": "i",
+    "count": 1
+   }
+  ],
+  "because i": [
+   {
+    "probability": 1,
+    "value": "already",
+    "count": 1
+   }
+  ],
+  "i already": [
+   {
+    "probability": 1,
+    "value": "bought",
+    "count": 1
+   }
+  ],
+  "already bought": [
+   {
+    "probability": 1,
+    "value": "them",
+    "count": 1
+   }
+  ],
+  "bought them": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "car beds"
+ ],
+ "endKeys": []
+}

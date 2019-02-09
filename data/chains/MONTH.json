@@ -1,0 +1,24 @@
+{
+ "identifier": "MONTH",
+ "chains": {
+  "or two": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "i dunno": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "or two",
+  "i dunno"
+ ],
+ "endKeys": []
+}

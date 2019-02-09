@@ -1,0 +1,30 @@
+{
+ "identifier": "MARTIN",
+ "chains": {
+  "what's with": [
+   {
+    "probability": 1,
+    "value": "the",
+    "count": 1
+   }
+  ],
+  "with the": [
+   {
+    "probability": 1,
+    "value": "nametags",
+    "count": 1
+   }
+  ],
+  "the nametags": [
+   {
+    "probability": 1,
+    "value": "?",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "what's with"
+ ],
+ "endKeys": []
+}

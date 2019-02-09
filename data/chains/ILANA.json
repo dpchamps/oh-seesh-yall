@@ -1,0 +1,311 @@
+{
+ "identifier": "ILANA",
+ "chains": {
+  "amir holy": [
+   {
+    "probability": 1,
+    "value": "guac",
+    "count": 1
+   }
+  ],
+  "holy guac": [
+   {
+    "probability": 1,
+    "value": "!",
+    "count": 1
+   }
+  ],
+  "that nap": [
+   {
+    "probability": 1,
+    "value": "was",
+    "count": 1
+   }
+  ],
+  "nap was": [
+   {
+    "probability": 1,
+    "value": "more",
+    "count": 1
+   }
+  ],
+  "was more": [
+   {
+    "probability": 1,
+    "value": "than",
+    "count": 1
+   }
+  ],
+  "more than": [
+   {
+    "probability": 1,
+    "value": "legit",
+    "count": 1
+   }
+  ],
+  "than legit": [
+   {
+    "probability": 1,
+    "value": "it",
+    "count": 1
+   }
+  ],
+  "legit it": [
+   {
+    "probability": 1,
+    "value": "was",
+    "count": 1
+   }
+  ],
+  "it was": [
+   {
+    "probability": 1,
+    "value": "dec'",
+    "count": 1
+   }
+  ],
+  "was dec'": [
+   {
+    "probability": 1,
+    "value": "!",
+    "count": 1
+   }
+  ],
+  "amir don't": [
+   {
+    "probability": 1,
+    "value": "nitpick",
+    "count": 1
+   }
+  ],
+  "don't nitpick": [
+   {
+    "probability": 1,
+    "value": "my",
+    "count": 1
+   }
+  ],
+  "nitpick my": [
+   {
+    "probability": 1,
+    "value": "twitpic",
+    "count": 1
+   }
+  ],
+  "my twitpic": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "twitpic, ": [
+   {
+    "probability": 1,
+    "value": "ya",
+    "count": 1
+   }
+  ],
+  ", ya": [
+   {
+    "probability": 1,
+    "value": "shit",
+    "count": 1
+   }
+  ],
+  "ya shit": [
+   {
+    "probability": 1,
+    "value": "dick",
+    "count": 1
+   }
+  ],
+  "shit dick": [
+   {
+    "probability": 1,
+    "value": "!",
+    "count": 1
+   }
+  ],
+  "now that": [
+   {
+    "probability": 1,
+    "value": "wit",
+    "count": 1
+   }
+  ],
+  "that wit": [
+   {
+    "probability": 1,
+    "value": "was",
+    "count": 1
+   }
+  ],
+  "wit was": [
+   {
+    "probability": 1,
+    "value": "quite",
+    "count": 1
+   }
+  ],
+  "was quite": [
+   {
+    "probability": 1,
+    "value": "quick",
+    "count": 1
+   }
+  ],
+  "quite quick": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "amir i'm": [
+   {
+    "probability": 1,
+    "value": "clearly",
+    "count": 1
+   }
+  ],
+  "i'm clearly": [
+   {
+    "probability": 1,
+    "value": "awake",
+    "count": 1
+   }
+  ],
+  "clearly awake": [
+   {
+    "probability": 1,
+    "value": "if",
+    "count": 1
+   }
+  ],
+  "awake if": [
+   {
+    "probability": 1,
+    "value": "i'm",
+    "count": 1
+   }
+  ],
+  "if i'm": [
+   {
+    "probability": 1,
+    "value": "talking",
+    "count": 1
+   }
+  ],
+  "i'm talking": [
+   {
+    "probability": 1,
+    "value": "to",
+    "count": 1
+   }
+  ],
+  "talking to": [
+   {
+    "probability": 1,
+    "value": "you",
+    "count": 1
+   }
+  ],
+  "to you": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "you, ": [
+   {
+    "probability": 1,
+    "value": "scooby",
+    "count": 1
+   }
+  ],
+  ", scooby": [
+   {
+    "probability": 1,
+    "value": "frickin'",
+    "count": 1
+   }
+  ],
+  "scooby frickin'": [
+   {
+    "probability": 1,
+    "value": "don't",
+    "count": 1
+   }
+  ],
+  "frickin' don't": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "amir bad": [
+   {
+    "probability": 1,
+    "value": "scooby",
+    "count": 1
+   }
+  ],
+  "bad scooby": [
+   {
+    "probability": 1,
+    "value": "?",
+    "count": 1
+   }
+  ],
+  "bad doo": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "you prick": [
+   {
+    "probability": 1,
+    "value": "!",
+    "count": 1
+   }
+  ],
+  "i know": [
+   {
+    "probability": 1,
+    "value": "many",
+    "count": 1
+   }
+  ],
+  "know many": [
+   {
+    "probability": 1,
+    "value": "jews",
+    "count": 1
+   }
+  ],
+  "many jews": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "amir holy",
+  "that nap",
+  "amir don't",
+  "now that",
+  "amir i'm",
+  "amir bad",
+  "bad doo",
+  "you prick",
+  "i know"
+ ],
+ "endKeys": []
+}

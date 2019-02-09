@@ -1,0 +1,595 @@
+{
+ "identifier": "KAREN",
+ "chains": {
+  "so, ": [
+   {
+    "probability": 1,
+    "value": "community",
+    "count": 1
+   }
+  ],
+  ", community": [
+   {
+    "probability": 1,
+    "value": "service",
+    "count": 1
+   }
+  ],
+  "community service": [
+   {
+    "probability": 1,
+    "value": "day",
+    "count": 1
+   }
+  ],
+  "service day": [
+   {
+    "probability": 1,
+    "value": "is",
+    "count": 1
+   }
+  ],
+  "day is": [
+   {
+    "probability": 1,
+    "value": "just",
+    "count": 1
+   }
+  ],
+  "is just": [
+   {
+    "probability": 1,
+    "value": "two",
+    "count": 1
+   }
+  ],
+  "just two": [
+   {
+    "probability": 1,
+    "value": "months",
+    "count": 1
+   }
+  ],
+  "two months": [
+   {
+    "probability": 1,
+    "value": "away",
+    "count": 1
+   }
+  ],
+  "uh, ": [
+   {
+    "probability": 1,
+    "value": "we",
+    "count": 1
+   }
+  ],
+  ", we": [
+   {
+    "probability": 1,
+    "value": "still",
+    "count": 1
+   }
+  ],
+  "we still": [
+   {
+    "probability": 1,
+    "value": "haven't",
+    "count": 1
+   }
+  ],
+  "still haven't": [
+   {
+    "probability": 1,
+    "value": "firmed",
+    "count": 1
+   }
+  ],
+  "haven't firmed": [
+   {
+    "probability": 1,
+    "value": "up",
+    "count": 1
+   }
+  ],
+  "firmed up": [
+   {
+    "probability": 1,
+    "value": "any",
+    "count": 1
+   }
+  ],
+  "up any": [
+   {
+    "probability": 1,
+    "value": "locations",
+    "count": 1
+   }
+  ],
+  "any locations": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "i know": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "know, ": [
+   {
+    "probability": 1,
+    "value": "but",
+    "count": 1
+   }
+  ],
+  ", but": [
+   {
+    "probability": 1,
+    "value": "the",
+    "count": 1
+   }
+  ],
+  "but the": [
+   {
+    "probability": 1,
+    "value": "last",
+    "count": 1
+   }
+  ],
+  "the last": [
+   {
+    "probability": 1,
+    "value": "time",
+    "count": 1
+   }
+  ],
+  "last time": [
+   {
+    "probability": 0.5,
+    "value": "i",
+    "count": 1
+   },
+   {
+    "probability": 0.5,
+    "value": "we",
+    "count": 1
+   }
+  ],
+  "time i": [
+   {
+    "probability": 1,
+    "value": "emailed",
+    "count": 1
+   }
+  ],
+  "i emailed": [
+   {
+    "probability": 1,
+    "value": "you",
+    "count": 1
+   }
+  ],
+  "emailed you": [
+   {
+    "probability": 1,
+    "value": "for",
+    "count": 1
+   }
+  ],
+  "you for": [
+   {
+    "probability": 1,
+    "value": "a",
+    "count": 1
+   }
+  ],
+  "for a": [
+   {
+    "probability": 1,
+    "value": "status",
+    "count": 1
+   }
+  ],
+  "a status": [
+   {
+    "probability": 1,
+    "value": "update",
+    "count": 1
+   }
+  ],
+  "status update": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "update, ": [
+   {
+    "probability": 1,
+    "value": "you",
+    "count": 1
+   }
+  ],
+  ", you": [
+   {
+    "probability": 0.5,
+    "value": "sent",
+    "count": 1
+   },
+   {
+    "probability": 0.5,
+    "value": "said",
+    "count": 1
+   }
+  ],
+  "you sent": [
+   {
+    "probability": 1,
+    "value": "me",
+    "count": 1
+   }
+  ],
+  "sent me": [
+   {
+    "probability": 1,
+    "value": "a",
+    "count": 1
+   }
+  ],
+  "me a": [
+   {
+    "probability": 1,
+    "value": "video",
+    "count": 1
+   }
+  ],
+  "a video": [
+   {
+    "probability": 1,
+    "value": "of",
+    "count": 1
+   }
+  ],
+  "video of": [
+   {
+    "probability": 1,
+    "value": "a",
+    "count": 1
+   }
+  ],
+  "of a": [
+   {
+    "probability": 1,
+    "value": "monkey",
+    "count": 1
+   }
+  ],
+  "a monkey": [
+   {
+    "probability": 1,
+    "value": "who",
+    "count": 1
+   }
+  ],
+  "monkey who": [
+   {
+    "probability": 1,
+    "value": "smells",
+    "count": 1
+   }
+  ],
+  "who smells": [
+   {
+    "probability": 1,
+    "value": "his",
+    "count": 1
+   }
+  ],
+  "smells his": [
+   {
+    "probability": 1,
+    "value": "hand",
+    "count": 1
+   }
+  ],
+  "his hand": [
+   {
+    "probability": 1,
+    "value": "and",
+    "count": 1
+   }
+  ],
+  "hand and": [
+   {
+    "probability": 1,
+    "value": "faints",
+    "count": 1
+   }
+  ],
+  "and faints": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "time we": [
+   {
+    "probability": 1,
+    "value": "spoke",
+    "count": 1
+   }
+  ],
+  "we spoke": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "spoke, ": [
+   {
+    "probability": 1,
+    "value": "you",
+    "count": 1
+   }
+  ],
+  "you said": [
+   {
+    "probability": 0.5,
+    "value": "an",
+    "count": 1
+   },
+   {
+    "probability": 0.5,
+    "value": "you",
+    "count": 1
+   }
+  ],
+  "said an": [
+   {
+    "probability": 1,
+    "value": "elephant",
+    "count": 1
+   }
+  ],
+  "an elephant": [
+   {
+    "probability": 1,
+    "value": "ride",
+    "count": 1
+   }
+  ],
+  "elephant ride": [
+   {
+    "probability": 1,
+    "value": "was",
+    "count": 1
+   }
+  ],
+  "ride was": [
+   {
+    "probability": 1,
+    "value": "doable",
+    "count": 1
+   }
+  ],
+  "was doable": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "doable, ": [
+   {
+    "probability": 1,
+    "value": "as",
+    "count": 1
+   }
+  ],
+  ", as": [
+   {
+    "probability": 1,
+    "value": "a",
+    "count": 1
+   }
+  ],
+  "as a": [
+   {
+    "probability": 1,
+    "value": "carnival",
+    "count": 1
+   }
+  ],
+  "a carnival": [
+   {
+    "probability": 1,
+    "value": "for",
+    "count": 1
+   }
+  ],
+  "carnival for": [
+   {
+    "probability": 1,
+    "value": "young",
+    "count": 1
+   }
+  ],
+  "for young": [
+   {
+    "probability": 1,
+    "value": "kids",
+    "count": 1
+   }
+  ],
+  "young kids": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "what about": [
+   {
+    "probability": 0.5,
+    "value": "the",
+    "count": 1
+   },
+   {
+    "probability": 0.5,
+    "value": "snacks",
+    "count": 1
+   }
+  ],
+  "about the": [
+   {
+    "probability": 1,
+    "value": "mural",
+    "count": 1
+   }
+  ],
+  "the mural": [
+   {
+    "probability": 1,
+    "value": "?",
+    "count": 1
+   }
+  ],
+  "said you": [
+   {
+    "probability": 1,
+    "value": "had",
+    "count": 1
+   }
+  ],
+  "you had": [
+   {
+    "probability": 1,
+    "value": "been",
+    "count": 1
+   }
+  ],
+  "had been": [
+   {
+    "probability": 1,
+    "value": "able",
+    "count": 1
+   }
+  ],
+  "been able": [
+   {
+    "probability": 1,
+    "value": "to",
+    "count": 1
+   }
+  ],
+  "able to": [
+   {
+    "probability": 1,
+    "value": "procure",
+    "count": 1
+   }
+  ],
+  "they are": [
+   {
+    "probability": 1,
+    "value": "going",
+    "count": 1
+   }
+  ],
+  "are going": [
+   {
+    "probability": 1,
+    "value": "to",
+    "count": 2
+   }
+  ],
+  "going to": [
+   {
+    "probability": 1,
+    "value": "be",
+    "count": 2
+   }
+  ],
+  "to be": [
+   {
+    "probability": 0.5,
+    "value": "so",
+    "count": 1
+   },
+   {
+    "probability": 0.5,
+    "value": "hungry",
+    "count": 1
+   }
+  ],
+  "be so": [
+   {
+    "probability": 1,
+    "value": "happy",
+    "count": 1
+   }
+  ],
+  "so happy": [
+   {
+    "probability": 1,
+    "value": "!",
+    "count": 1
+   }
+  ],
+  "well, ": [
+   {
+    "probability": 1,
+    "value": "uh",
+    "count": 1
+   }
+  ],
+  ", uh": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "about snacks": [
+   {
+    "probability": 1,
+    "value": "?",
+    "count": 1
+   }
+  ],
+  "people are": [
+   {
+    "probability": 1,
+    "value": "going",
+    "count": 1
+   }
+  ],
+  "be hungry": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "so, ",
+  "uh, ",
+  "i know",
+  "last time",
+  "what about",
+  "you said",
+  "they are",
+  "well, ",
+  "people are"
+ ],
+ "endKeys": []
+}

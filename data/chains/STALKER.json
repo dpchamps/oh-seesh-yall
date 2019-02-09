@@ -1,0 +1,94 @@
+{
+ "identifier": "STALKER",
+ "chains": {
+  "like pictures": [
+   {
+    "probability": 1,
+    "value": "of",
+    "count": 1
+   }
+  ],
+  "pictures of": [
+   {
+    "probability": 1,
+    "value": "jake",
+    "count": 1
+   }
+  ],
+  "of jake": [
+   {
+    "probability": 1,
+    "value": "to",
+    "count": 1
+   }
+  ],
+  "jake to": [
+   {
+    "probability": 1,
+    "value": "get",
+    "count": 1
+   }
+  ],
+  "to get": [
+   {
+    "probability": 1,
+    "value": "to",
+    "count": 1
+   }
+  ],
+  "get to": [
+   {
+    "probability": 1,
+    "value": "the",
+    "count": 1
+   }
+  ],
+  "to the": [
+   {
+    "probability": 1,
+    "value": "picture",
+    "count": 1
+   }
+  ],
+  "the picture": [
+   {
+    "probability": 1,
+    "value": "he",
+    "count": 1
+   }
+  ],
+  "picture he": [
+   {
+    "probability": 1,
+    "value": "just",
+    "count": 1
+   }
+  ],
+  "he just": [
+   {
+    "probability": 1,
+    "value": "took",
+    "count": 1
+   }
+  ],
+  "just took": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "jake looks": [
+   {
+    "probability": 1,
+    "value": "distressed",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "like pictures",
+  "jake looks"
+ ],
+ "endKeys": []
+}

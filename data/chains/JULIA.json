@@ -1,0 +1,605 @@
+{
+ "identifier": "JULIA",
+ "chains": {
+  "oh my": [
+   {
+    "probability": 1,
+    "value": "god",
+    "count": 2
+   }
+  ],
+  "my god": [
+   {
+    "probability": 0.5,
+    "value": "!",
+    "count": 1
+   },
+   {
+    "probability": 0.5,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "dick is": [
+   {
+    "probability": 1,
+    "value": "in",
+    "count": 1
+   }
+  ],
+  "is in": [
+   {
+    "probability": 1,
+    "value": "my",
+    "count": 1
+   }
+  ],
+  "in my": [
+   {
+    "probability": 1,
+    "value": "face",
+    "count": 1
+   }
+  ],
+  "my face": [
+   {
+    "probability": 1,
+    "value": "!",
+    "count": 1
+   }
+  ],
+  "whoah, ": [
+   {
+    "probability": 1,
+    "value": "what",
+    "count": 1
+   }
+  ],
+  ", what": [
+   {
+    "probability": 1,
+    "value": "is",
+    "count": 1
+   }
+  ],
+  "what is": [
+   {
+    "probability": 1,
+    "value": "that",
+    "count": 1
+   }
+  ],
+  "is that": [
+   {
+    "probability": 1,
+    "value": "?",
+    "count": 1
+   }
+  ],
+  "why is": [
+   {
+    "probability": 1,
+    "value": "he",
+    "count": 1
+   }
+  ],
+  "is he": [
+   {
+    "probability": 0.5,
+    "value": "trying",
+    "count": 1
+   },
+   {
+    "probability": 0.5,
+    "value": "okay",
+    "count": 1
+   }
+  ],
+  "he trying": [
+   {
+    "probability": 1,
+    "value": "to",
+    "count": 1
+   }
+  ],
+  "trying to": [
+   {
+    "probability": 0.5,
+    "value": "put",
+    "count": 1
+   },
+   {
+    "probability": 0.5,
+    "value": "pick",
+    "count": 1
+   }
+  ],
+  "to put": [
+   {
+    "probability": 1,
+    "value": "his",
+    "count": 1
+   }
+  ],
+  "put his": [
+   {
+    "probability": 1,
+    "value": "face",
+    "count": 1
+   }
+  ],
+  "his face": [
+   {
+    "probability": 1,
+    "value": "in",
+    "count": 1
+   }
+  ],
+  "face in": [
+   {
+    "probability": 1,
+    "value": "your",
+    "count": 1
+   }
+  ],
+  "in your": [
+   {
+    "probability": 1,
+    "value": "crotch",
+    "count": 1
+   }
+  ],
+  "your crotch": [
+   {
+    "probability": 1,
+    "value": "?",
+    "count": 1
+   }
+  ],
+  "no, ": [
+   {
+    "probability": 1,
+    "value": "it",
+    "count": 1
+   }
+  ],
+  ", it": [
+   {
+    "probability": 1,
+    "value": "doesn't",
+    "count": 1
+   }
+  ],
+  "it doesn't": [
+   {
+    "probability": 1,
+    "value": "hurt",
+    "count": 1
+   }
+  ],
+  "doesn't hurt": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "are you": [
+   {
+    "probability": 0.5,
+    "value": "trying",
+    "count": 1
+   },
+   {
+    "probability": 0.5,
+    "value": "okay",
+    "count": 1
+   }
+  ],
+  "you trying": [
+   {
+    "probability": 1,
+    "value": "to",
+    "count": 1
+   }
+  ],
+  "to pick": [
+   {
+    "probability": 1,
+    "value": "me",
+    "count": 1
+   }
+  ],
+  "pick me": [
+   {
+    "probability": 1,
+    "value": "up",
+    "count": 1
+   }
+  ],
+  "me up": [
+   {
+    "probability": 1,
+    "value": "?",
+    "count": 1
+   }
+  ],
+  "i actually": [
+   {
+    "probability": 1,
+    "value": "have",
+    "count": 1
+   }
+  ],
+  "actually have": [
+   {
+    "probability": 1,
+    "value": "a",
+    "count": 1
+   }
+  ],
+  "have a": [
+   {
+    "probability": 1,
+    "value": "really",
+    "count": 1
+   }
+  ],
+  "a really": [
+   {
+    "probability": 1,
+    "value": "big",
+    "count": 1
+   }
+  ],
+  "really big": [
+   {
+    "probability": 1,
+    "value": "crush",
+    "count": 1
+   }
+  ],
+  "big crush": [
+   {
+    "probability": 1,
+    "value": "on",
+    "count": 1
+   }
+  ],
+  "crush on": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "thanks for": [
+   {
+    "probability": 1,
+    "value": "coming",
+    "count": 1
+   }
+  ],
+  "for coming": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "nobody wants": [
+   {
+    "probability": 1,
+    "value": "to",
+    "count": 1
+   }
+  ],
+  "wants to": [
+   {
+    "probability": 1,
+    "value": "see",
+    "count": 1
+   }
+  ],
+  "to see": [
+   {
+    "probability": 1,
+    "value": "indie",
+    "count": 1
+   }
+  ],
+  "see indie": [
+   {
+    "probability": 1,
+    "value": "movies",
+    "count": 1
+   }
+  ],
+  "indie movies": [
+   {
+    "probability": 1,
+    "value": "anymore",
+    "count": 1
+   }
+  ],
+  "movies anymore": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "hi, ": [
+   {
+    "probability": 1,
+    "value": "i'm",
+    "count": 1
+   }
+  ],
+  ", i'm": [
+   {
+    "probability": 1,
+    "value": "julia",
+    "count": 1
+   }
+  ],
+  "i'm julia": [
+   {
+    "probability": 1,
+    "value": "from",
+    "count": 1
+   }
+  ],
+  "julia from": [
+   {
+    "probability": 1,
+    "value": "hr",
+    "count": 1
+   }
+  ],
+  "from hr": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "you're amazing": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "i have": [
+   {
+    "probability": 1,
+    "value": "an",
+    "count": 1
+   }
+  ],
+  "have an": [
+   {
+    "probability": 1,
+    "value": "island",
+    "count": 1
+   }
+  ],
+  "an island": [
+   {
+    "probability": 1,
+    "value": "off",
+    "count": 1
+   }
+  ],
+  "island off": [
+   {
+    "probability": 1,
+    "value": "the",
+    "count": 1
+   }
+  ],
+  "off the": [
+   {
+    "probability": 1,
+    "value": "coast",
+    "count": 1
+   }
+  ],
+  "the coast": [
+   {
+    "probability": 1,
+    "value": "of",
+    "count": 1
+   }
+  ],
+  "coast of": [
+   {
+    "probability": 1,
+    "value": "nebraska",
+    "count": 1
+   }
+  ],
+  "of nebraska": [
+   {
+    "probability": 1,
+    "value": ";",
+    "count": 1
+   }
+  ],
+  "nebraska; ": [
+   {
+    "probability": 1,
+    "value": "wanna",
+    "count": 1
+   }
+  ],
+  "; wanna": [
+   {
+    "probability": 1,
+    "value": "run",
+    "count": 1
+   }
+  ],
+  "wanna run": [
+   {
+    "probability": 1,
+    "value": "away",
+    "count": 1
+   }
+  ],
+  "run away": [
+   {
+    "probability": 1,
+    "value": "with",
+    "count": 1
+   }
+  ],
+  "away with": [
+   {
+    "probability": 1,
+    "value": "me",
+    "count": 1
+   }
+  ],
+  "with me": [
+   {
+    "probability": 1,
+    "value": "?",
+    "count": 1
+   }
+  ],
+  "don't you": [
+   {
+    "probability": 1,
+    "value": "wanna",
+    "count": 1
+   }
+  ],
+  "you wanna": [
+   {
+    "probability": 1,
+    "value": "rub",
+    "count": 1
+   }
+  ],
+  "wanna rub": [
+   {
+    "probability": 1,
+    "value": "your",
+    "count": 1
+   }
+  ],
+  "rub your": [
+   {
+    "probability": 1,
+    "value": "toes",
+    "count": 1
+   }
+  ],
+  "your toes": [
+   {
+    "probability": 1,
+    "value": "all",
+    "count": 1
+   }
+  ],
+  "toes all": [
+   {
+    "probability": 1,
+    "value": "over",
+    "count": 1
+   }
+  ],
+  "all over": [
+   {
+    "probability": 1,
+    "value": "my",
+    "count": 1
+   }
+  ],
+  "over my": [
+   {
+    "probability": 1,
+    "value": "breasts",
+    "count": 1
+   }
+  ],
+  "my breasts": [
+   {
+    "probability": 1,
+    "value": "?",
+    "count": 1
+   }
+  ],
+  "he okay": [
+   {
+    "probability": 1,
+    "value": "?",
+    "count": 1
+   }
+  ],
+  "kiss me": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "no he": [
+   {
+    "probability": 1,
+    "value": "didn't",
+    "count": 1
+   }
+  ],
+  "he didn't": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "no it's": [
+   {
+    "probability": 1,
+    "value": "not",
+    "count": 1
+   }
+  ],
+  "it's not": [
+   {
+    "probability": 1,
+    "value": "!",
+    "count": 1
+   }
+  ],
+  "you okay": [
+   {
+    "probability": 1,
+    "value": "?",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "oh my",
+  "dick is",
+  "whoah, ",
+  "why is",
+  "no, ",
+  "are you",
+  "i actually",
+  "thanks for",
+  "nobody wants",
+  "hi, ",
+  "you're amazing",
+  "i have",
+  "don't you",
+  "is he",
+  "kiss me",
+  "no he",
+  "no it's"
+ ],
+ "endKeys": []
+}

@@ -1,0 +1,63 @@
+{
+ "identifier": "COWORKER",
+ "chains": {
+  "i've had": [
+   {
+    "probability": 0.5,
+    "value": "good",
+    "count": 1
+   },
+   {
+    "probability": 0.5,
+    "value": "bad",
+    "count": 1
+   }
+  ],
+  "had good": [
+   {
+    "probability": 1,
+    "value": "experiences",
+    "count": 1
+   }
+  ],
+  "good experiences": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "experiences, ": [
+   {
+    "probability": 1,
+    "value": "and",
+    "count": 1
+   }
+  ],
+  ", and": [
+   {
+    "probability": 1,
+    "value": "i've",
+    "count": 1
+   }
+  ],
+  "and i've": [
+   {
+    "probability": 1,
+    "value": "had",
+    "count": 1
+   }
+  ],
+  "had bad": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "i've had"
+ ],
+ "endKeys": []
+}

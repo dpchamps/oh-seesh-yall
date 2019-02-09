@@ -1,0 +1,72 @@
+{
+ "identifier": "THIS",
+ "chains": {
+  "if somebody": [
+   {
+    "probability": 1,
+    "value": "offers",
+    "count": 1
+   }
+  ],
+  "somebody offers": [
+   {
+    "probability": 1,
+    "value": "you",
+    "count": 1
+   }
+  ],
+  "offers you": [
+   {
+    "probability": 1,
+    "value": "chocolate",
+    "count": 1
+   }
+  ],
+  "you chocolate": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "chocolate, ": [
+   {
+    "probability": 1,
+    "value": "do",
+    "count": 1
+   }
+  ],
+  ", do": [
+   {
+    "probability": 1,
+    "value": "you",
+    "count": 1
+   }
+  ],
+  "do you": [
+   {
+    "probability": 1,
+    "value": "take",
+    "count": 1
+   }
+  ],
+  "you take": [
+   {
+    "probability": 1,
+    "value": "it",
+    "count": 1
+   }
+  ],
+  "take it": [
+   {
+    "probability": 1,
+    "value": "?",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "if somebody"
+ ],
+ "endKeys": []
+}

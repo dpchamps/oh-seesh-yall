@@ -1,0 +1,51 @@
+{
+ "identifier": "WAITER",
+ "chains": {
+  "my name": [
+   {
+    "probability": 1,
+    "value": "is",
+    "count": 1
+   }
+  ],
+  "name is": [
+   {
+    "probability": 1,
+    "value": "terrence",
+    "count": 1
+   }
+  ],
+  "is terrence": [
+   {
+    "probability": 1,
+    "value": ";",
+    "count": 1
+   }
+  ],
+  "terrence; ": [
+   {
+    "probability": 1,
+    "value": "i'm",
+    "count": 1
+   }
+  ],
+  "; i'm": [
+   {
+    "probability": 1,
+    "value": "adopted",
+    "count": 1
+   }
+  ],
+  "i'm adopted": [
+   {
+    "probability": 1,
+    "value": "!",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "my name"
+ ],
+ "endKeys": []
+}

@@ -1,0 +1,79 @@
+{
+ "identifier": "AMIT",
+ "chains": {
+  "but you": [
+   {
+    "probability": 1,
+    "value": "decided",
+    "count": 1
+   }
+  ],
+  "you decided": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "decided, ": [
+   {
+    "probability": 1,
+    "value": "to",
+    "count": 1
+   }
+  ],
+  ", to": [
+   {
+    "probability": 1,
+    "value": "be",
+    "count": 1
+   }
+  ],
+  "to be": [
+   {
+    "probability": 1,
+    "value": "a",
+    "count": 1
+   }
+  ],
+  "be a": [
+   {
+    "probability": 1,
+    "value": "queen",
+    "count": 1
+   }
+  ],
+  "a queen": [
+   {
+    "probability": 1,
+    "value": "douche",
+    "count": 1
+   }
+  ],
+  "queen douche": [
+   {
+    "probability": 1,
+    "value": "about",
+    "count": 1
+   }
+  ],
+  "douche about": [
+   {
+    "probability": 1,
+    "value": "it",
+    "count": 1
+   }
+  ],
+  "about it": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "but you"
+ ],
+ "endKeys": []
+}

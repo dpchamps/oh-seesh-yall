@@ -1,0 +1,241 @@
+{
+ "identifier": "QUARTET",
+ "chains": {
+  "bluuue moooooooon": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "moooooooon, ": [
+   {
+    "probability": 1,
+    "value": "you",
+    "count": 1
+   }
+  ],
+  ", you": [
+   {
+    "probability": 1,
+    "value": "saw",
+    "count": 1
+   }
+  ],
+  "you saw": [
+   {
+    "probability": 1,
+    "value": "me",
+    "count": 1
+   }
+  ],
+  "saw me": [
+   {
+    "probability": 1,
+    "value": "standing",
+    "count": 1
+   }
+  ],
+  "me standing": [
+   {
+    "probability": 1,
+    "value": "alo",
+    "count": 1
+   }
+  ],
+  "standing alo": [
+   {
+    "probability": 1,
+    "value": "o",
+    "count": 1
+   }
+  ],
+  "alo o": [
+   {
+    "probability": 1,
+    "value": "o",
+    "count": 1
+   }
+  ],
+  "o o": [
+   {
+    "probability": 0.6666666666666666,
+    "value": "o",
+    "count": 2
+   },
+   {
+    "probability": 0.3333333333333333,
+    "value": "one",
+    "count": 1
+   }
+  ],
+  "o one": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "without a": [
+   {
+    "probability": 1,
+    "value": "love",
+    "count": 1
+   }
+  ],
+  "a love": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "there she": [
+   {
+    "probability": 1,
+    "value": "was",
+    "count": 1
+   }
+  ],
+  "she was": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "was, ": [
+   {
+    "probability": 1,
+    "value": "just",
+    "count": 1
+   }
+  ],
+  ", just": [
+   {
+    "probability": 1,
+    "value": "a",
+    "count": 1
+   }
+  ],
+  "just a": [
+   {
+    "probability": 1,
+    "value": "walkin'",
+    "count": 1
+   }
+  ],
+  "a walkin'": [
+   {
+    "probability": 1,
+    "value": "down",
+    "count": 1
+   }
+  ],
+  "walkin' down": [
+   {
+    "probability": 1,
+    "value": "the",
+    "count": 1
+   }
+  ],
+  "down the": [
+   {
+    "probability": 1,
+    "value": "street",
+    "count": 1
+   }
+  ],
+  "the street": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "street, ": [
+   {
+    "probability": 1,
+    "value": "singin'",
+    "count": 1
+   }
+  ],
+  ", singin'": [
+   {
+    "probability": 1,
+    "value": "doo",
+    "count": 1
+   }
+  ],
+  "singin' doo": [
+   {
+    "probability": 1,
+    "value": "wa",
+    "count": 1
+   }
+  ],
+  "doo wa": [
+   {
+    "probability": 1,
+    "value": "diddy",
+    "count": 1
+   }
+  ],
+  "wa diddy": [
+   {
+    "probability": 1,
+    "value": "diddy",
+    "count": 1
+   }
+  ],
+  "diddy diddy": [
+   {
+    "probability": 1,
+    "value": "dum",
+    "count": 1
+   }
+  ],
+  "diddy dum": [
+   {
+    "probability": 1,
+    "value": "diddy",
+    "count": 1
+   }
+  ],
+  "dum diddy": [
+   {
+    "probability": 1,
+    "value": "doo",
+    "count": 1
+   }
+  ],
+  "diddy doo": [
+   {
+    "probability": 1,
+    "value": "!",
+    "count": 1
+   }
+  ],
+  "snappin' her": [
+   {
+    "probability": 1,
+    "value": "fingers",
+    "count": 1
+   }
+  ],
+  "her fingers": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "bluuue moooooooon",
+  "without a",
+  "there she",
+  "snappin' her"
+ ],
+ "endKeys": []
+}

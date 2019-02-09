@@ -1,0 +1,310 @@
+{
+ "identifier": "JORDAN",
+ "chains": {
+  "i'm jake": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "that's very": [
+   {
+    "probability": 1,
+    "value": "logical",
+    "count": 1
+   }
+  ],
+  "very logical": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "but have": [
+   {
+    "probability": 1,
+    "value": "you",
+    "count": 1
+   }
+  ],
+  "have you": [
+   {
+    "probability": 1,
+    "value": "considered",
+    "count": 1
+   }
+  ],
+  "you considered": [
+   {
+    "probability": 1,
+    "value": "this",
+    "count": 1
+   }
+  ],
+  "considered this": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "this, ": [
+   {
+    "probability": 1,
+    "value": "a",
+    "count": 1
+   }
+  ],
+  ", a": [
+   {
+    "probability": 1,
+    "value": "wizard",
+    "count": 1
+   }
+  ],
+  "a wizard": [
+   {
+    "probability": 1,
+    "value": "changed",
+    "count": 1
+   }
+  ],
+  "wizard changed": [
+   {
+    "probability": 1,
+    "value": "my",
+    "count": 1
+   }
+  ],
+  "changed my": [
+   {
+    "probability": 1,
+    "value": "face",
+    "count": 1
+   }
+  ],
+  "my face": [
+   {
+    "probability": 1,
+    "value": "?",
+    "count": 1
+   }
+  ],
+  "hey, ": [
+   {
+    "probability": 1,
+    "value": "it's",
+    "count": 1
+   }
+  ],
+  ", it's": [
+   {
+    "probability": 1,
+    "value": "jordan",
+    "count": 1
+   }
+  ],
+  "it's jordan": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "yeah, ": [
+   {
+    "probability": 1,
+    "value": "call",
+    "count": 1
+   }
+  ],
+  ", call": [
+   {
+    "probability": 1,
+    "value": "me",
+    "count": 1
+   }
+  ],
+  "call me": [
+   {
+    "probability": 1,
+    "value": "back",
+    "count": 1
+   }
+  ],
+  "me back": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "if you": [
+   {
+    "probability": 1,
+    "value": "mess",
+    "count": 1
+   }
+  ],
+  "you mess": [
+   {
+    "probability": 1,
+    "value": "up",
+    "count": 1
+   }
+  ],
+  "mess up": [
+   {
+    "probability": 1,
+    "value": "just",
+    "count": 1
+   }
+  ],
+  "up just": [
+   {
+    "probability": 1,
+    "value": "tell",
+    "count": 1
+   }
+  ],
+  "just tell": [
+   {
+    "probability": 1,
+    "value": "him",
+    "count": 1
+   }
+  ],
+  "tell him": [
+   {
+    "probability": 1,
+    "value": "that",
+    "count": 1
+   }
+  ],
+  "him that": [
+   {
+    "probability": 1,
+    "value": "best",
+    "count": 1
+   }
+  ],
+  "that best": [
+   {
+    "probability": 1,
+    "value": "friends",
+    "count": 1
+   }
+  ],
+  "best friends": [
+   {
+    "probability": 1,
+    "value": "have",
+    "count": 2
+   }
+  ],
+  "friends have": [
+   {
+    "probability": 1,
+    "value": "to",
+    "count": 2
+   }
+  ],
+  "have to": [
+   {
+    "probability": 1,
+    "value": "trust",
+    "count": 2
+   }
+  ],
+  "to trust": [
+   {
+    "probability": 1,
+    "value": "each",
+    "count": 2
+   }
+  ],
+  "trust each": [
+   {
+    "probability": 1,
+    "value": "other",
+    "count": 2
+   }
+  ],
+  "each other": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 2
+   }
+  ],
+  "other, ": [
+   {
+    "probability": 1,
+    "value": "now",
+    "count": 2
+   }
+  ],
+  ", now": [
+   {
+    "probability": 1,
+    "value": "more",
+    "count": 2
+   }
+  ],
+  "now more": [
+   {
+    "probability": 1,
+    "value": "than",
+    "count": 2
+   }
+  ],
+  "more than": [
+   {
+    "probability": 1,
+    "value": "ever",
+    "count": 2
+   }
+  ],
+  "than ever": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 2
+   }
+  ],
+  "okay, ": [
+   {
+    "probability": 1,
+    "value": "i'm",
+    "count": 1
+   }
+  ],
+  ", i'm": [
+   {
+    "probability": 1,
+    "value": "leaving",
+    "count": 1
+   }
+  ],
+  "i'm leaving": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "i'm jake",
+  "that's very",
+  "but have",
+  "hey, ",
+  "yeah, ",
+  "if you",
+  "best friends",
+  "okay, "
+ ],
+ "endKeys": []
+}

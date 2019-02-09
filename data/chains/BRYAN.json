@@ -1,0 +1,100 @@
+{
+ "identifier": "BRYAN",
+ "chains": {
+  "yo so": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "so, ": [
+   {
+    "probability": 1,
+    "value": "my",
+    "count": 1
+   }
+  ],
+  ", my": [
+   {
+    "probability": 1,
+    "value": "name",
+    "count": 1
+   }
+  ],
+  "my name": [
+   {
+    "probability": 1,
+    "value": "is",
+    "count": 1
+   }
+  ],
+  "name is": [
+   {
+    "probability": 1,
+    "value": "byron",
+    "count": 1
+   }
+  ],
+  "is byron": [
+   {
+    "probability": 1,
+    "value": "murphy",
+    "count": 1
+   }
+  ],
+  "byron murphy": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "murphy, ": [
+   {
+    "probability": 1,
+    "value": "i",
+    "count": 1
+   }
+  ],
+  ", i": [
+   {
+    "probability": 1,
+    "value": "like",
+    "count": 1
+   }
+  ],
+  "i like": [
+   {
+    "probability": 1,
+    "value": "to",
+    "count": 1
+   }
+  ],
+  "like to": [
+   {
+    "probability": 1,
+    "value": "drink",
+    "count": 1
+   }
+  ],
+  "to drink": [
+   {
+    "probability": 1,
+    "value": "curfee",
+    "count": 1
+   }
+  ],
+  "drink curfee": [
+   {
+    "probability": 1,
+    "value": "!",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "yo so"
+ ],
+ "endKeys": []
+}

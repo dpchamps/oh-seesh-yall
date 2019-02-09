@@ -1,0 +1,185 @@
+{
+ "identifier": "VAMPIRE",
+ "chains": {
+  "i vont": [
+   {
+    "probability": 1,
+    "value": "to",
+    "count": 1
+   }
+  ],
+  "vont to": [
+   {
+    "probability": 1,
+    "value": "suck",
+    "count": 1
+   }
+  ],
+  "to suck": [
+   {
+    "probability": 1,
+    "value": "your",
+    "count": 1
+   }
+  ],
+  "suck your": [
+   {
+    "probability": 1,
+    "value": "blood",
+    "count": 1
+   }
+  ],
+  "your blood": [
+   {
+    "probability": 1,
+    "value": "!",
+    "count": 1
+   }
+  ],
+  "but, ": [
+   {
+    "probability": 1,
+    "value": "seriously",
+    "count": 1
+   }
+  ],
+  ", seriously": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "seriously, ": [
+   {
+    "probability": 1,
+    "value": "there's",
+    "count": 1
+   }
+  ],
+  ", there's": [
+   {
+    "probability": 1,
+    "value": "a",
+    "count": 1
+   }
+  ],
+  "there's a": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "a, ": [
+   {
+    "probability": 1,
+    "value": "uh",
+    "count": 1
+   }
+  ],
+  ", uh": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "uh, ": [
+   {
+    "probability": 1,
+    "value": "bomb",
+    "count": 1
+   }
+  ],
+  ", bomb": [
+   {
+    "probability": 1,
+    "value": "threat",
+    "count": 1
+   }
+  ],
+  "bomb threat": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "threat, ": [
+   {
+    "probability": 1,
+    "value": "and",
+    "count": 1
+   }
+  ],
+  ", and": [
+   {
+    "probability": 1,
+    "value": "we",
+    "count": 1
+   }
+  ],
+  "and we": [
+   {
+    "probability": 1,
+    "value": "have",
+    "count": 1
+   }
+  ],
+  "we have": [
+   {
+    "probability": 1,
+    "value": "to",
+    "count": 1
+   }
+  ],
+  "have to": [
+   {
+    "probability": 1,
+    "value": "evacuate",
+    "count": 1
+   }
+  ],
+  "to evacuate": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "evacuate, ": [
+   {
+    "probability": 1,
+    "value": "like",
+    "count": 1
+   }
+  ],
+  ", like": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "like, ": [
+   {
+    "probability": 1,
+    "value": "now",
+    "count": 1
+   }
+  ],
+  ", now": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "i vont",
+  "but, "
+ ],
+ "endKeys": []
+}

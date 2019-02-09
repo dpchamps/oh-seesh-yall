@@ -1,0 +1,198 @@
+{
+ "identifier": "T",
+ "chains": {
+  "his nose": [
+   {
+    "probability": 1,
+    "value": "is",
+    "count": 1
+   }
+  ],
+  "nose is": [
+   {
+    "probability": 1,
+    "value": "bleeding",
+    "count": 1
+   }
+  ],
+  "is bleeding": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "shirt debacles": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "debacles, ": [
+   {
+    "probability": 1,
+    "value": "and",
+    "count": 1
+   }
+  ],
+  ", and": [
+   {
+    "probability": 0.5,
+    "value": "we're",
+    "count": 1
+   },
+   {
+    "probability": 0.5,
+    "value": "adopts",
+    "count": 1
+   }
+  ],
+  "and we're": [
+   {
+    "probability": 1,
+    "value": "looking",
+    "count": 1
+   }
+  ],
+  "we're looking": [
+   {
+    "probability": 1,
+    "value": "to",
+    "count": 1
+   }
+  ],
+  "looking to": [
+   {
+    "probability": 1,
+    "value": "rebound",
+    "count": 1
+   }
+  ],
+  "to rebound": [
+   {
+    "probability": 1,
+    "value": "in",
+    "count": 1
+   }
+  ],
+  "rebound in": [
+   {
+    "probability": 1,
+    "value": "a",
+    "count": 1
+   }
+  ],
+  "in a": [
+   {
+    "probability": 1,
+    "value": "major",
+    "count": 1
+   }
+  ],
+  "a major": [
+   {
+    "probability": 1,
+    "value": "way",
+    "count": 1
+   }
+  ],
+  "major way": [
+   {
+    "probability": 1,
+    "value": "and",
+    "count": 1
+   }
+  ],
+  "way and": [
+   {
+    "probability": 1,
+    "value": "i'm",
+    "count": 1
+   }
+  ],
+  "and i'm": [
+   {
+    "probability": 1,
+    "value": "counting",
+    "count": 1
+   }
+  ],
+  "i'm counting": [
+   {
+    "probability": 1,
+    "value": "on",
+    "count": 1
+   }
+  ],
+  "counting on": [
+   {
+    "probability": 1,
+    "value": "you",
+    "count": 1
+   }
+  ],
+  "on you": [
+   {
+    "probability": 1,
+    "value": "best",
+    "count": 1
+   }
+  ],
+  "you best": [
+   {
+    "probability": 1,
+    "value": "friend",
+    "count": 1
+   }
+  ],
+  "best friend": [
+   {
+    "probability": 1,
+    "value": "!",
+    "count": 1
+   }
+  ],
+  "shirt, ": [
+   {
+    "probability": 1,
+    "value": "and",
+    "count": 1
+   }
+  ],
+  "and adopts": [
+   {
+    "probability": 1,
+    "value": "an",
+    "count": 1
+   }
+  ],
+  "adopts an": [
+   {
+    "probability": 1,
+    "value": "ohhh",
+    "count": 1
+   }
+  ],
+  "an ohhh": [
+   {
+    "probability": 1,
+    "value": "yeah",
+    "count": 1
+   }
+  ],
+  "ohhh yeah": [
+   {
+    "probability": 1,
+    "value": "!",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "his nose",
+  "shirt debacles",
+  "shirt, "
+ ],
+ "endKeys": []
+}

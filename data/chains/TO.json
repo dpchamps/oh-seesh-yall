@@ -1,0 +1,285 @@
+{
+ "identifier": "TO",
+ "chains": {
+  "clip from": [
+   {
+    "probability": 0.8333333333333334,
+    "value": "'jake",
+    "count": 5
+   },
+   {
+    "probability": 0.16666666666666666,
+    "value": "'ace",
+    "count": 1
+   }
+  ],
+  "from 'jake": [
+   {
+    "probability": 1,
+    "value": "and",
+    "count": 5
+   }
+  ],
+  "'jake and": [
+   {
+    "probability": 1,
+    "value": "amir",
+    "count": 5
+   }
+  ],
+  "and amir": [
+   {
+    "probability": 0.2,
+    "value": "sunglasses'",
+    "count": 1
+   },
+   {
+    "probability": 0.2,
+    "value": "nutrition'",
+    "count": 1
+   },
+   {
+    "probability": 0.2,
+    "value": "rubik's",
+    "count": 1
+   },
+   {
+    "probability": 0.2,
+    "value": "brownie'",
+    "count": 1
+   },
+   {
+    "probability": 0.2,
+    "value": "rolex'",
+    "count": 1
+   }
+  ],
+  "jake sitting": [
+   {
+    "probability": 1,
+    "value": "looking",
+    "count": 1
+   }
+  ],
+  "sitting looking": [
+   {
+    "probability": 1,
+    "value": "at",
+    "count": 1
+   }
+  ],
+  "looking at": [
+   {
+    "probability": 1,
+    "value": "the",
+    "count": 1
+   }
+  ],
+  "at the": [
+   {
+    "probability": 1,
+    "value": "sunglasses",
+    "count": 1
+   }
+  ],
+  "from 'ace": [
+   {
+    "probability": 1,
+    "value": "and",
+    "count": 1
+   }
+  ],
+  "'ace and": [
+   {
+    "probability": 1,
+    "value": "jocelyn",
+    "count": 1
+   }
+  ],
+  "and jocelyn": [
+   {
+    "probability": 1,
+    "value": "episode",
+    "count": 1
+   }
+  ],
+  "jocelyn episode": [
+   {
+    "probability": 1,
+    "value": "5'",
+    "count": 1
+   }
+  ],
+  "jake taking": [
+   {
+    "probability": 1,
+    "value": "out",
+    "count": 1
+   }
+  ],
+  "taking out": [
+   {
+    "probability": 1,
+    "value": "a",
+    "count": 1
+   }
+  ],
+  "out a": [
+   {
+    "probability": 1,
+    "value": "box",
+    "count": 1
+   }
+  ],
+  "a box": [
+   {
+    "probability": 1,
+    "value": "of",
+    "count": 1
+   }
+  ],
+  "box of": [
+   {
+    "probability": 1,
+    "value": "chicken",
+    "count": 1
+   }
+  ],
+  "of chicken": [
+   {
+    "probability": 1,
+    "value": "mcnuggets",
+    "count": 1
+   }
+  ],
+  "jake looking": [
+   {
+    "probability": 1,
+    "value": "through",
+    "count": 1
+   }
+  ],
+  "looking through": [
+   {
+    "probability": 1,
+    "value": "the",
+    "count": 1
+   }
+  ],
+  "through the": [
+   {
+    "probability": 1,
+    "value": "bag",
+    "count": 1
+   }
+  ],
+  "amir rubik's": [
+   {
+    "probability": 1,
+    "value": "cube'",
+    "count": 1
+   }
+  ],
+  "jake playing": [
+   {
+    "probability": 1,
+    "value": "with",
+    "count": 1
+   }
+  ],
+  "playing with": [
+   {
+    "probability": 1,
+    "value": "the",
+    "count": 1
+   }
+  ],
+  "with the": [
+   {
+    "probability": 1,
+    "value": "cube",
+    "count": 1
+   }
+  ],
+  "jake throwing": [
+   {
+    "probability": 1,
+    "value": "the",
+    "count": 1
+   }
+  ],
+  "throwing the": [
+   {
+    "probability": 1,
+    "value": "badge",
+    "count": 1
+   }
+  ],
+  "the badge": [
+   {
+    "probability": 1,
+    "value": "down",
+    "count": 1
+   }
+  ],
+  "jake pulling": [
+   {
+    "probability": 1,
+    "value": "amir's",
+    "count": 1
+   }
+  ],
+  "pulling amir's": [
+   {
+    "probability": 1,
+    "value": "canyon",
+    "count": 1
+   }
+  ],
+  "amir's canyon": [
+   {
+    "probability": 1,
+    "value": "note",
+    "count": 1
+   }
+  ],
+  "canyon note": [
+   {
+    "probability": 1,
+    "value": "out",
+    "count": 1
+   }
+  ],
+  "note out": [
+   {
+    "probability": 1,
+    "value": "of",
+    "count": 1
+   }
+  ],
+  "out of": [
+   {
+    "probability": 1,
+    "value": "the",
+    "count": 1
+   }
+  ],
+  "of the": [
+   {
+    "probability": 1,
+    "value": "bag",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "clip from",
+  "jake sitting",
+  "jake taking",
+  "jake looking",
+  "jake playing",
+  "jake throwing",
+  "jake pulling"
+ ],
+ "endKeys": []
+}

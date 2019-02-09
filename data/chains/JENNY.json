@@ -1,0 +1,23 @@
+{
+ "identifier": "JENNY",
+ "chains": {
+  "i gave": [
+   {
+    "probability": 1,
+    "value": "it",
+    "count": 1
+   }
+  ],
+  "gave it": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "i gave"
+ ],
+ "endKeys": []
+}

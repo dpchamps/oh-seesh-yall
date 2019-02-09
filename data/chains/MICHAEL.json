@@ -1,0 +1,342 @@
+{
+ "identifier": "MICHAEL",
+ "chains": {
+  "if you": [
+   {
+    "probability": 1,
+    "value": "don't",
+    "count": 1
+   }
+  ],
+  "you don't": [
+   {
+    "probability": 1,
+    "value": "want",
+    "count": 1
+   }
+  ],
+  "don't want": [
+   {
+    "probability": 1,
+    "value": "it",
+    "count": 1
+   }
+  ],
+  "want it": [
+   {
+    "probability": 1,
+    "value": "up",
+    "count": 1
+   }
+  ],
+  "it up": [
+   {
+    "probability": 1,
+    "value": "then",
+    "count": 1
+   }
+  ],
+  "up then": [
+   {
+    "probability": 1,
+    "value": "we'll",
+    "count": 1
+   }
+  ],
+  "then we'll": [
+   {
+    "probability": 1,
+    "value": "take",
+    "count": 1
+   }
+  ],
+  "we'll take": [
+   {
+    "probability": 1,
+    "value": "it",
+    "count": 1
+   }
+  ],
+  "take it": [
+   {
+    "probability": 1,
+    "value": "down",
+    "count": 1
+   }
+  ],
+  "it down": [
+   {
+    "probability": 0.5,
+    "value": "right",
+    "count": 1
+   },
+   {
+    "probability": 0.5,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "down right": [
+   {
+    "probability": 1,
+    "value": "away",
+    "count": 1
+   }
+  ],
+  "right away": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "i just": [
+   {
+    "probability": 0.3333333333333333,
+    "value": "took",
+    "count": 1
+   },
+   {
+    "probability": 0.3333333333333333,
+    "value": "deleted",
+    "count": 1
+   },
+   {
+    "probability": 0.3333333333333333,
+    "value": "put",
+    "count": 1
+   }
+  ],
+  "just took": [
+   {
+    "probability": 1,
+    "value": "it",
+    "count": 1
+   }
+  ],
+  "took it": [
+   {
+    "probability": 1,
+    "value": "down",
+    "count": 1
+   }
+  ],
+  "just deleted": [
+   {
+    "probability": 1,
+    "value": "it",
+    "count": 1
+   }
+  ],
+  "deleted it": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "just put": [
+   {
+    "probability": 1,
+    "value": "it",
+    "count": 1
+   }
+  ],
+  "put it": [
+   {
+    "probability": 1,
+    "value": "back",
+    "count": 1
+   }
+  ],
+  "it back": [
+   {
+    "probability": 1,
+    "value": "up",
+    "count": 1
+   }
+  ],
+  "back up": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "hi guys": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "guys, ": [
+   {
+    "probability": 1,
+    "value": "uh",
+    "count": 1
+   }
+  ],
+  ", uh": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "uh, ": [
+   {
+    "probability": 1,
+    "value": "i'm",
+    "count": 2
+   }
+  ],
+  ", i'm": [
+   {
+    "probability": 0.5,
+    "value": "michael",
+    "count": 1
+   },
+   {
+    "probability": 0.5,
+    "value": "an",
+    "count": 1
+   }
+  ],
+  "i'm michael": [
+   {
+    "probability": 1,
+    "value": "fink",
+    "count": 1
+   }
+  ],
+  "michael fink": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "i'm an": [
+   {
+    "probability": 1,
+    "value": "intern",
+    "count": 1
+   }
+  ],
+  "and i": [
+   {
+    "probability": 1,
+    "value": "once",
+    "count": 1
+   }
+  ],
+  "i once": [
+   {
+    "probability": 1,
+    "value": "ate",
+    "count": 1
+   }
+  ],
+  "once ate": [
+   {
+    "probability": 1,
+    "value": "an",
+    "count": 1
+   }
+  ],
+  "ate an": [
+   {
+    "probability": 1,
+    "value": "entire",
+    "count": 1
+   }
+  ],
+  "an entire": [
+   {
+    "probability": 1,
+    "value": "pint",
+    "count": 1
+   }
+  ],
+  "entire pint": [
+   {
+    "probability": 1,
+    "value": "of",
+    "count": 1
+   }
+  ],
+  "pint of": [
+   {
+    "probability": 1,
+    "value": "ben",
+    "count": 1
+   }
+  ],
+  "of ben": [
+   {
+    "probability": 1,
+    "value": "jerry's",
+    "count": 1
+   }
+  ],
+  "ben jerry's": [
+   {
+    "probability": 1,
+    "value": "phish",
+    "count": 1
+   }
+  ],
+  "jerry's phish": [
+   {
+    "probability": 1,
+    "value": "food",
+    "count": 1
+   }
+  ],
+  "phish food": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "how could": [
+   {
+    "probability": 1,
+    "value": "you",
+    "count": 1
+   }
+  ],
+  "could you": [
+   {
+    "probability": 1,
+    "value": "do",
+    "count": 1
+   }
+  ],
+  "you do": [
+   {
+    "probability": 1,
+    "value": "that",
+    "count": 1
+   }
+  ],
+  "do that": [
+   {
+    "probability": 1,
+    "value": "?",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "if you",
+  "i just",
+  "hi guys",
+  "uh, ",
+  "and i",
+  "how could"
+ ],
+ "endKeys": []
+}

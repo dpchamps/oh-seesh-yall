@@ -1,0 +1,126 @@
+{
+ "identifier": "JIM",
+ "chains": {
+  "oh, ": [
+   {
+    "probability": 0.6666666666666666,
+    "value": "what's",
+    "count": 2
+   },
+   {
+    "probability": 0.3333333333333333,
+    "value": "my",
+    "count": 1
+   }
+  ],
+  ", what's": [
+   {
+    "probability": 1,
+    "value": "my",
+    "count": 2
+   }
+  ],
+  "what's my": [
+   {
+    "probability": 1,
+    "value": "name",
+    "count": 2
+   }
+  ],
+  "my name": [
+   {
+    "probability": 0.6,
+    "value": "?",
+    "count": 3
+   },
+   {
+    "probability": 0.2,
+    "value": "is",
+    "count": 1
+   },
+   {
+    "probability": 0.2,
+    "value": "!",
+    "count": 1
+   }
+  ],
+  "name is": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "i know": [
+   {
+    "probability": 1,
+    "value": "my",
+    "count": 1
+   }
+  ],
+  "know my": [
+   {
+    "probability": 1,
+    "value": "name",
+    "count": 1
+   }
+  ],
+  ", my": [
+   {
+    "probability": 1,
+    "value": "name",
+    "count": 1
+   }
+  ],
+  "never been": [
+   {
+    "probability": 1,
+    "value": "stretched",
+    "count": 1
+   }
+  ],
+  "been stretched": [
+   {
+    "probability": 1,
+    "value": "before",
+    "count": 1
+   }
+  ],
+  "stretched before": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "what are": [
+   {
+    "probability": 1,
+    "value": "these",
+    "count": 1
+   }
+  ],
+  "are these": [
+   {
+    "probability": 1,
+    "value": "called",
+    "count": 1
+   }
+  ],
+  "these called": [
+   {
+    "probability": 1,
+    "value": "?",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "oh, ",
+  "my name",
+  "i know",
+  "never been",
+  "what are"
+ ],
+ "endKeys": []
+}

@@ -1,0 +1,30 @@
+{
+ "identifier": "PAUSING",
+ "chains": {
+  "ok, ": [
+   {
+    "probability": 1,
+    "value": "it",
+    "count": 1
+   }
+  ],
+  ", it": [
+   {
+    "probability": 1,
+    "value": "doesn't",
+    "count": 1
+   }
+  ],
+  "it doesn't": [
+   {
+    "probability": 1,
+    "value": "matter",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "ok, "
+ ],
+ "endKeys": []
+}

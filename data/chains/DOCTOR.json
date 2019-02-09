@@ -1,0 +1,199 @@
+{
+ "identifier": "DOCTOR",
+ "chains": {
+  "guys, ": [
+   {
+    "probability": 1,
+    "value": "i",
+    "count": 1
+   }
+  ],
+  ", i": [
+   {
+    "probability": 1,
+    "value": "am",
+    "count": 1
+   }
+  ],
+  "i am": [
+   {
+    "probability": 1,
+    "value": "a",
+    "count": 1
+   }
+  ],
+  "am a": [
+   {
+    "probability": 1,
+    "value": "doctor",
+    "count": 1
+   }
+  ],
+  "a doctor": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "everybody calm": [
+   {
+    "probability": 1,
+    "value": "down",
+    "count": 1
+   }
+  ],
+  "calm down": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "you shouldn't": [
+   {
+    "probability": 1,
+    "value": "be",
+    "count": 1
+   }
+  ],
+  "shouldn't be": [
+   {
+    "probability": 1,
+    "value": "pouring",
+    "count": 1
+   }
+  ],
+  "be pouring": [
+   {
+    "probability": 1,
+    "value": "old",
+    "count": 1
+   }
+  ],
+  "pouring old": [
+   {
+    "probability": 1,
+    "value": "milky",
+    "count": 1
+   }
+  ],
+  "old milky": [
+   {
+    "probability": 1,
+    "value": "cottage",
+    "count": 1
+   }
+  ],
+  "milky cottage": [
+   {
+    "probability": 1,
+    "value": "cheese",
+    "count": 1
+   }
+  ],
+  "cottage cheese": [
+   {
+    "probability": 1,
+    "value": "on",
+    "count": 1
+   }
+  ],
+  "cheese on": [
+   {
+    "probability": 1,
+    "value": "your",
+    "count": 1
+   }
+  ],
+  "on your": [
+   {
+    "probability": 1,
+    "value": "face",
+    "count": 1
+   }
+  ],
+  "your face": [
+   {
+    "probability": 0.5,
+    "value": ".",
+    "count": 1
+   },
+   {
+    "probability": 0.5,
+    "value": "!",
+    "count": 1
+   }
+  ],
+  "take the": [
+   {
+    "probability": 1,
+    "value": "cold",
+    "count": 1
+   }
+  ],
+  "the cold": [
+   {
+    "probability": 1,
+    "value": "glass",
+    "count": 1
+   }
+  ],
+  "cold glass": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "glass, ": [
+   {
+    "probability": 1,
+    "value": "and",
+    "count": 1
+   }
+  ],
+  ", and": [
+   {
+    "probability": 1,
+    "value": "put",
+    "count": 1
+   }
+  ],
+  "and put": [
+   {
+    "probability": 1,
+    "value": "it",
+    "count": 1
+   }
+  ],
+  "put it": [
+   {
+    "probability": 1,
+    "value": "against",
+    "count": 1
+   }
+  ],
+  "it against": [
+   {
+    "probability": 1,
+    "value": "your",
+    "count": 1
+   }
+  ],
+  "against your": [
+   {
+    "probability": 1,
+    "value": "face",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "guys, ",
+  "everybody calm",
+  "you shouldn't",
+  "take the"
+ ],
+ "endKeys": []
+}

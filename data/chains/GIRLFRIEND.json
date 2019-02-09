@@ -1,0 +1,23 @@
+{
+ "identifier": "GIRLFRIEND",
+ "chains": {
+  "15 more": [
+   {
+    "probability": 1,
+    "value": "minutes",
+    "count": 1
+   }
+  ],
+  "more minutes": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "15 more"
+ ],
+ "endKeys": []
+}

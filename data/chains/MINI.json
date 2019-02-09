@@ -1,0 +1,30 @@
+{
+ "identifier": "MINI",
+ "chains": {
+  "skirt and": [
+   {
+    "probability": 1,
+    "value": "pans",
+    "count": 1
+   }
+  ],
+  "and pans": [
+   {
+    "probability": 1,
+    "value": "back",
+    "count": 1
+   }
+  ],
+  "pans back": [
+   {
+    "probability": 1,
+    "value": "up",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "skirt and"
+ ],
+ "endKeys": []
+}

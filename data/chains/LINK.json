@@ -1,0 +1,23 @@
+{
+ "identifier": "LINK",
+ "chains": {
+  "jake and": [
+   {
+    "probability": 1,
+    "value": "amir",
+    "count": 1
+   }
+  ],
+  "and amir": [
+   {
+    "probability": 1,
+    "value": "jacuzzi",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "jake and"
+ ],
+ "endKeys": []
+}

@@ -1,0 +1,340 @@
+{
+ "identifier": "CAMERAMAN",
+ "chains": {
+  "right there": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "i think": [
+   {
+    "probability": 1,
+    "value": "we",
+    "count": 1
+   }
+  ],
+  "think we": [
+   {
+    "probability": 1,
+    "value": "have",
+    "count": 1
+   }
+  ],
+  "we have": [
+   {
+    "probability": 1,
+    "value": "everything",
+    "count": 1
+   }
+  ],
+  "have everything": [
+   {
+    "probability": 1,
+    "value": "we",
+    "count": 1
+   }
+  ],
+  "everything we": [
+   {
+    "probability": 1,
+    "value": "need",
+    "count": 1
+   }
+  ],
+  "we need": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "there's no": [
+   {
+    "probability": 1,
+    "value": "real",
+    "count": 1
+   }
+  ],
+  "no real": [
+   {
+    "probability": 1,
+    "value": "script",
+    "count": 1
+   }
+  ],
+  "real script": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "hey what's": [
+   {
+    "probability": 1,
+    "value": "up",
+    "count": 1
+   }
+  ],
+  "what's up": [
+   {
+    "probability": 1,
+    "value": "guys",
+    "count": 1
+   }
+  ],
+  "up guys": [
+   {
+    "probability": 1,
+    "value": "?",
+    "count": 1
+   }
+  ],
+  "you guys": [
+   {
+    "probability": 1,
+    "value": "need",
+    "count": 1
+   }
+  ],
+  "guys need": [
+   {
+    "probability": 1,
+    "value": "a",
+    "count": 1
+   }
+  ],
+  "need a": [
+   {
+    "probability": 1,
+    "value": "ride",
+    "count": 1
+   }
+  ],
+  "a ride": [
+   {
+    "probability": 1,
+    "value": "?",
+    "count": 1
+   }
+  ],
+  "oh that's": [
+   {
+    "probability": 1,
+    "value": "perfect",
+    "count": 1
+   }
+  ],
+  "that's perfect": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "perfect, ": [
+   {
+    "probability": 1,
+    "value": "we're",
+    "count": 1
+   }
+  ],
+  ", we're": [
+   {
+    "probability": 1,
+    "value": "actually",
+    "count": 1
+   }
+  ],
+  "we're actually": [
+   {
+    "probability": 1,
+    "value": "heading",
+    "count": 1
+   }
+  ],
+  "actually heading": [
+   {
+    "probability": 1,
+    "value": "in",
+    "count": 1
+   }
+  ],
+  "heading in": [
+   {
+    "probability": 1,
+    "value": "that",
+    "count": 1
+   }
+  ],
+  "in that": [
+   {
+    "probability": 1,
+    "value": "direction",
+    "count": 1
+   }
+  ],
+  "that direction": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "let's roll": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "roll, ": [
+   {
+    "probability": 1,
+    "value": "come",
+    "count": 1
+   }
+  ],
+  ", come": [
+   {
+    "probability": 1,
+    "value": "on",
+    "count": 1
+   }
+  ],
+  "come on": [
+   {
+    "probability": 0.5,
+    "value": "!",
+    "count": 1
+   },
+   {
+    "probability": 0.5,
+    "value": "in",
+    "count": 1
+   }
+  ],
+  "on in": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "in, ": [
+   {
+    "probability": 1,
+    "value": "fellas",
+    "count": 1
+   }
+  ],
+  ", fellas": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "oh, ": [
+   {
+    "probability": 1,
+    "value": "isn't",
+    "count": 1
+   }
+  ],
+  ", isn't": [
+   {
+    "probability": 1,
+    "value": "it",
+    "count": 1
+   }
+  ],
+  "isn't it": [
+   {
+    "probability": 1,
+    "value": "great",
+    "count": 1
+   }
+  ],
+  "it great": [
+   {
+    "probability": 1,
+    "value": "?",
+    "count": 1
+   }
+  ],
+  "but she's": [
+   {
+    "probability": 1,
+    "value": "nice",
+    "count": 1
+   }
+  ],
+  "she's nice": [
+   {
+    "probability": 1,
+    "value": "!",
+    "count": 1
+   }
+  ],
+  "you don't": [
+   {
+    "probability": 1,
+    "value": "have",
+    "count": 1
+   }
+  ],
+  "don't have": [
+   {
+    "probability": 1,
+    "value": "to",
+    "count": 1
+   }
+  ],
+  "have to": [
+   {
+    "probability": 1,
+    "value": "be",
+    "count": 1
+   }
+  ],
+  "to be": [
+   {
+    "probability": 1,
+    "value": "shy",
+    "count": 1
+   }
+  ],
+  "be shy": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "that's awesome": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "right there",
+  "i think",
+  "there's no",
+  "hey what's",
+  "you guys",
+  "oh that's",
+  "let's roll",
+  "come on",
+  "oh, ",
+  "but she's",
+  "you don't",
+  "that's awesome"
+ ],
+ "endKeys": []
+}

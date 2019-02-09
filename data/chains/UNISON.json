@@ -1,0 +1,87 @@
+{
+ "identifier": "UNISON",
+ "chains": {
+  "you would": [
+   {
+    "probability": 1,
+    "value": "die",
+    "count": 1
+   }
+  ],
+  "would die": [
+   {
+    "probability": 1,
+    "value": "before",
+    "count": 1
+   }
+  ],
+  "die before": [
+   {
+    "probability": 1,
+    "value": "your",
+    "count": 1
+   }
+  ],
+  "before your": [
+   {
+    "probability": 1,
+    "value": "sword",
+    "count": 1
+   }
+  ],
+  "your sword": [
+   {
+    "probability": 1,
+    "value": "/",
+    "count": 1
+   }
+  ],
+  "sword/ ": [
+   {
+    "probability": 1,
+    "value": "stroke",
+    "count": 1
+   }
+  ],
+  "/ stroke": [
+   {
+    "probability": 1,
+    "value": "fell",
+    "count": 1
+   }
+  ],
+  "stroke fell": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "this one's": [
+   {
+    "probability": 1,
+    "value": "for",
+    "count": 1
+   }
+  ],
+  "one's for": [
+   {
+    "probability": 1,
+    "value": "real",
+    "count": 1
+   }
+  ],
+  "for real": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "you would",
+  "this one's"
+ ],
+ "endKeys": []
+}

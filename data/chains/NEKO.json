@@ -1,0 +1,51 @@
+{
+ "identifier": "NEKO",
+ "chains": {
+  "that's my": [
+   {
+    "probability": 1,
+    "value": "fiance",
+    "count": 1
+   }
+  ],
+  "my fiance": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "fiance, ": [
+   {
+    "probability": 1,
+    "value": "you",
+    "count": 1
+   }
+  ],
+  ", you": [
+   {
+    "probability": 1,
+    "value": "clumsy",
+    "count": 1
+   }
+  ],
+  "you clumsy": [
+   {
+    "probability": 1,
+    "value": "bitch",
+    "count": 1
+   }
+  ],
+  "clumsy bitch": [
+   {
+    "probability": 1,
+    "value": "!",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "that's my"
+ ],
+ "endKeys": []
+}

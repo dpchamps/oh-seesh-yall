@@ -1,0 +1,225 @@
+{
+ "identifier": "STAFF",
+ "chains": {
+  "dude, ": [
+   {
+    "probability": 1,
+    "value": "dude",
+    "count": 2
+   }
+  ],
+  ", dude": [
+   {
+    "probability": 0.5,
+    "value": ",",
+    "count": 1
+   },
+   {
+    "probability": 0.5,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "we're shooting": [
+   {
+    "probability": 1,
+    "value": "a",
+    "count": 2
+   }
+  ],
+  "shooting a": [
+   {
+    "probability": 1,
+    "value": "show",
+    "count": 2
+   }
+  ],
+  "a show": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 2
+   }
+  ],
+  "so if": [
+   {
+    "probability": 1,
+    "value": "we",
+    "count": 1
+   }
+  ],
+  "if we": [
+   {
+    "probability": 1,
+    "value": "could",
+    "count": 1
+   }
+  ],
+  "we could": [
+   {
+    "probability": 1,
+    "value": "just",
+    "count": 1
+   }
+  ],
+  "could just": [
+   {
+    "probability": 1,
+    "value": "have",
+    "count": 1
+   }
+  ],
+  "just have": [
+   {
+    "probability": 1,
+    "value": "the",
+    "count": 1
+   }
+  ],
+  "have the": [
+   {
+    "probability": 1,
+    "value": "host",
+    "count": 1
+   }
+  ],
+  "the host": [
+   {
+    "probability": 1,
+    "value": "of",
+    "count": 1
+   }
+  ],
+  "host of": [
+   {
+    "probability": 1,
+    "value": "the",
+    "count": 1
+   }
+  ],
+  "of the": [
+   {
+    "probability": 1,
+    "value": "show",
+    "count": 1
+   }
+  ],
+  "the show": [
+   {
+    "probability": 1,
+    "value": "?",
+    "count": 1
+   }
+  ],
+  "we need": [
+   {
+    "probability": 1,
+    "value": "those",
+    "count": 1
+   }
+  ],
+  "need those": [
+   {
+    "probability": 1,
+    "value": "cards",
+    "count": 1
+   }
+  ],
+  "those cards": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "amir sucks": [
+   {
+    "probability": 1,
+    "value": "!",
+    "count": 1
+   }
+  ],
+  "happy birthday": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 2
+   }
+  ],
+  "birthday, ": [
+   {
+    "probability": 1,
+    "value": "yeah",
+    "count": 3
+   }
+  ],
+  ", yeah": [
+   {
+    "probability": 1,
+    "value": "!",
+    "count": 3
+   }
+  ],
+  "it's your": [
+   {
+    "probability": 1,
+    "value": "birthday",
+    "count": 1
+   }
+  ],
+  "your birthday": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "what's your": [
+   {
+    "probability": 1,
+    "value": "name",
+    "count": 1
+   }
+  ],
+  "your name": [
+   {
+    "probability": 1,
+    "value": "?",
+    "count": 1
+   }
+  ],
+  "how old": [
+   {
+    "probability": 1,
+    "value": "are",
+    "count": 1
+   }
+  ],
+  "old are": [
+   {
+    "probability": 1,
+    "value": "you",
+    "count": 1
+   }
+  ],
+  "are you": [
+   {
+    "probability": 1,
+    "value": "?",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "dude, ",
+  "we're shooting",
+  "so if",
+  "we need",
+  "amir sucks",
+  "happy birthday",
+  "it's your",
+  "what's your",
+  "how old"
+ ],
+ "endKeys": []
+}

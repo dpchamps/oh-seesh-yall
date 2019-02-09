@@ -1,0 +1,66 @@
+{
+ "identifier": "SINGING",
+ "chains": {
+  "coming in": [
+   {
+    "probability": 1,
+    "value": "for",
+    "count": 1
+   }
+  ],
+  "in for": [
+   {
+    "probability": 1,
+    "value": "a",
+    "count": 1
+   }
+  ],
+  "for a": [
+   {
+    "probability": 1,
+    "value": "landing",
+    "count": 1
+   }
+  ],
+  "a landing": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "oh, ": [
+   {
+    "probability": 1,
+    "value": "say",
+    "count": 1
+   }
+  ],
+  ", say": [
+   {
+    "probability": 1,
+    "value": "can",
+    "count": 1
+   }
+  ],
+  "say can": [
+   {
+    "probability": 1,
+    "value": "you",
+    "count": 1
+   }
+  ],
+  "can you": [
+   {
+    "probability": 1,
+    "value": "see",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "coming in",
+  "oh, "
+ ],
+ "endKeys": []
+}

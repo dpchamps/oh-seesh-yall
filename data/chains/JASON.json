@@ -1,0 +1,58 @@
+{
+ "identifier": "JASON",
+ "chains": {
+  "send me": [
+   {
+    "probability": 1,
+    "value": "a",
+    "count": 1
+   }
+  ],
+  "me a": [
+   {
+    "probability": 1,
+    "value": "fax",
+    "count": 1
+   }
+  ],
+  "a fax": [
+   {
+    "probability": 1,
+    "value": "when",
+    "count": 1
+   }
+  ],
+  "fax when": [
+   {
+    "probability": 1,
+    "value": "i",
+    "count": 1
+   }
+  ],
+  "when i": [
+   {
+    "probability": 1,
+    "value": "can",
+    "count": 1
+   }
+  ],
+  "i can": [
+   {
+    "probability": 1,
+    "value": "pee",
+    "count": 1
+   }
+  ],
+  "can pee": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "send me"
+ ],
+ "endKeys": []
+}

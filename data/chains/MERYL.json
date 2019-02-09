@@ -1,0 +1,799 @@
+{
+ "identifier": "MERYL",
+ "chains": {
+  "i'm sorry": [
+   {
+    "probability": 1,
+    "value": "is",
+    "count": 1
+   }
+  ],
+  "sorry is": [
+   {
+    "probability": 1,
+    "value": "this",
+    "count": 1
+   }
+  ],
+  "is this": [
+   {
+    "probability": 1,
+    "value": "a",
+    "count": 1
+   }
+  ],
+  "this a": [
+   {
+    "probability": 1,
+    "value": "bad",
+    "count": 1
+   }
+  ],
+  "a bad": [
+   {
+    "probability": 1,
+    "value": "time",
+    "count": 1
+   }
+  ],
+  "bad time": [
+   {
+    "probability": 1,
+    "value": "?",
+    "count": 1
+   }
+  ],
+  "it's mr": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "greenberg right": [
+   {
+    "probability": 1,
+    "value": "?",
+    "count": 1
+   }
+  ],
+  "i'm meryl": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "and i'm": [
+   {
+    "probability": 1,
+    "value": "an",
+    "count": 1
+   }
+  ],
+  "i'm an": [
+   {
+    "probability": 1,
+    "value": "intern",
+    "count": 2
+   }
+  ],
+  "an intern": [
+   {
+    "probability": 0.5,
+    "value": "here",
+    "count": 1
+   },
+   {
+    "probability": 0.5,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "intern here": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "here, ": [
+   {
+    "probability": 1,
+    "value": "and",
+    "count": 1
+   }
+  ],
+  ", and": [
+   {
+    "probability": 1,
+    "value": "i",
+    "count": 1
+   }
+  ],
+  "and i": [
+   {
+    "probability": 1,
+    "value": "really",
+    "count": 1
+   }
+  ],
+  "i really": [
+   {
+    "probability": 1,
+    "value": "need",
+    "count": 1
+   }
+  ],
+  "really need": [
+   {
+    "probability": 1,
+    "value": "to",
+    "count": 1
+   }
+  ],
+  "need to": [
+   {
+    "probability": 1,
+    "value": "go",
+    "count": 1
+   }
+  ],
+  "to go": [
+   {
+    "probability": 0.5,
+    "value": "home",
+    "count": 1
+   },
+   {
+    "probability": 0.5,
+    "value": "to",
+    "count": 1
+   }
+  ],
+  "go home": [
+   {
+    "probability": 1,
+    "value": "early",
+    "count": 1
+   }
+  ],
+  "home early": [
+   {
+    "probability": 1,
+    "value": "today",
+    "count": 1
+   }
+  ],
+  "early today": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "it's kind": [
+   {
+    "probability": 1,
+    "value": "of",
+    "count": 1
+   }
+  ],
+  "kind of": [
+   {
+    "probability": 1,
+    "value": "private",
+    "count": 1
+   }
+  ],
+  "of private": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "i just": [
+   {
+    "probability": 1,
+    "value": "found",
+    "count": 1
+   }
+  ],
+  "just found": [
+   {
+    "probability": 1,
+    "value": "out",
+    "count": 1
+   }
+  ],
+  "found out": [
+   {
+    "probability": 1,
+    "value": "i'm",
+    "count": 1
+   }
+  ],
+  "out i'm": [
+   {
+    "probability": 1,
+    "value": "six",
+    "count": 1
+   }
+  ],
+  "i'm six": [
+   {
+    "probability": 1,
+    "value": "months",
+    "count": 1
+   }
+  ],
+  "six months": [
+   {
+    "probability": 1,
+    "value": "pregnant",
+    "count": 1
+   }
+  ],
+  "months pregnant": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "that's too": [
+   {
+    "probability": 1,
+    "value": "late",
+    "count": 1
+   }
+  ],
+  "too late": [
+   {
+    "probability": 1,
+    "value": "to",
+    "count": 1
+   }
+  ],
+  "late to": [
+   {
+    "probability": 1,
+    "value": "terminate",
+    "count": 1
+   }
+  ],
+  "to terminate": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "my parents": [
+   {
+    "probability": 1,
+    "value": "hate",
+    "count": 1
+   }
+  ],
+  "parents hate": [
+   {
+    "probability": 1,
+    "value": "my",
+    "count": 1
+   }
+  ],
+  "hate my": [
+   {
+    "probability": 1,
+    "value": "boyfriend",
+    "count": 1
+   }
+  ],
+  "my boyfriend": [
+   {
+    "probability": 1,
+    "value": "and",
+    "count": 1
+   }
+  ],
+  "boyfriend and": [
+   {
+    "probability": 1,
+    "value": "they",
+    "count": 1
+   }
+  ],
+  "and they": [
+   {
+    "probability": 1,
+    "value": "think",
+    "count": 1
+   }
+  ],
+  "they think": [
+   {
+    "probability": 1,
+    "value": "i'm",
+    "count": 1
+   }
+  ],
+  "think i'm": [
+   {
+    "probability": 1,
+    "value": "still",
+    "count": 1
+   }
+  ],
+  "i'm still": [
+   {
+    "probability": 1,
+    "value": "a",
+    "count": 1
+   }
+  ],
+  "still a": [
+   {
+    "probability": 1,
+    "value": "virgin",
+    "count": 1
+   }
+  ],
+  "a virgin": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "they're gonna": [
+   {
+    "probability": 1,
+    "value": "disown",
+    "count": 1
+   }
+  ],
+  "gonna disown": [
+   {
+    "probability": 1,
+    "value": "me",
+    "count": 1
+   }
+  ],
+  "disown me": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "i dunno": [
+   {
+    "probability": 1,
+    "value": "what",
+    "count": 1
+   }
+  ],
+  "dunno what": [
+   {
+    "probability": 1,
+    "value": "to",
+    "count": 1
+   }
+  ],
+  "what to": [
+   {
+    "probability": 1,
+    "value": "do",
+    "count": 1
+   }
+  ],
+  "to do": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "i know": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "randy doesn't": [
+   {
+    "probability": 1,
+    "value": "know",
+    "count": 1
+   }
+  ],
+  "doesn't know": [
+   {
+    "probability": 1,
+    "value": "yet",
+    "count": 1
+   }
+  ],
+  "know yet": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "i was": [
+   {
+    "probability": 1,
+    "value": "in",
+    "count": 1
+   }
+  ],
+  "was in": [
+   {
+    "probability": 1,
+    "value": "here",
+    "count": 1
+   }
+  ],
+  "in here": [
+   {
+    "probability": 1,
+    "value": "trying",
+    "count": 1
+   }
+  ],
+  "here trying": [
+   {
+    "probability": 1,
+    "value": "to",
+    "count": 1
+   }
+  ],
+  "trying to": [
+   {
+    "probability": 1,
+    "value": "cut",
+    "count": 1
+   }
+  ],
+  "to cut": [
+   {
+    "probability": 1,
+    "value": "out",
+    "count": 1
+   }
+  ],
+  "cut out": [
+   {
+    "probability": 1,
+    "value": "of",
+    "count": 1
+   }
+  ],
+  "out of": [
+   {
+    "probability": 1,
+    "value": "work",
+    "count": 1
+   }
+  ],
+  "of work": [
+   {
+    "probability": 1,
+    "value": "early",
+    "count": 1
+   }
+  ],
+  "work early": [
+   {
+    "probability": 1,
+    "value": "to",
+    "count": 1
+   }
+  ],
+  "early to": [
+   {
+    "probability": 1,
+    "value": "go",
+    "count": 1
+   }
+  ],
+  "go to": [
+   {
+    "probability": 1,
+    "value": "this",
+    "count": 1
+   }
+  ],
+  "to this": [
+   {
+    "probability": 1,
+    "value": "fucking",
+    "count": 1
+   }
+  ],
+  "this fucking": [
+   {
+    "probability": 1,
+    "value": "rave",
+    "count": 1
+   }
+  ],
+  "fucking rave": [
+   {
+    "probability": 1,
+    "value": "but",
+    "count": 1
+   }
+  ],
+  "rave but": [
+   {
+    "probability": 1,
+    "value": "this",
+    "count": 1
+   }
+  ],
+  "but this": [
+   {
+    "probability": 1,
+    "value": "jackass",
+    "count": 1
+   }
+  ],
+  "this jackass": [
+   {
+    "probability": 1,
+    "value": "has",
+    "count": 1
+   }
+  ],
+  "jackass has": [
+   {
+    "probability": 1,
+    "value": "been",
+    "count": 1
+   }
+  ],
+  "has been": [
+   {
+    "probability": 1,
+    "value": "grilling",
+    "count": 1
+   }
+  ],
+  "been grilling": [
+   {
+    "probability": 1,
+    "value": "me",
+    "count": 1
+   }
+  ],
+  "grilling me": [
+   {
+    "probability": 1,
+    "value": "so",
+    "count": 1
+   }
+  ],
+  "me so": [
+   {
+    "probability": 1,
+    "value": "hard",
+    "count": 1
+   }
+  ],
+  "so hard": [
+   {
+    "probability": 1,
+    "value": "that",
+    "count": 1
+   }
+  ],
+  "hard that": [
+   {
+    "probability": 1,
+    "value": "i",
+    "count": 1
+   }
+  ],
+  "that i": [
+   {
+    "probability": 1,
+    "value": "have",
+    "count": 1
+   }
+  ],
+  "i have": [
+   {
+    "probability": 1,
+    "value": "to",
+    "count": 1
+   }
+  ],
+  "have to": [
+   {
+    "probability": 1,
+    "value": "come",
+    "count": 1
+   }
+  ],
+  "to come": [
+   {
+    "probability": 1,
+    "value": "clean",
+    "count": 1
+   }
+  ],
+  "come clean": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "he has": [
+   {
+    "probability": 1,
+    "value": "a",
+    "count": 1
+   }
+  ],
+  "has a": [
+   {
+    "probability": 1,
+    "value": "keen",
+    "count": 1
+   }
+  ],
+  "a keen": [
+   {
+    "probability": 1,
+    "value": "sense",
+    "count": 1
+   }
+  ],
+  "keen sense": [
+   {
+    "probability": 1,
+    "value": "of",
+    "count": 1
+   }
+  ],
+  "sense of": [
+   {
+    "probability": 1,
+    "value": "right",
+    "count": 1
+   }
+  ],
+  "of right": [
+   {
+    "probability": 1,
+    "value": "and",
+    "count": 1
+   }
+  ],
+  "right and": [
+   {
+    "probability": 1,
+    "value": "wrong",
+    "count": 1
+   }
+  ],
+  "and wrong": [
+   {
+    "probability": 1,
+    "value": "and",
+    "count": 1
+   }
+  ],
+  "wrong and": [
+   {
+    "probability": 1,
+    "value": "a",
+    "count": 1
+   }
+  ],
+  "and a": [
+   {
+    "probability": 1,
+    "value": "true",
+    "count": 1
+   }
+  ],
+  "a true": [
+   {
+    "probability": 1,
+    "value": "gravitas",
+    "count": 1
+   }
+  ],
+  "true gravitas": [
+   {
+    "probability": 1,
+    "value": "about",
+    "count": 1
+   }
+  ],
+  "gravitas about": [
+   {
+    "probability": 1,
+    "value": "him",
+    "count": 1
+   }
+  ],
+  "about him": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "in fact": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "permission to": [
+   {
+    "probability": 1,
+    "value": "sit",
+    "count": 1
+   }
+  ],
+  "to sit": [
+   {
+    "probability": 1,
+    "value": "on",
+    "count": 1
+   }
+  ],
+  "sit on": [
+   {
+    "probability": 1,
+    "value": "your",
+    "count": 1
+   }
+  ],
+  "on your": [
+   {
+    "probability": 1,
+    "value": "face",
+    "count": 1
+   }
+  ],
+  "your face": [
+   {
+    "probability": 1,
+    "value": "?",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "i'm sorry",
+  "it's mr",
+  "greenberg right",
+  "i'm meryl",
+  "and i'm",
+  "it's kind",
+  "i just",
+  "that's too",
+  "my parents",
+  "they're gonna",
+  "i dunno",
+  "i know",
+  "randy doesn't",
+  "i'm an",
+  "i was",
+  "he has",
+  "in fact",
+  "permission to"
+ ],
+ "endKeys": []
+}

@@ -1,0 +1,688 @@
+{
+ "identifier": "COP",
+ "chains": {
+  "there he": [
+   {
+    "probability": 1,
+    "value": "is",
+    "count": 1
+   }
+  ],
+  "he is": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "let me": [
+   {
+    "probability": 1,
+    "value": "see",
+    "count": 2
+   }
+  ],
+  "me see": [
+   {
+    "probability": 0.5,
+    "value": "those",
+    "count": 1
+   },
+   {
+    "probability": 0.5,
+    "value": "that",
+    "count": 1
+   }
+  ],
+  "see those": [
+   {
+    "probability": 1,
+    "value": "hands",
+    "count": 1
+   }
+  ],
+  "those hands": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "so i": [
+   {
+    "probability": 0.5,
+    "value": "can",
+    "count": 1
+   },
+   {
+    "probability": 0.5,
+    "value": "could",
+    "count": 1
+   }
+  ],
+  "i can": [
+   {
+    "probability": 1,
+    "value": "shake",
+    "count": 1
+   }
+  ],
+  "can shake": [
+   {
+    "probability": 1,
+    "value": "them",
+    "count": 1
+   }
+  ],
+  "shake them": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "permission to": [
+   {
+    "probability": 0.2,
+    "value": "congratulate",
+    "count": 1
+   },
+   {
+    "probability": 0.2,
+    "value": "kick",
+    "count": 1
+   },
+   {
+    "probability": 0.2,
+    "value": "hug",
+    "count": 1
+   },
+   {
+    "probability": 0.2,
+    "value": "squeeze",
+    "count": 1
+   },
+   {
+    "probability": 0.2,
+    "value": "break",
+    "count": 1
+   }
+  ],
+  "to congratulate": [
+   {
+    "probability": 1,
+    "value": "the",
+    "count": 1
+   }
+  ],
+  "congratulate the": [
+   {
+    "probability": 1,
+    "value": "hero",
+    "count": 1
+   }
+  ],
+  "the hero": [
+   {
+    "probability": 1,
+    "value": "that",
+    "count": 1
+   }
+  ],
+  "hero that": [
+   {
+    "probability": 1,
+    "value": "saved",
+    "count": 1
+   }
+  ],
+  "that saved": [
+   {
+    "probability": 1,
+    "value": "my",
+    "count": 1
+   }
+  ],
+  "saved my": [
+   {
+    "probability": 1,
+    "value": "son's",
+    "count": 1
+   }
+  ],
+  "my son's": [
+   {
+    "probability": 1,
+    "value": "life",
+    "count": 1
+   }
+  ],
+  "son's life": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "i was": [
+   {
+    "probability": 1,
+    "value": "walking",
+    "count": 1
+   }
+  ],
+  "was walking": [
+   {
+    "probability": 1,
+    "value": "my",
+    "count": 1
+   }
+  ],
+  "walking my": [
+   {
+    "probability": 1,
+    "value": "child",
+    "count": 1
+   }
+  ],
+  "my child": [
+   {
+    "probability": 1,
+    "value": "to",
+    "count": 1
+   }
+  ],
+  "child to": [
+   {
+    "probability": 1,
+    "value": "daycare",
+    "count": 1
+   }
+  ],
+  "to daycare": [
+   {
+    "probability": 1,
+    "value": "when",
+    "count": 1
+   }
+  ],
+  "daycare when": [
+   {
+    "probability": 1,
+    "value": "i",
+    "count": 1
+   }
+  ],
+  "when i": [
+   {
+    "probability": 1,
+    "value": "heard",
+    "count": 1
+   }
+  ],
+  "i heard": [
+   {
+    "probability": 1,
+    "value": "gunfire",
+    "count": 1
+   }
+  ],
+  "heard gunfire": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "a lot": [
+   {
+    "probability": 1,
+    "value": "of",
+    "count": 1
+   }
+  ],
+  "lot of": [
+   {
+    "probability": 1,
+    "value": "people",
+    "count": 1
+   }
+  ],
+  "of people": [
+   {
+    "probability": 1,
+    "value": "were",
+    "count": 1
+   }
+  ],
+  "people were": [
+   {
+    "probability": 1,
+    "value": "dying",
+    "count": 1
+   }
+  ],
+  "were dying": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "dying, ": [
+   {
+    "probability": 1,
+    "value": "and",
+    "count": 1
+   }
+  ],
+  ", and": [
+   {
+    "probability": 1,
+    "value": "i",
+    "count": 1
+   }
+  ],
+  "and i": [
+   {
+    "probability": 1,
+    "value": "froze",
+    "count": 1
+   }
+  ],
+  "i froze": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "but this": [
+   {
+    "probability": 1,
+    "value": "brave",
+    "count": 1
+   }
+  ],
+  "this brave": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "brave, ": [
+   {
+    "probability": 1,
+    "value": "brave",
+    "count": 1
+   }
+  ],
+  ", brave": [
+   {
+    "probability": 1,
+    "value": "man",
+    "count": 1
+   }
+  ],
+  "brave man": [
+   {
+    "probability": 1,
+    "value": "stepped",
+    "count": 1
+   }
+  ],
+  "man stepped": [
+   {
+    "probability": 1,
+    "value": "forward",
+    "count": 1
+   }
+  ],
+  "stepped forward": [
+   {
+    "probability": 1,
+    "value": "and",
+    "count": 1
+   }
+  ],
+  "forward and": [
+   {
+    "probability": 1,
+    "value": "took",
+    "count": 1
+   }
+  ],
+  "and took": [
+   {
+    "probability": 1,
+    "value": "my",
+    "count": 1
+   }
+  ],
+  "took my": [
+   {
+    "probability": 1,
+    "value": "son",
+    "count": 1
+   }
+  ],
+  "my son": [
+   {
+    "probability": 0.5,
+    "value": "off",
+    "count": 1
+   },
+   {
+    "probability": 0.5,
+    "value": "again",
+    "count": 1
+   }
+  ],
+  "son off": [
+   {
+    "probability": 1,
+    "value": "my",
+    "count": 1
+   }
+  ],
+  "off my": [
+   {
+    "probability": 1,
+    "value": "hands",
+    "count": 1
+   }
+  ],
+  "my hands": [
+   {
+    "probability": 1,
+    "value": "so",
+    "count": 1
+   }
+  ],
+  "hands so": [
+   {
+    "probability": 1,
+    "value": "i",
+    "count": 1
+   }
+  ],
+  "i could": [
+   {
+    "probability": 1,
+    "value": "apprehend",
+    "count": 1
+   }
+  ],
+  "could apprehend": [
+   {
+    "probability": 1,
+    "value": "a",
+    "count": 1
+   }
+  ],
+  "apprehend a": [
+   {
+    "probability": 1,
+    "value": "murderer",
+    "count": 1
+   }
+  ],
+  "a murderer": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "to kick": [
+   {
+    "probability": 1,
+    "value": "this",
+    "count": 1
+   }
+  ],
+  "kick this": [
+   {
+    "probability": 1,
+    "value": "man's",
+    "count": 1
+   }
+  ],
+  "this man's": [
+   {
+    "probability": 1,
+    "value": "ass",
+    "count": 1
+   }
+  ],
+  "man's ass": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "ass, ": [
+   {
+    "probability": 1,
+    "value": "sir",
+    "count": 1
+   }
+  ],
+  ", sir": [
+   {
+    "probability": 0.6666666666666666,
+    "value": ".",
+    "count": 2
+   },
+   {
+    "probability": 0.3333333333333333,
+    "value": "!",
+    "count": 1
+   }
+  ],
+  "see that": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "now it": [
+   {
+    "probability": 1,
+    "value": "doesn't",
+    "count": 1
+   }
+  ],
+  "it doesn't": [
+   {
+    "probability": 1,
+    "value": "say",
+    "count": 1
+   }
+  ],
+  "doesn't say": [
+   {
+    "probability": 1,
+    "value": "anything",
+    "count": 1
+   }
+  ],
+  "say anything": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "to hug": [
+   {
+    "probability": 1,
+    "value": "my",
+    "count": 1
+   }
+  ],
+  "hug my": [
+   {
+    "probability": 1,
+    "value": "son",
+    "count": 1
+   }
+  ],
+  "son again": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "again, ": [
+   {
+    "probability": 1,
+    "value": "sir",
+    "count": 1
+   }
+  ],
+  "to squeeze": [
+   {
+    "probability": 1,
+    "value": "his",
+    "count": 1
+   }
+  ],
+  "squeeze his": [
+   {
+    "probability": 1,
+    "value": "rosy",
+    "count": 1
+   }
+  ],
+  "his rosy": [
+   {
+    "probability": 1,
+    "value": "cheeks",
+    "count": 1
+   }
+  ],
+  "rosy cheeks": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "yes, ": [
+   {
+    "probability": 1,
+    "value": "very",
+    "count": 1
+   }
+  ],
+  ", very": [
+   {
+    "probability": 1,
+    "value": "much",
+    "count": 1
+   }
+  ],
+  "very much": [
+   {
+    "probability": 1,
+    "value": "so",
+    "count": 1
+   }
+  ],
+  "much so": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "you are": [
+   {
+    "probability": 1,
+    "value": "the",
+    "count": 1
+   }
+  ],
+  "are the": [
+   {
+    "probability": 1,
+    "value": "boss",
+    "count": 1
+   }
+  ],
+  "the boss": [
+   {
+    "probability": 1,
+    "value": "of",
+    "count": 1
+   }
+  ],
+  "boss of": [
+   {
+    "probability": 1,
+    "value": "me",
+    "count": 1
+   }
+  ],
+  "of me": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "to break": [
+   {
+    "probability": 1,
+    "value": "this",
+    "count": 1
+   }
+  ],
+  "break this": [
+   {
+    "probability": 1,
+    "value": "perp's",
+    "count": 1
+   }
+  ],
+  "this perp's": [
+   {
+    "probability": 1,
+    "value": "arm",
+    "count": 1
+   }
+  ],
+  "perp's arm": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "arm, ": [
+   {
+    "probability": 1,
+    "value": "sir",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "there he",
+  "let me",
+  "so i",
+  "permission to",
+  "i was",
+  "a lot",
+  "but this",
+  "now it",
+  "yes, ",
+  "you are"
+ ],
+ "endKeys": []
+}

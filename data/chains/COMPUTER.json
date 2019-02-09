@@ -1,0 +1,89 @@
+{
+ "identifier": "COMPUTER",
+ "chains": {
+  "sorry, ": [
+   {
+    "probability": 1,
+    "value": "i",
+    "count": 1
+   }
+  ],
+  ", i": [
+   {
+    "probability": 1,
+    "value": "didn't",
+    "count": 1
+   }
+  ],
+  "i didn't": [
+   {
+    "probability": 1,
+    "value": "get",
+    "count": 1
+   }
+  ],
+  "didn't get": [
+   {
+    "probability": 1,
+    "value": "that",
+    "count": 1
+   }
+  ],
+  "get that": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "did you": [
+   {
+    "probability": 1,
+    "value": "say",
+    "count": 1
+   }
+  ],
+  "playing song": [
+   {
+    "probability": 1,
+    "value": "\"i",
+    "count": 1
+   }
+  ],
+  "song \"i": [
+   {
+    "probability": 1,
+    "value": "love",
+    "count": 1
+   }
+  ],
+  "\"i love": [
+   {
+    "probability": 1,
+    "value": "jake\"",
+    "count": 1
+   }
+  ],
+  "love jake\"": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "deleting song": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "sorry, ",
+  "did you",
+  "playing song",
+  "deleting song"
+ ],
+ "endKeys": []
+}

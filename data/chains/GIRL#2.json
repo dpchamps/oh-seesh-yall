@@ -1,0 +1,101 @@
+{
+ "identifier": "GIRL#2",
+ "chains": {
+  "it's a": [
+   {
+    "probability": 1,
+    "value": "pickle",
+    "count": 1
+   }
+  ],
+  "a pickle": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "i'm looking": [
+   {
+    "probability": 1,
+    "value": "for",
+    "count": 1
+   }
+  ],
+  "looking for": [
+   {
+    "probability": 1,
+    "value": "a",
+    "count": 1
+   }
+  ],
+  "for a": [
+   {
+    "probability": 1,
+    "value": "white",
+    "count": 1
+   }
+  ],
+  "a white": [
+   {
+    "probability": 1,
+    "value": "piece",
+    "count": 1
+   }
+  ],
+  "white piece": [
+   {
+    "probability": 1,
+    "value": "with",
+    "count": 1
+   }
+  ],
+  "piece with": [
+   {
+    "probability": 1,
+    "value": "a",
+    "count": 1
+   }
+  ],
+  "with a": [
+   {
+    "probability": 1,
+    "value": "little",
+    "count": 1
+   }
+  ],
+  "a little": [
+   {
+    "probability": 1,
+    "value": "bit",
+    "count": 1
+   }
+  ],
+  "little bit": [
+   {
+    "probability": 1,
+    "value": "of",
+    "count": 1
+   }
+  ],
+  "bit of": [
+   {
+    "probability": 1,
+    "value": "tree",
+    "count": 1
+   }
+  ],
+  "of tree": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "it's a",
+  "i'm looking"
+ ],
+ "endKeys": []
+}

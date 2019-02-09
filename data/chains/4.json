@@ -1,0 +1,44 @@
+{
+ "identifier": "4",
+ "chains": {
+  "get off": [
+   {
+    "probability": 1,
+    "value": "the",
+    "count": 1
+   }
+  ],
+  "off the": [
+   {
+    "probability": 1,
+    "value": "stage",
+    "count": 1
+   }
+  ],
+  "the stage": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "stage, ": [
+   {
+    "probability": 1,
+    "value": "nerd",
+    "count": 1
+   }
+  ],
+  ", nerd": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "get off"
+ ],
+ "endKeys": []
+}

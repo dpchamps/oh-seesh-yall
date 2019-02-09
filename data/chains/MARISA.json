@@ -1,0 +1,432 @@
+{
+ "identifier": "MARISA",
+ "chains": {
+  "well, ": [
+   {
+    "probability": 1,
+    "value": "i'm",
+    "count": 1
+   }
+  ],
+  ", i'm": [
+   {
+    "probability": 1,
+    "value": "really",
+    "count": 1
+   }
+  ],
+  "i'm really": [
+   {
+    "probability": 1,
+    "value": "into",
+    "count": 1
+   }
+  ],
+  "really into": [
+   {
+    "probability": 1,
+    "value": "video",
+    "count": 1
+   }
+  ],
+  "into video": [
+   {
+    "probability": 1,
+    "value": "games",
+    "count": 1
+   }
+  ],
+  "video games": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "i'm into": [
+   {
+    "probability": 1,
+    "value": "gears",
+    "count": 1
+   }
+  ],
+  "into gears": [
+   {
+    "probability": 1,
+    "value": "of",
+    "count": 1
+   }
+  ],
+  "gears of": [
+   {
+    "probability": 1,
+    "value": "war",
+    "count": 3
+   }
+  ],
+  "of war": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 3
+   }
+  ],
+  "who are": [
+   {
+    "probability": 1,
+    "value": "you",
+    "count": 1
+   }
+  ],
+  "are you": [
+   {
+    "probability": 0.5,
+    "value": "?",
+    "count": 1
+   },
+   {
+    "probability": 0.5,
+    "value": "doing",
+    "count": 1
+   }
+  ],
+  "actually, ": [
+   {
+    "probability": 1,
+    "value": "cliff",
+    "count": 1
+   }
+  ],
+  ", cliff": [
+   {
+    "probability": 1,
+    "value": "bleszinski",
+    "count": 1
+   }
+  ],
+  "cliff bleszinski": [
+   {
+    "probability": 0.5,
+    "value": "created",
+    "count": 1
+   },
+   {
+    "probability": 0.5,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "bleszinski created": [
+   {
+    "probability": 1,
+    "value": "gears",
+    "count": 1
+   }
+  ],
+  "created gears": [
+   {
+    "probability": 1,
+    "value": "of",
+    "count": 1
+   }
+  ],
+  "no, ": [
+   {
+    "probability": 1,
+    "value": "that",
+    "count": 1
+   }
+  ],
+  ", that": [
+   {
+    "probability": 1,
+    "value": "guy",
+    "count": 1
+   }
+  ],
+  "that guy": [
+   {
+    "probability": 1,
+    "value": "over",
+    "count": 1
+   }
+  ],
+  "guy over": [
+   {
+    "probability": 1,
+    "value": "there",
+    "count": 1
+   }
+  ],
+  "over there": [
+   {
+    "probability": 1,
+    "value": "is",
+    "count": 1
+   }
+  ],
+  "there is": [
+   {
+    "probability": 1,
+    "value": "cliff",
+    "count": 1
+   }
+  ],
+  "is cliff": [
+   {
+    "probability": 1,
+    "value": "bleszinski",
+    "count": 1
+   }
+  ],
+  "i saw": [
+   {
+    "probability": 1,
+    "value": "him",
+    "count": 1
+   }
+  ],
+  "saw him": [
+   {
+    "probability": 1,
+    "value": "when",
+    "count": 1
+   }
+  ],
+  "him when": [
+   {
+    "probability": 1,
+    "value": "we",
+    "count": 1
+   }
+  ],
+  "when we": [
+   {
+    "probability": 1,
+    "value": "walked",
+    "count": 1
+   }
+  ],
+  "we walked": [
+   {
+    "probability": 1,
+    "value": "in",
+    "count": 1
+   }
+  ],
+  "walked in": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "maybe you": [
+   {
+    "probability": 1,
+    "value": "should",
+    "count": 1
+   }
+  ],
+  "you should": [
+   {
+    "probability": 1,
+    "value": "use",
+    "count": 1
+   }
+  ],
+  "should use": [
+   {
+    "probability": 1,
+    "value": "chopsticks",
+    "count": 1
+   }
+  ],
+  "use chopsticks": [
+   {
+    "probability": 1,
+    "value": "if",
+    "count": 1
+   }
+  ],
+  "chopsticks if": [
+   {
+    "probability": 1,
+    "value": "you're",
+    "count": 1
+   }
+  ],
+  "if you're": [
+   {
+    "probability": 1,
+    "value": "gonna",
+    "count": 1
+   }
+  ],
+  "you're gonna": [
+   {
+    "probability": 1,
+    "value": "eat",
+    "count": 1
+   }
+  ],
+  "gonna eat": [
+   {
+    "probability": 1,
+    "value": "sushi",
+    "count": 1
+   }
+  ],
+  "eat sushi": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "what are": [
+   {
+    "probability": 1,
+    "value": "you",
+    "count": 1
+   }
+  ],
+  "you doing": [
+   {
+    "probability": 1,
+    "value": "?",
+    "count": 1
+   }
+  ],
+  "mm hmm": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "i know": [
+   {
+    "probability": 1,
+    "value": "who",
+    "count": 1
+   }
+  ],
+  "know who": [
+   {
+    "probability": 1,
+    "value": "you",
+    "count": 1
+   }
+  ],
+  "who you": [
+   {
+    "probability": 1,
+    "value": "are",
+    "count": 1
+   }
+  ],
+  "you are": [
+   {
+    "probability": 1,
+    "value": "!",
+    "count": 1
+   }
+  ],
+  "i'm marisa": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "so, ": [
+   {
+    "probability": 1,
+    "value": "gears",
+    "count": 1
+   }
+  ],
+  ", gears": [
+   {
+    "probability": 1,
+    "value": "3",
+    "count": 1
+   }
+  ],
+  "gears 3": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "3, ": [
+   {
+    "probability": 1,
+    "value": "huh",
+    "count": 1
+   }
+  ],
+  ", huh": [
+   {
+    "probability": 1,
+    "value": "?",
+    "count": 1
+   }
+  ],
+  "i'm unbelievably": [
+   {
+    "probability": 1,
+    "value": "pumped",
+    "count": 1
+   }
+  ],
+  "unbelievably pumped": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "yes, ": [
+   {
+    "probability": 1,
+    "value": "i",
+    "count": 1
+   }
+  ],
+  ", i": [
+   {
+    "probability": 1,
+    "value": "do",
+    "count": 1
+   }
+  ],
+  "i do": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "well, ",
+  "i'm into",
+  "gears of",
+  "who are",
+  "actually, ",
+  "no, ",
+  "i saw",
+  "maybe you",
+  "what are",
+  "mm hmm",
+  "i know",
+  "i'm marisa",
+  "so, ",
+  "i'm unbelievably",
+  "yes, "
+ ],
+ "endKeys": []
+}

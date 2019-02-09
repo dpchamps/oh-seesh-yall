@@ -1,0 +1,193 @@
+{
+ "identifier": "GIDDILY",
+ "chains": {
+  "you hear": [
+   {
+    "probability": 1,
+    "value": "it's",
+    "count": 1
+   }
+  ],
+  "hear it's": [
+   {
+    "probability": 1,
+    "value": "like",
+    "count": 1
+   }
+  ],
+  "it's like": [
+   {
+    "probability": 1,
+    "value": "a",
+    "count": 1
+   }
+  ],
+  "like a": [
+   {
+    "probability": 1,
+    "value": "fairytale",
+    "count": 1
+   }
+  ],
+  "a fairytale": [
+   {
+    "probability": 1,
+    "value": "right",
+    "count": 1
+   }
+  ],
+  "fairytale right": [
+   {
+    "probability": 1,
+    "value": "?",
+    "count": 1
+   }
+  ],
+  "but when": [
+   {
+    "probability": 1,
+    "value": "it",
+    "count": 1
+   }
+  ],
+  "when it": [
+   {
+    "probability": 1,
+    "value": "actually",
+    "count": 1
+   }
+  ],
+  "it actually": [
+   {
+    "probability": 1,
+    "value": "happens",
+    "count": 1
+   }
+  ],
+  "actually happens": [
+   {
+    "probability": 1,
+    "value": "to",
+    "count": 1
+   }
+  ],
+  "happens to": [
+   {
+    "probability": 1,
+    "value": "friend's",
+    "count": 1
+   }
+  ],
+  "to friend's": [
+   {
+    "probability": 1,
+    "value": "friend's",
+    "count": 1
+   }
+  ],
+  "friend's friend's": [
+   {
+    "probability": 1,
+    "value": "sister",
+    "count": 1
+   }
+  ],
+  "friend's sister": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "sister, ": [
+   {
+    "probability": 1,
+    "value": "it's",
+    "count": 1
+   }
+  ],
+  ", it's": [
+   {
+    "probability": 1,
+    "value": "just",
+    "count": 1
+   }
+  ],
+  "it's just": [
+   {
+    "probability": 1,
+    "value": "like",
+    "count": 1
+   }
+  ],
+  "just like": [
+   {
+    "probability": 1,
+    "value": "oh",
+    "count": 1
+   }
+  ],
+  "like oh": [
+   {
+    "probability": 1,
+    "value": "my",
+    "count": 1
+   }
+  ],
+  "oh my": [
+   {
+    "probability": 1,
+    "value": "god",
+    "count": 1
+   }
+  ],
+  "my god": [
+   {
+    "probability": 1,
+    "value": "!",
+    "count": 1
+   }
+  ],
+  "i'm trembling": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "trembling, ": [
+   {
+    "probability": 1,
+    "value": "feel",
+    "count": 1
+   }
+  ],
+  ", feel": [
+   {
+    "probability": 1,
+    "value": "my",
+    "count": 1
+   }
+  ],
+  "feel my": [
+   {
+    "probability": 1,
+    "value": "heart",
+    "count": 1
+   }
+  ],
+  "my heart": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "you hear",
+  "but when",
+  "i'm trembling"
+ ],
+ "endKeys": []
+}

@@ -1,0 +1,167 @@
+{
+ "identifier": "LERRENCE",
+ "chains": {
+  "a fisherman": [
+   {
+    "probability": 1,
+    "value": "found",
+    "count": 1
+   }
+  ],
+  "fisherman found": [
+   {
+    "probability": 1,
+    "value": "me",
+    "count": 1
+   }
+  ],
+  "found me": [
+   {
+    "probability": 1,
+    "value": "when",
+    "count": 1
+   }
+  ],
+  "me when": [
+   {
+    "probability": 1,
+    "value": "i",
+    "count": 1
+   }
+  ],
+  "when i": [
+   {
+    "probability": 1,
+    "value": "was",
+    "count": 1
+   }
+  ],
+  "i was": [
+   {
+    "probability": 1,
+    "value": "nineteen",
+    "count": 1
+   }
+  ],
+  "was nineteen": [
+   {
+    "probability": 1,
+    "value": "years",
+    "count": 1
+   }
+  ],
+  "nineteen years": [
+   {
+    "probability": 1,
+    "value": "old",
+    "count": 1
+   }
+  ],
+  "years old": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "he named": [
+   {
+    "probability": 1,
+    "value": "me",
+    "count": 1
+   }
+  ],
+  "named me": [
+   {
+    "probability": 1,
+    "value": "lerrence",
+    "count": 1
+   }
+  ],
+  "me lerrence": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "lerrence, ": [
+   {
+    "probability": 1,
+    "value": "and",
+    "count": 1
+   }
+  ],
+  ", and": [
+   {
+    "probability": 1,
+    "value": "he",
+    "count": 1
+   }
+  ],
+  "and he": [
+   {
+    "probability": 1,
+    "value": "raised",
+    "count": 1
+   }
+  ],
+  "he raised": [
+   {
+    "probability": 1,
+    "value": "me",
+    "count": 1
+   }
+  ],
+  "raised me": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "yeah, ": [
+   {
+    "probability": 1,
+    "value": "but",
+    "count": 1
+   }
+  ],
+  "that's fair": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "that's more": [
+   {
+    "probability": 1,
+    "value": "then",
+    "count": 1
+   }
+  ],
+  "more then": [
+   {
+    "probability": 1,
+    "value": "fair",
+    "count": 1
+   }
+  ],
+  "then fair": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "a fisherman",
+  "he named",
+  "yeah, ",
+  "that's fair",
+  "that's more"
+ ],
+ "endKeys": []
+}

@@ -1,0 +1,213 @@
+{
+ "identifier": "BARISTA",
+ "chains": {
+  "we don't": [
+   {
+    "probability": 1,
+    "value": "serve",
+    "count": 2
+   }
+  ],
+  "don't serve": [
+   {
+    "probability": 0.5,
+    "value": "alcohol",
+    "count": 1
+   },
+   {
+    "probability": 0.5,
+    "value": "beer",
+    "count": 1
+   }
+  ],
+  "serve alcohol": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "so, ": [
+   {
+    "probability": 1,
+    "value": "you",
+    "count": 1
+   }
+  ],
+  ", you": [
+   {
+    "probability": 1,
+    "value": "want",
+    "count": 1
+   }
+  ],
+  "you want": [
+   {
+    "probability": 0.5,
+    "value": "two",
+    "count": 1
+   },
+   {
+    "probability": 0.5,
+    "value": "room",
+    "count": 1
+   }
+  ],
+  "want two": [
+   {
+    "probability": 1,
+    "value": "shots",
+    "count": 1
+   }
+  ],
+  "two shots": [
+   {
+    "probability": 1,
+    "value": "of",
+    "count": 1
+   }
+  ],
+  "shots of": [
+   {
+    "probability": 1,
+    "value": "espresso",
+    "count": 1
+   }
+  ],
+  "of espresso": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "espresso, ": [
+   {
+    "probability": 1,
+    "value": "one",
+    "count": 1
+   }
+  ],
+  ", one": [
+   {
+    "probability": 1,
+    "value": "ice",
+    "count": 1
+   }
+  ],
+  "one ice": [
+   {
+    "probability": 1,
+    "value": "coffee",
+    "count": 1
+   }
+  ],
+  "ice coffee": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "do you": [
+   {
+    "probability": 1,
+    "value": "want",
+    "count": 1
+   }
+  ],
+  "want room": [
+   {
+    "probability": 1,
+    "value": "?",
+    "count": 1
+   }
+  ],
+  "serve beer": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "sorry guys": [
+   {
+    "probability": 1,
+    "value": ",",
+    "count": 1
+   }
+  ],
+  "guys, ": [
+   {
+    "probability": 1,
+    "value": "i",
+    "count": 1
+   }
+  ],
+  ", i": [
+   {
+    "probability": 1,
+    "value": "have",
+    "count": 1
+   }
+  ],
+  "i have": [
+   {
+    "probability": 1,
+    "value": "other",
+    "count": 1
+   }
+  ],
+  "have other": [
+   {
+    "probability": 1,
+    "value": "customers",
+    "count": 1
+   }
+  ],
+  "other customers": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "we're cash": [
+   {
+    "probability": 1,
+    "value": "only",
+    "count": 1
+   }
+  ],
+  "cash only": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ],
+  "cash is": [
+   {
+    "probability": 1,
+    "value": "fine",
+    "count": 1
+   }
+  ],
+  "is fine": [
+   {
+    "probability": 1,
+    "value": ".",
+    "count": 1
+   }
+  ]
+ },
+ "startKeys": [
+  "we don't",
+  "so, ",
+  "do you",
+  "sorry guys",
+  "we're cash",
+  "cash is"
+ ],
+ "endKeys": []
+}

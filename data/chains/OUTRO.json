@@ -1,0 +1,31 @@
+{
+ "identifier": "OUTRO",
+ "chains": {
+  "amir people": [
+   {
+    "probability": 1,
+    "value": "!",
+    "count": 2
+   }
+  ],
+  "let's get": [
+   {
+    "probability": 1,
+    "value": "closer",
+    "count": 2
+   }
+  ],
+  "get closer": [
+   {
+    "probability": 1,
+    "value": "!",
+    "count": 2
+   }
+  ]
+ },
+ "startKeys": [
+  "amir people",
+  "let's get"
+ ],
+ "endKeys": []
+}
