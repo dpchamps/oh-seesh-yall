@@ -1,0 +1,1 @@
+{"name":"MILKMAN","dialog":[{"isOffScreen":false,"sentence":[{"type":4,"value":"Milkman"},{"type":5,"value":"."}]},{"isOffScreen":false,"sentence":[]}],"asides":[]}

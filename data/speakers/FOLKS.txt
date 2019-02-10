@@ -1,0 +1,1 @@
+{"name":"FOLKS","dialog":[{"isOffScreen":false,"sentence":[{"type":4,"value":"Chapel"},{"type":4,"value":"Hill"},{"type":5,"value":"."}]},{"isOffScreen":false,"sentence":[]}],"asides":[]}

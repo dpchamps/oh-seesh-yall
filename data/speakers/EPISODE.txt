@@ -1,0 +1,1 @@
+{"name":"EPISODE","dialog":[{"isOffScreen":false,"sentence":[]},{"isOffScreen":false,"sentence":[]},{"isOffScreen":false,"sentence":[]},{"isOffScreen":false,"sentence":[]},{"isOffScreen":true,"sentence":[]},{"isOffScreen":false,"sentence":[]}],"asides":[]}

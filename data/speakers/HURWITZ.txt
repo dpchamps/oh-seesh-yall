@@ -1,0 +1,1 @@
+{"name":"HURWITZ","dialog":[{"isOffScreen":false,"sentence":[{"type":4,"value":"He"},{"type":4,"value":"is"},{"type":6,"value":"?!"}]}],"asides":[]}

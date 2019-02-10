@@ -1,16 +1,1 @@
-{
- "identifier": "ROSE",
- "chains": {
-  "a therapist": [
-   {
-    "probability": 1,
-    "value": ".",
-    "count": 1
-   }
-  ]
- },
- "startKeys": [
-  "a therapist"
- ],
- "endKeys": []
-}
+{"identifier":"ROSE","chain":{},"startKeys":[],"endKeys":[]}

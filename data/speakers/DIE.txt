@@ -1,0 +1,1 @@
+{"name":"DIE","dialog":[{"isOffScreen":true,"sentence":[{"type":6,"value":"-"}]}],"asides":[]}

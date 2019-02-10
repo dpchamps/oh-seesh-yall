@@ -1,0 +1,1 @@
+{"name":"INTERN","dialog":[{"isOffScreen":false,"sentence":[{"type":4,"value":"What"},{"type":5,"value":"?"}]},{"isOffScreen":false,"sentence":[]}],"asides":[]}

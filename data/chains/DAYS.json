@@ -1,16 +1,1 @@
-{
- "identifier": "DAYS",
- "chains": {
-  "no intro": [
-   {
-    "probability": 1,
-    "value": ".",
-    "count": 1
-   }
-  ]
- },
- "startKeys": [
-  "no intro"
- ],
- "endKeys": []
-}
+{"identifier":"DAYS","chain":{},"startKeys":[],"endKeys":[]}

@@ -1,0 +1,1 @@
+{"name":"YELLING","dialog":[{"isOffScreen":false,"sentence":[{"type":4,"value":"Ow"},{"type":5,"value":"!"}]},{"isOffScreen":false,"sentence":[]},{"isOffScreen":false,"sentence":[{"type":4,"value":"I'm"},{"type":4,"value":"off"},{"type":5,"value":"!"}]},{"isOffScreen":false,"sentence":[]}],"asides":[]}

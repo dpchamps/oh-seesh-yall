@@ -1,0 +1,1 @@
+{"name":"INTERCOM","dialog":[{"isOffScreen":false,"sentence":[{"type":4,"value":"Hi"},{"type":6,"value":","},{"type":4,"value":"is"},{"type":4,"value":"everything"},{"type":4,"value":"OK"},{"type":5,"value":"?"}]},{"isOffScreen":false,"sentence":[]}],"asides":[]}

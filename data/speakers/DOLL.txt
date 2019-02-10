@@ -1,0 +1,1 @@
+{"name":"DOLL","dialog":[{"isOffScreen":false,"sentence":[{"type":4,"value":"Lets"},{"type":4,"value":"do"},{"type":4,"value":"something"},{"type":4,"value":"later"},{"type":5,"value":"."}]},{"isOffScreen":false,"sentence":[]}],"asides":[]}

@@ -1,16 +1,1 @@
-{
- "identifier": "YELLING",
- "chains": {
-  "i'm off": [
-   {
-    "probability": 1,
-    "value": "!",
-    "count": 1
-   }
-  ]
- },
- "startKeys": [
-  "i'm off"
- ],
- "endKeys": []
-}
+{"identifier":"YELLING","chain":{},"startKeys":[],"endKeys":[]}

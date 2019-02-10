@@ -1,0 +1,1 @@
+{"name":"KAT","dialog":[{"isOffScreen":false,"sentence":[{"type":4,"value":"Did"},{"type":4,"value":"you"},{"type":4,"value":"say"},{"type":4,"value":"something"},{"type":4,"value":"about"},{"type":4,"value":"Lydia"},{"type":6,"value":","},{"type":4,"value":"motherfucker"},{"type":5,"value":"?"}]},{"isOffScreen":false,"sentence":[]}],"asides":[]}

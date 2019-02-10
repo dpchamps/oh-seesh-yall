@@ -1,0 +1,1 @@
+{"name":"HALF","dialog":[{"isOffScreen":true,"sentence":[{"type":4,"value":"heartedly"},{"type":5,"value":"."}]},{"isOffScreen":true,"sentence":[]}],"asides":[]}

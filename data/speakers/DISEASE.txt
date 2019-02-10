@@ -1,0 +1,1 @@
+{"name":"DISEASE","dialog":[{"isOffScreen":false,"sentence":[]}],"asides":[]}

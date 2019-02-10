@@ -1,0 +1,1 @@
+{"name":"AGENT","dialog":[{"isOffScreen":false,"sentence":[{"type":4,"value":"Eeehhhhh"},{"type":5,"value":"!"}]},{"isOffScreen":false,"sentence":[]}],"asides":[]}

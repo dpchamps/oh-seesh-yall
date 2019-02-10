@@ -1,16 +1,1 @@
-{
- "identifier": "BREATH",
- "chains": {
-  "oh no": [
-   {
-    "probability": 1,
-    "value": ".",
-    "count": 1
-   }
-  ]
- },
- "startKeys": [
-  "oh no"
- ],
- "endKeys": []
-}
+{"identifier":"BREATH","chain":{},"startKeys":[],"endKeys":[]}

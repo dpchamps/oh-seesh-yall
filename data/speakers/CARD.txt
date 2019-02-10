@@ -1,0 +1,1 @@
+{"name":"CARD","dialog":[{"isOffScreen":false,"sentence":[{"type":4,"value":"The"},{"type":4,"value":"End"}]},{"isOffScreen":false,"sentence":[{"type":4,"value":"To"},{"type":4,"value":"Be"},{"type":4,"value":"Continued"},{"type":6,"value":"..."}]},{"isOffScreen":true,"sentence":[]}],"asides":[]}

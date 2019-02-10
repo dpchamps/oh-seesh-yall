@@ -3,10 +3,9 @@ import {Lexer} from "../lexer";
 import {Token} from "../lexer/token/Token";
 import {Speaker} from "./Speaker";
 
-const expectedSpeakers = [
-    'AMIR', 'SARAH', 'SARA', 'JAKE', 'PAT'
-];
-
+/**
+ * The parser class takes a buffer and lexes it into an key:value object of speaker name to {@link Speaker}.
+ */
 export class Parser {
     lexer: Lexer;
     tokens: Array<Token> = [new Token(TokenType.SOF, null)];
@@ -25,11 +24,9 @@ export class Parser {
     }
 
     parse() {
-
         while (!this.lastToken().is(TokenType.EOF)) {
             try {
-                const nextToken = this.lexer.getNextToken();
-
+                let nextToken = this.lexer.getNextToken();
 
                 switch (nextToken.type) {
                     case TokenType.Word:
@@ -45,21 +42,31 @@ export class Parser {
                         break;
                     case TokenType.AsideStart:
                     case TokenType.AsideEnd:
-                        this.parseAside(nextToken);
+                        if (nextToken.type === TokenType.AsideStart
+                            && this.currentSpeaker === null) {
+                            while (nextToken.type !== TokenType.AsideEnd) {
+                                nextToken = this.lexer.getNextToken();
+                            }
+                            continue;
+                        } else {
+                            this.parseAside(nextToken);
+                        }
                         break;
                     case TokenType.NEWLINE:
                         this.parseNewLine(nextToken);
                         break;
                     case TokenType.EOF:
                         break;
+                    case TokenType.NON_SPEECH_CHARACTER:
+                        continue;
                 }
 
                 this.tokens.push(nextToken);
             } catch (e) {
 
-                console.log(e);
-                this.lexer.toss();
+                console.log(`The parser encountered a error while grabbing the next token: ${e}`);
                 //toss the token
+                this.lexer.toss();
             }
         }
     }
@@ -100,6 +107,7 @@ export class Parser {
     }
 
     parseSpeaker(token: Token) {
+
         if (this.currentSpeaker !== null) {
             return;
         }
@@ -119,7 +127,7 @@ export class Parser {
         }
     }
 
-    parseNewLine(token : Token){
+    parseNewLine(token: Token) {
         this.currentSpeaker = null;
     }
 }

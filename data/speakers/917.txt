@@ -1,0 +1,1 @@
+{"name":"917","dialog":[{"isOffScreen":true,"sentence":[{"type":4,"value":"446"},{"type":6,"value":"-"},{"type":4,"value":"9701"},{"type":4,"value":"Call"},{"type":4,"value":"Now"},{"type":5,"value":"!"}]},{"isOffScreen":true,"sentence":[{"type":4,"value":"flashes"},{"type":4,"value":"repeatedly"},{"type":5,"value":"."}]},{"isOffScreen":true,"sentence":[]}],"asides":[]}

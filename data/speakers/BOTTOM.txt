@@ -1,0 +1,1 @@
+{"name":"BOTTOM","dialog":[{"isOffScreen":true,"sentence":[{"type":4,"value":"less"}]}],"asides":[]}

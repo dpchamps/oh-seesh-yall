@@ -1,0 +1,1 @@
+{"name":"GO","dialog":[{"isOffScreen":false,"sentence":[{"type":4,"value":"Who"},{"type":4,"value":"dares"},{"type":4,"value":"asks"},{"type":4,"value":"to"},{"type":4,"value":"be"},{"type":4,"value":"removed"},{"type":4,"value":"from"},{"type":4,"value":"this"},{"type":4,"value":"thread"},{"type":5,"value":"?"}]},{"isOffScreen":false,"sentence":[]}],"asides":[]}

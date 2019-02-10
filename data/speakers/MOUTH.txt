@@ -1,0 +1,1 @@
+{"name":"MOUTH","dialog":[{"isOffScreen":true,"sentence":[{"type":4,"value":"open"},{"type":4,"value":"with"},{"type":4,"value":"joy"},{"type":4,"value":"watching"},{"type":4,"value":"the"},{"type":4,"value":"playful"},{"type":4,"value":"confrontation"}]}],"asides":[]}

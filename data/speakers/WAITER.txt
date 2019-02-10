@@ -1,0 +1,1 @@
+{"name":"WAITER","dialog":[{"isOffScreen":false,"sentence":[{"type":4,"value":"My"},{"type":4,"value":"name"},{"type":4,"value":"is"},{"type":4,"value":"Terrence"},{"type":6,"value":";"},{"type":4,"value":"I'm"},{"type":4,"value":"adopted"},{"type":5,"value":"!"}]},{"isOffScreen":false,"sentence":[]}],"asides":[]}

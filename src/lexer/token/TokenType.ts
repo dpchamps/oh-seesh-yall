@@ -8,5 +8,6 @@ export const enum TokenType {
     GeneralPunctuation,
     EOF,
     SOF,
-    NEWLINE
+    NEWLINE,
+    NON_SPEECH_CHARACTER
 }

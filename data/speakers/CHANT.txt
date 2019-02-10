@@ -1,0 +1,1 @@
+{"name":"CHANT","dialog":[{"isOffScreen":false,"sentence":[{"type":4,"value":"Go"},{"type":4,"value":"home"},{"type":6,"value":","},{"type":4,"value":"Jake"},{"type":5,"value":"!"}]},{"isOffScreen":false,"sentence":[]}],"asides":[]}

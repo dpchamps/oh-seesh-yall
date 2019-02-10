@@ -1,6 +1,1 @@
-{
- "identifier": "EVERYONE",
- "chains": {},
- "startKeys": [],
- "endKeys": []
-}
+{"identifier":"EVERYONE","chain":{"surprise ...":{"content":[{"value":"whatever","probability":1,"count":1}],"maxCount":1,"totalCount":1},"... whatever":{"content":[{"value":".","probability":1,"count":1}],"maxCount":1,"totalCount":1}},"startKeys":["surprise ..."],"endKeys":["."]}

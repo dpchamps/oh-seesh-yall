@@ -1,0 +1,1 @@
+{"name":"RULES","dialog":[{"isOffScreen":false,"sentence":[{"type":4,"value":"I'll"},{"type":4,"value":"introduce"},{"type":4,"value":"the"},{"type":4,"value":"videos"},{"type":4,"value":"if"},{"type":6,"value":","},{"type":4,"value":"and"},{"type":4,"value":"Only"},{"type":4,"value":"if"},{"type":6,"value":"..."}]}],"asides":[]}

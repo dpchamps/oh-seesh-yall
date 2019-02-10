@@ -1,0 +1,1 @@
+{"name":"DAYS","dialog":[{"isOffScreen":true,"sentence":[{"type":4,"value":"no"},{"type":4,"value":"intro"},{"type":5,"value":"."}]},{"isOffScreen":true,"sentence":[]}],"asides":[]}

@@ -1,0 +1,1 @@
+{"name":"GIRLFRIEND","dialog":[{"isOffScreen":false,"sentence":[{"type":4,"value":"15"},{"type":4,"value":"more"},{"type":4,"value":"minutes"},{"type":5,"value":"."}]},{"isOffScreen":false,"sentence":[]}],"asides":[]}

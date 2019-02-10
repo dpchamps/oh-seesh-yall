@@ -1,0 +1,1 @@
+{"name":"RIGHT","dialog":[{"isOffScreen":false,"sentence":[{"type":4,"value":"we"},{"type":4,"value":"all"},{"type":4,"value":"made"},{"type":4,"value":"out"},{"type":4,"value":"like"},{"type":4,"value":"bandits"},{"type":5,"value":"."}]},{"isOffScreen":false,"sentence":[{"type":4,"value":"And"}]}],"asides":[]}

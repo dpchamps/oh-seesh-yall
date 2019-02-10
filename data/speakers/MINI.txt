@@ -1,0 +1,1 @@
+{"name":"MINI","dialog":[{"isOffScreen":true,"sentence":[{"type":4,"value":"skirt"},{"type":4,"value":"and"},{"type":4,"value":"pans"},{"type":4,"value":"back"},{"type":4,"value":"up"}]}],"asides":[]}

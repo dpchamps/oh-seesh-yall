@@ -1,0 +1,1 @@
+{"name":"LINK","dialog":[{"isOffScreen":false,"sentence":[]},{"isOffScreen":false,"sentence":[{"type":4,"value":"Jake"},{"type":4,"value":"And"},{"type":4,"value":"Amir"},{"type":6,"value":":"},{"type":4,"value":"Jacuzzi"}]}],"asides":[]}

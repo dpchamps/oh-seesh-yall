@@ -1,16 +1,1 @@
-{
- "identifier": "ARTIST",
- "chains": {
-  "n no": [
-   {
-    "probability": 1,
-    "value": ".",
-    "count": 1
-   }
-  ]
- },
- "startKeys": [
-  "n no"
- ],
- "endKeys": []
-}
+{"identifier":"ARTIST","chain":{"n -":{"content":[{"value":"no","probability":1,"count":1}],"maxCount":1,"totalCount":1},"- no":{"content":[{"value":"...","probability":1,"count":1}],"maxCount":1,"totalCount":1}},"startKeys":["n -"],"endKeys":["..."]}

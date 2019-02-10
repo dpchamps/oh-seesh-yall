@@ -1,0 +1,1 @@
+{"name":"PAUSING","dialog":[{"isOffScreen":false,"sentence":[{"type":4,"value":"Ok"},{"type":6,"value":","},{"type":4,"value":"it"},{"type":4,"value":"doesn't"},{"type":4,"value":"matter"}]}],"asides":[]}

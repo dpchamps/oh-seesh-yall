@@ -1,0 +1,1 @@
+{"name":"ELSE","dialog":[{"isOffScreen":false,"sentence":[{"type":4,"value":"No"},{"type":5,"value":"!"}]},{"isOffScreen":false,"sentence":[]}],"asides":[]}

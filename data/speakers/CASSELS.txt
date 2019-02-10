@@ -1,0 +1,1 @@
+{"name":"CASSELS","dialog":[{"isOffScreen":false,"sentence":[{"type":4,"value":"Jesus"},{"type":6,"value":","},{"type":4,"value":"Jake"},{"type":6,"value":","},{"type":4,"value":"why"},{"type":4,"value":"are"},{"type":4,"value":"you"},{"type":4,"value":"insecure"},{"type":5,"value":"?"}]},{"isOffScreen":false,"sentence":[]}],"asides":[]}

@@ -37,11 +37,13 @@ export class Lexer {
         if (this.is(LexerSymbols.ASIDE_END))
             return new Token(TokenType.AsideEnd, this.consume());
 
-        if (this.is(LexerSymbols.PUNCTUATION_FLOW))
-            return new Token(TokenType.GeneralPunctuation, this.consume());
-
-        if (this.is(LexerSymbols.PUNCTUATION_END))
-            return new Token(TokenType.EndPunctuation, this.consume());
+        if (this.is(LexerSymbols.PUNCTUATION)) {
+            const nextPunctuation = this.getPunctuation();
+            if (nextPunctuation.length === 1 && nextPunctuation.match(LexerSymbols.PUNCTUATION_END)) {
+                return new Token(TokenType.EndPunctuation, nextPunctuation);
+            }
+            return new Token(TokenType.GeneralPunctuation, nextPunctuation);
+        }
 
         if (this.is(LexerSymbols.NEWLINE))
             return new Token(TokenType.NEWLINE, this.consume());
@@ -50,7 +52,7 @@ export class Lexer {
             return new Token(TokenType.EOF, null);
 
 
-        throw new TypeError(`Reached an unexpected token: ${this.currentChar}`);
+        return new Token(TokenType.NON_SPEECH_CHARACTER, this.consume());
     }
 
 
@@ -74,7 +76,7 @@ export class Lexer {
         this.index -= 1;
 
         if (this.index < 0)
-            throw new RangeError(`The Lexer is trying to retreat passed the beginning of the buffer`);
+            throw new RangeError(`The Lexer is trying to retreat past the beginning of the buffer`);
 
         this.currentChar = this.buffer[this.index] || null;
     }
@@ -116,6 +118,26 @@ export class Lexer {
         }
 
         return potentialWord;
+    }
+
+    /**
+     * Groups punctuations.
+     * TODO: This could potentially be made "smarter" by attempting to group common punctuations.
+     *
+     * e.g. '.''.''.' -> '...' type: ellipses or '?''!''?' -> '?!?' shock
+     */
+    private getPunctuation(): string {
+        let nextPunctuation = '';
+
+        while (
+            this.is(LexerSymbols.PUNCTUATION_END)
+            || this.is(LexerSymbols.PUNCTUATION_FLOW)
+            ) {
+            nextPunctuation += this.currentChar;
+            this.advance();
+        }
+
+        return nextPunctuation;
     }
 
     private consume(): string | null {

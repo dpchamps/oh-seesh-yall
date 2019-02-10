@@ -1,0 +1,1 @@
+{"name":"SU","dialog":[{"isOffScreen":true,"sentence":[{"type":4,"value":"rry"},{"type":6,"value":"..."}]}],"asides":[]}

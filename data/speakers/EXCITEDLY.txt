@@ -1,0 +1,1 @@
+{"name":"EXCITEDLY","dialog":[{"isOffScreen":false,"sentence":[{"type":4,"value":"The"},{"type":4,"value":"bachelorette"},{"type":4,"value":"party"},{"type":5,"value":"!"}]},{"isOffScreen":false,"sentence":[]}],"asides":[]}

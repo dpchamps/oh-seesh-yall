@@ -1,0 +1,1 @@
+{"name":"BACK","dialog":[{"isOffScreen":true,"sentence":[{"type":4,"value":"front"},{"type":4,"value":"po"},{"type":6,"value":"—"}]}],"asides":[{"isOffScreen":true,"sentence":[{"type":4,"value":"drops"},{"type":4,"value":"his"},{"type":4,"value":"phone"}]}]}

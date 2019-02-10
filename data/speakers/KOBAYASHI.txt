@@ -1,0 +1,1 @@
+{"name":"KOBAYASHI","dialog":[{"isOffScreen":false,"sentence":[{"type":4,"value":"Yeah"},{"type":5,"value":"."}]},{"isOffScreen":false,"sentence":[]}],"asides":[{"isOffScreen":false,"sentence":[{"type":4,"value":"Both"},{"type":4,"value":"wearing"},{"type":4,"value":"sunglasses"}]}]}

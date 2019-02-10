@@ -1,0 +1,1 @@
+{"name":"EVERYBODY","dialog":[{"isOffScreen":false,"sentence":[{"type":4,"value":"Boo"},{"type":5,"value":"!"}]},{"isOffScreen":false,"sentence":[{"type":4,"value":"Boo"},{"type":5,"value":"!"}]},{"isOffScreen":false,"sentence":[]},{"isOffScreen":false,"sentence":[{"type":4,"value":"Surprise"},{"type":6,"value":"!!!!"}]}],"asides":[]}

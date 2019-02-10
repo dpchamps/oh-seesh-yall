@@ -1,0 +1,1 @@
+{"name":"YOU","dialog":[{"isOffScreen":false,"sentence":[{"type":4,"value":"I"},{"type":4,"value":"finish"},{"type":4,"value":"all"},{"type":4,"value":"this"},{"type":4,"value":"food"},{"type":4,"value":"in"}]}],"asides":[]}

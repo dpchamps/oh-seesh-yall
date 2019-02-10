@@ -1,0 +1,1 @@
+{"name":"AMIRE","dialog":[{"isOffScreen":false,"sentence":[{"type":4,"value":"What"},{"type":4,"value":"is"},{"type":4,"value":"the"},{"type":4,"value":"odds"},{"type":6,"value":".."}]}],"asides":[]}

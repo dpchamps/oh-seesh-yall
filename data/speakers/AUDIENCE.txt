@@ -1,0 +1,1 @@
+{"name":"AUDIENCE","dialog":[{"isOffScreen":false,"sentence":[{"type":4,"value":"Hey"},{"type":5,"value":"!"}]},{"isOffScreen":false,"sentence":[]}],"asides":[]}

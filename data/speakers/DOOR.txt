@@ -1,0 +1,1 @@
+{"name":"DOOR","dialog":[{"isOffScreen":false,"sentence":[{"type":4,"value":"Oh"},{"type":5,"value":"."}]},{"isOffScreen":false,"sentence":[{"type":4,"value":"He's"},{"type":4,"value":"right"},{"type":4,"value":"here"},{"type":5,"value":"."}]},{"isOffScreen":false,"sentence":[]}],"asides":[]}

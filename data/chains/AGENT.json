@@ -1,6 +1,1 @@
-{
- "identifier": "AGENT",
- "chains": {},
- "startKeys": [],
- "endKeys": []
-}
+{"identifier":"AGENT","chain":{},"startKeys":[],"endKeys":[]}

@@ -1,0 +1,1 @@
+{"name":"WAR","dialog":[{"isOffScreen":false,"sentence":[{"type":4,"value":"sixty"},{"type":4,"value":"and"},{"type":4,"value":"nine"},{"type":6,"value":","},{"type":4,"value":"that"},{"type":4,"value":"wore"}]}],"asides":[]}

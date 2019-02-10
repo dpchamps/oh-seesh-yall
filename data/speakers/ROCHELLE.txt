@@ -1,0 +1,1 @@
+{"name":"ROCHELLE","dialog":[{"isOffScreen":false,"sentence":[{"type":4,"value":"Rochelle"},{"type":5,"value":"."}]},{"isOffScreen":false,"sentence":[]}],"asides":[]}

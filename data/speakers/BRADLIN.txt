@@ -1,0 +1,1 @@
+{"name":"BRADLIN","dialog":[{"isOffScreen":false,"sentence":[{"type":4,"value":"ONE"},{"type":6,"value":","},{"type":4,"value":"TWO"},{"type":6,"value":","},{"type":4,"value":"THREE"},{"type":6,"value":","},{"type":4,"value":"FOUR"},{"type":5,"value":"!"}]},{"isOffScreen":false,"sentence":[]}],"asides":[]}

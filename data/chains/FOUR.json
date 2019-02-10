@@ -1,6 +1,1 @@
-{
- "identifier": "FOUR",
- "chains": {},
- "startKeys": [],
- "endKeys": []
-}
+{"identifier":"FOUR","chain":{"it ..":{"content":[{"value":"don't","probability":1,"count":1}],"maxCount":1,"totalCount":1},".. don't":{"content":[{"value":"..","probability":1,"count":1}],"maxCount":1,"totalCount":1}},"startKeys":["it .."],"endKeys":[".."]}

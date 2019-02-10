@@ -1,16 +1,1 @@
-{
- "identifier": "SAYS",
- "chains": {
-  "to be": [
-   {
-    "probability": 1,
-    "value": "continued",
-    "count": 1
-   }
-  ]
- },
- "startKeys": [
-  "to be"
- ],
- "endKeys": []
-}
+{"identifier":"SAYS","chain":{},"startKeys":[],"endKeys":[]}

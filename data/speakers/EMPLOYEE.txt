@@ -1,0 +1,1 @@
+{"name":"EMPLOYEE","dialog":[{"isOffScreen":false,"sentence":[{"type":4,"value":"You're"},{"type":4,"value":"gonna"},{"type":4,"value":"have"},{"type":4,"value":"to"},{"type":6,"value":"..."}]},{"isOffScreen":false,"sentence":[{"type":4,"value":"Talk"},{"type":4,"value":"to"},{"type":4,"value":"my"},{"type":4,"value":"boss"}]}],"asides":[]}

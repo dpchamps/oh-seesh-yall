@@ -1,0 +1,1 @@
+{"name":"MOUTHS","dialog":[{"isOffScreen":false,"sentence":[{"type":4,"value":"I"},{"type":4,"value":"don't"},{"type":4,"value":"want"},{"type":4,"value":"one"},{"type":5,"value":"."}]},{"isOffScreen":false,"sentence":[]}],"asides":[]}

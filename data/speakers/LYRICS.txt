@@ -1,0 +1,1 @@
+{"name":"LYRICS","dialog":[{"isOffScreen":false,"sentence":[]}],"asides":[{"isOffScreen":false,"sentence":[{"type":4,"value":"as"},{"type":4,"value":"in"},{"type":4,"value":"the"},{"type":4,"value":"video"}]}]}

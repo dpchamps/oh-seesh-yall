@@ -1,0 +1,1 @@
+{"name":"PASSERBY","dialog":[{"isOffScreen":false,"sentence":[{"type":4,"value":"Yeah"},{"type":6,"value":","},{"type":4,"value":"a"},{"type":4,"value":"blowjob"},{"type":5,"value":"."}]},{"isOffScreen":false,"sentence":[]}],"asides":[]}

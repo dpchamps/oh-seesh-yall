@@ -1,0 +1,1 @@
+{"name":"ROSE","dialog":[{"isOffScreen":false,"sentence":[{"type":4,"value":"A"},{"type":4,"value":"therapist"},{"type":5,"value":"."}]},{"isOffScreen":false,"sentence":[]}],"asides":[]}

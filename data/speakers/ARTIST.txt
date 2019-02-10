@@ -1,0 +1,1 @@
+{"name":"ARTIST","dialog":[{"isOffScreen":false,"sentence":[{"type":4,"value":"N"},{"type":6,"value":"-"},{"type":4,"value":"No"},{"type":6,"value":"..."}]}],"asides":[]}

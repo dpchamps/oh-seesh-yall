@@ -1,0 +1,1 @@
+{"name":"MARTIN","dialog":[{"isOffScreen":false,"sentence":[{"type":4,"value":"What's"},{"type":4,"value":"with"},{"type":4,"value":"the"},{"type":4,"value":"nametags"},{"type":5,"value":"?"}]},{"isOffScreen":false,"sentence":[]}],"asides":[]}

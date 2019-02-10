@@ -1,0 +1,1 @@
+{"name":"ADAM","dialog":[{"isOffScreen":false,"sentence":[{"type":4,"value":"Nobody"},{"type":4,"value":"else"},{"type":4,"value":"stood"},{"type":4,"value":"up"},{"type":4,"value":"when"},{"type":4,"value":"they"},{"type":4,"value":"pitched"},{"type":4,"value":"ideas"},{"type":5,"value":"."}]},{"isOffScreen":false,"sentence":[]}],"asides":[]}

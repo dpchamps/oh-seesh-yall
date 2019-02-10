@@ -1,0 +1,1 @@
+{"name":"MONTH","dialog":[{"isOffScreen":true,"sentence":[{"type":4,"value":"or"},{"type":4,"value":"two"},{"type":5,"value":"."}]},{"isOffScreen":true,"sentence":[{"type":4,"value":"I"},{"type":4,"value":"dunno"},{"type":5,"value":"."}]},{"isOffScreen":true,"sentence":[]}],"asides":[]}

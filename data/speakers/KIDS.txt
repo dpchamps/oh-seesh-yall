@@ -1,0 +1,1 @@
+{"name":"KIDS","dialog":[{"isOffScreen":false,"sentence":[{"type":4,"value":"USA"},{"type":5,"value":"!"}]},{"isOffScreen":false,"sentence":[{"type":4,"value":"USA"},{"type":5,"value":"!"}]},{"isOffScreen":false,"sentence":[{"type":4,"value":"USA"},{"type":5,"value":"!"}]},{"isOffScreen":false,"sentence":[]}],"asides":[]}

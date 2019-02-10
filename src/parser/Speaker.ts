@@ -1,6 +1,16 @@
 import {Token} from "../lexer/token/Token";
 import {TokenType} from "../lexer/token/TokenType";
 
+export interface ISerializableDialogLine {
+    sentence: Array<{ type: number; value: any }>;
+    isOffScreen: boolean;
+}
+
+export interface ISerializableSpeaker {
+    name: string;
+    dialog: Array<ISerializableDialogLine>,
+    asides: Array<ISerializableDialogLine>
+}
 
 export class Speaker {
     name: string;
@@ -27,11 +37,6 @@ export class Speaker {
         this.asides[this.asides.length - 1].addWord(token);
     }
 
-    removeLastWord() {
-        if (this.dialog.length)
-            this.dialog[this.dialog.length - 1].sentence.pop();
-    }
-
     getNextDialog(isOffscreen: boolean = this.getCurrentScreenPosition()) {
         this.dialog.push(new DialogLine(isOffscreen));
     }
@@ -48,6 +53,22 @@ export class Speaker {
         if (this.dialog.length === 0)
             throw new TypeError(`Current dialog for speaker ${this.name} doesn't exist.`);
         return this.dialog[this.dialog.length - 1].isOffScreen;
+    }
+
+    toJSON() {
+        return {
+            name: this.name,
+            dialog: this.dialog,
+            asides: this.asides
+        }
+    }
+
+    static fromJSON(speakerObject: ISerializableSpeaker): Speaker {
+        const speaker = new Speaker(speakerObject.name);
+        speaker.asides = speakerObject.asides.map(DialogLine.fromJSON);
+        speaker.dialog = speakerObject.dialog.map(DialogLine.fromJSON);
+
+        return speaker;
     }
 }
 
@@ -71,5 +92,19 @@ class DialogLine {
 
     toString() {
         return this.sentence.join(' ');
+    }
+
+    toJSON() {
+        return {
+            isOffScreen: this.isOffScreen,
+            sentence: this.sentence
+        }
+    }
+
+    static fromJSON(dialogLineObject: ISerializableDialogLine): DialogLine {
+        const dialogLine = new DialogLine(dialogLineObject.isOffScreen);
+        dialogLine.sentence = dialogLineObject.sentence.map(tokenObject => new Token(tokenObject.type, tokenObject.value));
+
+        return dialogLine;
     }
 }

@@ -1,0 +1,1 @@
+{"name":"FAMILY","dialog":[{"isOffScreen":false,"sentence":[{"type":4,"value":"Yes"},{"type":5,"value":"."}]},{"isOffScreen":false,"sentence":[]}],"asides":[]}

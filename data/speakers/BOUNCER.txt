@@ -1,0 +1,1 @@
+{"name":"BOUNCER","dialog":[{"isOffScreen":false,"sentence":[{"type":4,"value":"C'mon"},{"type":6,"value":","},{"type":4,"value":"this"},{"type":4,"value":"is"},{"type":4,"value":"a"},{"type":4,"value":"fake"},{"type":4,"value":"ID"},{"type":6,"value":","},{"type":4,"value":"man"},{"type":5,"value":"!"}]},{"isOffScreen":false,"sentence":[]}],"asides":[]}

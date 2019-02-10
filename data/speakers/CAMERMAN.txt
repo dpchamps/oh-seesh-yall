@@ -1,0 +1,1 @@
+{"name":"CAMERMAN","dialog":[{"isOffScreen":false,"sentence":[{"type":4,"value":"Be"},{"type":4,"value":"a"},{"type":4,"value":"little"},{"type":4,"value":"careful"},{"type":6,"value":","},{"type":4,"value":"she's"},{"type":4,"value":"a"},{"type":4,"value":"bit"},{"type":4,"value":"crazy"},{"type":5,"value":"."}]},{"isOffScreen":false,"sentence":[]}],"asides":[]}

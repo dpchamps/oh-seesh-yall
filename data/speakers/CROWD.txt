@@ -1,0 +1,1 @@
+{"name":"CROWD","dialog":[{"isOffScreen":false,"sentence":[{"type":4,"value":"Where's"},{"type":4,"value":"our"},{"type":4,"value":"50"},{"type":5,"value":"?"}]},{"isOffScreen":false,"sentence":[]}],"asides":[]}
